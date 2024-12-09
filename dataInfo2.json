@@ -1,0 +1,494 @@
+{
+  "elements": [
+    {
+      "config": {
+        "name": "website"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "16px",
+        "fontWeight": 300,
+        "letterSpacing": "0em",
+        "lineHeight": "21px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "www.reallygreatsite.com",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "address"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "16px",
+        "fontWeight": 300,
+        "letterSpacing": "0em",
+        "lineHeight": "21px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "123 Anywhere St., Any City, ST 12345",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Email address"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "16px",
+        "fontWeight": 300,
+        "letterSpacing": "0em",
+        "lineHeight": "21px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "hello@reallygreatsite.com",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Contact number"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "16px",
+        "fontWeight": 300,
+        "letterSpacing": "0em",
+        "lineHeight": "21px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "+123-456-7890",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "contact information heading"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "25px",
+        "fontWeight": 600,
+        "letterSpacing": "0em",
+        "lineHeight": "40px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Get in Touch",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "src": "blob:https://www.canva.com/ec8f6e4d-179b-43af-9b19-19de4aad43d4"
+      },
+      "height": "67px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Real Estate Logo",
+      "type": "image",
+      "width": "55px",
+      "x": "58",
+      "y": "416"
+    },
+    {
+      "config": {
+        "name": "list itme 6"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "lineHeight": "29px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Garage",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "list item 5"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "lineHeight": "29px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Swimming Pool",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "list item 4"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "lineHeight": "29px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Modern Kitchen",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "list item 3"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "lineHeight": "29px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Living Room",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "list item 2"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "lineHeight": "29px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "2 Bathrooms",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "list itme 1"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "lineHeight": "29px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "2 Bedrooms",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "content"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "25px",
+        "fontWeight": 600,
+        "letterSpacing": "0em",
+        "lineHeight": "40px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Property Features",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "House for sale"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "64px",
+        "fontWeight": 700,
+        "letterSpacing": "0em",
+        "lineHeight": "64px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "House For Sale.",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Warner & Spencer"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "24px",
+        "fontWeight": 900,
+        "letterSpacing": "-0.009em",
+        "lineHeight": "26px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Liceria & Co.",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "company"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "21px",
+        "fontWeight": 300,
+        "letterSpacing": "0em",
+        "lineHeight": "24px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Real Estate",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "src": "https://media-public.canva.com/MADGxrhjZ8A/4/screen.jpg"
+      },
+      "height": "647px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Blue and Gray Concrete House With Attic during Twilight",
+      "type": "image",
+      "width": "793px",
+      "x": "0",
+      "y": "0"
+    },
+    {
+      "config": {
+        "src": "https://media-public.canva.com/4gV7g/MADw3k4gV7g/1/t.jpg"
+      },
+      "height": "121px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Photo of Bedroom",
+      "type": "image",
+      "width": "263px",
+      "x": "58",
+      "y": "679"
+    },
+    {
+      "config": {
+        "src": "https://media-public.canva.com/BpCrA/MAEuhCBpCrA/1/t.jpg"
+      },
+      "height": "121px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Minimalist Interior ,Yellow Sofa Furniture and Plants,Green Mode",
+      "type": "image",
+      "width": "263px",
+      "x": "58",
+      "y": "817"
+    },
+    {
+      "config": {
+        "src": "https://media-public.canva.com/Qq3_A/MAEgNmQq3_A/1/t.jpg"
+      },
+      "height": "123px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Interior of a Modern Kitchen",
+      "type": "image",
+      "width": "263px",
+      "x": "58",
+      "y": "955"
+    }
+  ],
+  "height": "100%",
+  "width": "100%",
+  "title": "",
+  "style": {},
+  "id": ""
+}

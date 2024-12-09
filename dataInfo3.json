@@ -1,0 +1,347 @@
+{
+  "elements": [
+    {
+      "config": {
+        "name": "heading"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#0a2449",
+        "fontSize": "116px",
+        "fontWeight": 900,
+        "letterSpacing": "0em",
+        "lineHeight": "163px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Business",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "sub-heading"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#0a2449",
+        "fontSize": "96px",
+        "fontWeight": 700,
+        "letterSpacing": "0em",
+        "lineHeight": "135px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Webinar",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "src": "https://media-public.canva.com/Hmco8/MAEbq-Hmco8/1/s.jpg"
+      },
+      "height": "426px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Profile",
+      "type": "image",
+      "width": "285px",
+      "x": "396",
+      "y": "388"
+    },
+    {
+      "config": {
+        "src": "blob:https://www.canva.com/991bf079-4076-46b2-8fed-ebdcd86d01ac"
+      },
+      "height": "96px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Business finance design logo",
+      "type": "image",
+      "width": "96px",
+      "x": "79",
+      "y": "76"
+    },
+    {
+      "config": {
+        "name": "brand name"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "51px",
+        "fontWeight": 700,
+        "letterSpacing": "0em",
+        "lineHeight": "71px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Salford & Co.",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Sub-title"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "34px",
+        "fontWeight": 700,
+        "letterSpacing": "0em",
+        "lineHeight": "48px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Grow Your Business",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "register now"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "40px",
+        "fontWeight": 700,
+        "letterSpacing": "0em",
+        "lineHeight": "56px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Register Now",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Date"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "51px",
+        "fontWeight": 700,
+        "letterSpacing": "0em",
+        "lineHeight": "71px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "5 July, 2024",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Time"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "34px",
+        "fontWeight": 700,
+        "letterSpacing": "0em",
+        "lineHeight": "48px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "7:00Pm - 9:00Pm",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Information heading"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#111423",
+        "fontSize": "41px",
+        "fontWeight": 700,
+        "letterSpacing": "0em",
+        "lineHeight": "57px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "More Information",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Phone number"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "37px",
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "lineHeight": "52px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "+123-456-7890",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Address"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#fff",
+        "fontSize": "30px",
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "lineHeight": "42px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "123 Anywhere St., Any City,ST 12345",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "src": "blob:https://www.canva.com/5395a7f8-d41e-421b-89b2-7cde2718a18a"
+      },
+      "height": "48px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Phone in Circle Illustration",
+      "type": "image",
+      "width": "48px",
+      "x": "79",
+      "y": "917"
+    },
+    {
+      "config": {
+        "src": ""
+      },
+      "height": "59px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "GPS Location Pin",
+      "type": "image",
+      "width": "48px",
+      "x": "79",
+      "y": "974"
+    }
+  ],
+  "height": "1122px",
+  "width": "793px%",
+  "title": "",
+  "style": {},
+  "id": ""
+}

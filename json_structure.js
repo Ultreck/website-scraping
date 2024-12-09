@@ -1,0 +1,168 @@
+const pages = [
+  {
+    text: {
+      Elements: [
+        {
+          config: {
+            name: "",
+          },
+          height: "",
+          id: "",
+          rotate: 0,
+          style: {
+            animationDuration: "1s",
+            animationName: "",
+            color: "#000000",
+            fontSize: "",
+            fontWeight: "normal",
+            letterSpacing: "0px",
+            lineHeight: "1",
+            opacity: 1,
+            shadow: "",
+            textAlign: "left",
+          },
+          text: "",
+          type: "",
+          width: "",
+          x: 0,
+          y: 0,
+        },
+      ],
+      height: "",
+      id: "",
+      style: {
+        background: "#ffffff",
+      },
+      title: "",
+      width: "",
+    },
+    chart: {
+      Elements: [
+        {
+          config: {
+            backgroundColor: "#000",
+            backgroundImage: null,
+            config: {
+              bars: 5,
+              color: [
+                "#E66B5B",
+                "#1D9085",
+                "#264A5A",
+                "#E8C22C",
+                "#F6881F",
+                "#E66B5B",
+                "#1D9085",
+                "#264A5A",
+                "#E8C22C",
+                "#F6881F",
+              ],
+              data: [],
+              gradientColor: "#FFFFFF",
+              keys: {x: "name", y: "value"},
+              name: "",
+              showLegend: false,
+              useGradient: false,
+              styles: {
+                fontFamily: "Roboto",
+                fontSize: "14px",
+                fontWeight: "normal",
+                padding: "5px",
+                textAlign: "left",
+              }
+            },
+            fontWeight: "normal",
+            textAlign: "left",
+            textDecoration: "none",
+            textTransform: "none",
+          },
+          height: "",
+          id: "",
+          rotate: 0,
+          style: {},
+          text: "",
+          type: "chart",
+          width: "",
+          x: 0,
+          y: 0,
+        },
+      ],
+      height: "",
+      id: "",
+      style: {
+        background: "#ffffff",
+      },
+      title: "",
+      width: "",
+    },
+    image: {
+      Elements: [
+        {
+          config: {
+            src: "",
+          },
+          height: "",
+          id: "",
+          rotate: 0,
+          style: {
+            animationDuration: "1s",
+            animationName: "",
+            color: "#000000",
+            borderRadius: 0,
+            borderWidth: 0,
+            opacity: 1,
+            shadow: "",
+          },
+          text: "",
+          type: "image",
+          width: "",
+          x: 0,
+          y: 0,
+        },
+      ],
+      height: "",
+      id: "",
+      style: {
+        background: "#ffffff",
+      },
+      title: "",
+      width: "",
+    },
+    shape: {
+      Elements: [
+        {
+          config: {
+            name: "",
+          },
+          height: "",
+          id: "",
+          rotate: 0,
+          style: {
+            animationDuration: "1s",
+            animationName: "",
+            background: "#ddd",
+            borderColor: "#000000",
+            borderRadius: 0,
+            borderWidth: 0,
+            opacity: 1,
+            order: null,
+            shadow: "",
+          },
+          text: "",
+          type: "shape",
+          width: "",
+          x: 0,
+          y: 0,
+        },
+      ],
+      height: "",
+      id: "",
+      style: {
+        background: "#ffffff",
+      },
+      title: "",
+      width: "",
+    },
+  },
+];
+ 
+module.exports =  {pages}; 

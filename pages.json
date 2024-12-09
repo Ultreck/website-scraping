@@ -1,0 +1,217 @@
+{
+  "pages": [
+    {
+      "config": {
+        "name": "heading"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#0a2449",
+        "fontSize": "113.289px",
+        "fontWeight": 700,
+        "letterSpacing": "-0.005em",
+        "lineHeight": "101px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Graphic Design",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "website"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#0a2449",
+        "fontSize": "34px",
+        "fontWeight": 500,
+        "letterSpacing": "0em",
+        "lineHeight": "41px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "reallygreatsite.com",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "company"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#e18d00",
+        "fontSize": "85px",
+        "fontWeight": 700,
+        "letterSpacing": "-0.04em",
+        "lineHeight": "93px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Company",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "text content"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#0a2449",
+        "fontSize": "28px",
+        "fontWeight": 400,
+        "letterSpacing": "0.01em",
+        "lineHeight": "38px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "We Are The Coolest Professional Graphic Design Company in Serang, Banten",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "name": "Button Text"
+      },
+      "height": "",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#ffffff",
+        "fontSize": "37px",
+        "fontWeight": 700,
+        "letterSpacing": "0.01em",
+        "lineHeight": "42px",
+        "opacity": 1,
+        "shadow": "",
+        "textAlign": "left"
+      },
+      "text": "Learn More",
+      "type": "text",
+      "width": "",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "config": {
+        "src": "blob:https://www.canva.com/8f4576a9-1bc7-455c-b107-1b4633473544"
+      },
+      "height": "24px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Button Play Image",
+      "type": "image",
+      "width": "19px",
+      "x": "-1.77636e-15",
+      "y": "0"
+    },
+    {
+      "config": {
+        "src": "https://media.canva.com/v2/image-resize/format:PNG/height:530/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FVXLGY%2FMAGX2NVXLGY%2F1%2Fp.png/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAKqZsm3fS6T4gOzpEjXsW4igKEZGZ05e2A5zwpgd6Ive&exp=1733089511&osig=AAAAAAAAAAAAAAAAAAAAAKHNmh9HWRo3bO_yEEBjMP1DjwY4baM7TPxtzut1np_W&signer=media-rpc&x-canva-quality=screen"
+      },
+      "height": "514.629px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Image",
+      "type": "image",
+      "width": "775.335px",
+      "x": "250",
+      "y": "250"
+    },
+    {
+      "config": {
+        "src": "blob:https://www.canva.com/b8ce8f33-9c6c-4a27-af88-e14c53d75c91"
+      },
+      "height": "437px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Modern Geo Semicircle",
+      "type": "image",
+      "width": "874px",
+      "x": "0",
+      "y": "0"
+    },
+    {
+      "config": {
+        "src": "blob:https://www.canva.com/3bc04950-4e40-49a3-9486-274082a414cb"
+      },
+      "height": "403px",
+      "id": "",
+      "rotate": 0,
+      "style": {
+        "animationDuration": "1s",
+        "animationName": "",
+        "color": "#000000",
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "opacity": 1,
+        "shadow": ""
+      },
+      "text": "Half Circle Line Art",
+      "type": "image",
+      "width": "792px",
+      "x": "0",
+      "y": "0"
+    }
+  ]
+}
