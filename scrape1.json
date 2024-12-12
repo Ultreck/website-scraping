@@ -1,0 +1,460 @@
+[
+  [
+    {
+      "tagName": "span",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 626.9874877929688,
+        "y": 125,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tagName": "span",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 626.9874877929688,
+        "y": 125,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tagName": "span",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 662.9874877929688,
+        "y": 125,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tagName": "span",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 662.9874877929688,
+        "y": 125,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tagName": "span",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 698.9874877929688,
+        "y": 125,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tagName": "span",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 698.9874877929688,
+        "y": 125,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "https://media-public.canva.com/sRXDI/MAEH-esRXDI/1/s.jpg",
+      "width": 750,
+      "height": 500,
+      "name": null,
+      "position": {
+        "x": 354.7373046875,
+        "y": 240.5367889404297,
+        "width": 266.3667907714844,
+        "height": 177.4683837890625
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "blob:https://www.canva.com/3f6feff7-a7d6-490c-a808-5268527d23de",
+      "width": 494,
+      "height": 444,
+      "name": "Hand drawn circle line",
+      "position": {
+        "x": 370.9635314941406,
+        "y": 234.4928436279297,
+        "width": 210.16197204589844,
+        "height": 189.1420135498047
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "https://media-public.canva.com/Wrk-Q/MAEZ-7Wrk-Q/1/s.jpg",
+      "width": 750,
+      "height": 500,
+      "name": "Happy mother washing baby clothes in machine",
+      "position": {
+        "x": 458.8417663574219,
+        "y": 303.1579284667969,
+        "width": 221.30386352539062,
+        "height": 147.44497680664062
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "blob:https://www.canva.com/3f6feff7-a7d6-490c-a808-5268527d23de",
+      "width": 385,
+      "height": 346,
+      "name": "Hand drawn circle line",
+      "position": {
+        "x": 495.5411071777344,
+        "y": 301.2134704589844,
+        "width": 163.82656860351562,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "https://media-public.canva.com/Z6YqA/MAE7afZ6YqA/1/s.jpg",
+      "width": 750,
+      "height": 500,
+      "name": "People Inside Laundry Facility",
+      "position": {
+        "x": 594.6044921875,
+        "y": 367.8200988769531,
+        "width": 182.0403289794922,
+        "height": 121.2854232788086
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "blob:https://www.canva.com/3f6feff7-a7d6-490c-a808-5268527d23de",
+      "width": 341,
+      "height": 306,
+      "name": "Hand drawn circle line",
+      "position": {
+        "x": 593.1724853515625,
+        "y": 363.21331787109375,
+        "width": 144.9943389892578,
+        "height": 130.49490356445312
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "blob:https://www.canva.com/7c96ba4e-9432-4c2e-a1e0-53e722e45a51",
+      "width": 26,
+      "height": 26,
+      "name": "Phone Call Glyph Icon",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "p",
+      "text": "123-456-7890",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 440.5505065917969,
+        "y": 579.0225219726562,
+        "width": 74.08271789550781,
+        "height": 14.419970512390137
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "123-456-7890",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 440.5505065917969,
+        "y": 578.4981689453125,
+        "width": 74.09907531738281,
+        "height": 14.682177543640137
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "blob:https://www.canva.com/d15e8beb-689c-4edd-a1ad-53df52c1b365",
+      "width": 26,
+      "height": 26,
+      "name": "location glyph icon",
+      "position": {
+        "x": 526.6220092773438,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "p",
+      "text": "123 Anywhere St., Any City",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 548.3619995117188,
+        "y": 579.0225219726562,
+        "width": 140.82432556152344,
+        "height": 14.419970512390137
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "123 Anywhere St., Any City",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 548.3619995117188,
+        "y": 578.4981689453125,
+        "width": 135.9412078857422,
+        "height": 14.682177543640137
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "https://media-public.canva.com/_Il3A/MADWDV_Il3A/2/t.png",
+      "width": 167,
+      "height": 124,
+      "name": "Brushstroke Arrow Smooth Curve Down",
+      "position": {
+        "x": 573.8864135742188,
+        "y": 480.0534362792969,
+        "width": 88.5750961303711,
+        "height": 83.94526672363281
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "blob:https://www.canva.com/f8029a2b-1a42-492d-bdc7-e42593ae8b4c",
+      "width": 164,
+      "height": 41,
+      "name": "Horiz More Icon",
+      "position": {
+        "x": 394.6411437988281,
+        "y": 171.710693359375,
+        "width": 70.0007553100586,
+        "height": 17.496191024780273
+      }
+    },
+    {
+      "tagName": "p",
+      "text": "laundry",
+      "color": "rgb(176, 224, 94)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 497.9465026855469,
+        "y": 182.37503051757812,
+        "width": 192.0412139892578,
+        "height": 45.76811599731445
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "laundry",
+      "color": "rgb(176, 224, 94)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 510.40948486328125,
+        "y": 184.6282196044922,
+        "width": 179.5781707763672,
+        "height": 40.55756759643555
+      }
+    },
+    {
+      "tagName": "p",
+      "text": "service",
+      "color": "rgb(176, 224, 94)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 529.5127563476562,
+        "y": 211.5625762939453,
+        "width": 159.6763153076172,
+        "height": 45.86052322387695
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "service",
+      "color": "rgb(176, 224, 94)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 537.4994506835938,
+        "y": 214.0499267578125,
+        "width": 151.68960571289062,
+        "height": 40.41946029663086
+      }
+    },
+    {
+      "tagName": "li",
+      "text": "Wash, Fold and Press",
+      "color": "rgb(27, 27, 42)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 441.0544128417969,
+        "y": 485.2627868652344,
+        "width": 132.82432556152344,
+        "height": 16.899023056030273
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "Wash, Fold and Press",
+      "color": "rgb(27, 27, 42)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 441.0544128417969,
+        "y": 484.69952392578125,
+        "width": 129.0308074951172,
+        "height": 17.462255477905273
+      }
+    },
+    {
+      "tagName": "li",
+      "text": "Leather Cleaning",
+      "color": "rgb(27, 27, 42)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 439.4501647949219,
+        "y": 503.2616882324219,
+        "width": 110.45073699951172,
+        "height": 16.898975372314453
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "Leather Cleaning",
+      "color": "rgb(27, 27, 42)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 439.4501647949219,
+        "y": 502.6983947753906,
+        "width": 104.3160629272461,
+        "height": 17.462255477905273
+      }
+    },
+    {
+      "tagName": "li",
+      "text": "Steam Cleaning",
+      "color": "rgb(27, 27, 42)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 439.4501647949219,
+        "y": 521.1785278320312,
+        "width": 103.4798812866211,
+        "height": 16.899023056030273
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "Steam Cleaning",
+      "color": "rgb(27, 27, 42)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 439.4501647949219,
+        "y": 520.615234375,
+        "width": 98.84150695800781,
+        "height": 17.462255477905273
+      }
+    },
+    {
+      "tagName": "li",
+      "text": "Stain Removal",
+      "color": "rgb(27, 27, 42)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 439.4501647949219,
+        "y": 539.0953979492188,
+        "width": 93.8245620727539,
+        "height": 16.899023056030273
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "Stain Removal",
+      "color": "rgb(27, 27, 42)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 439.4501647949219,
+        "y": 538.5321655273438,
+        "width": 88.27080535888672,
+        "height": 17.462255477905273
+      }
+    },
+    {
+      "tagName": "p",
+      "text": "Our Services",
+      "color": "rgb(176, 224, 94)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 423.53033447265625,
+        "y": 448.57550048828125,
+        "width": 112.3348159790039,
+        "height": 23.4794921875
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "Our Services",
+      "color": "rgb(176, 224, 94)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 423.53033447265625,
+        "y": 448.57550048828125,
+        "width": 106.74214172363281,
+        "height": 23.479541778564453
+      }
+    },
+    {
+      "tagName": "p",
+      "text": "Get Disc Up To 30% Off",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 533.4572143554688,
+        "y": 247.0334930419922,
+        "width": 155.90977478027344,
+        "height": 16.233545303344727
+      }
+    },
+    {
+      "tagName": "span",
+      "text": "Get Disc Up To 30% Off",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 545.0067138671875,
+        "y": 246.4923858642578,
+        "width": 144.36021423339844,
+        "height": 16.774658203125
+      }
+    }
+  ],
+  [
+    {
+      "tagName": "span",
+      "text": "+ Add page",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 400.8125,
+        "y": 664,
+        "width": 306.375,
+        "height": 22
+      }
+    }
+  ]
+]

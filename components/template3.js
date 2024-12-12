@@ -3,258 +3,408 @@ const {
   createImageStructure,
   createShapeStructure,
   createChartStructure,
+  createFrameStructure,
 } = require("../pageStructure");
 const fs = require("fs");
 
-const template3 = async (page) => {
+const template4 = async (page) => {
   await page.waitForNavigation({ waitUntil: "networkidle2" });
   await page.goto(
-    "https://www.canva.com/design/DAGYQ2GFjoU/j4NavTzOo1x0rj5i33RbLQ/edit"
+    "https://www.canva.com/design/DAGYR0LWqfs/I9v7ndmTiRe5N08LZOZbaQ/edit"
   );
 
-  const pages = {
-    elements: [],
-    height: "1122px", 
-    width: "793px%",
-    title: "",
-    style: {},
-    id: "",
+  const data = {
+    pages: [
+      {
+        elements: [],
+        height: "1122px",
+        id: crypto.randomUUID(),
+        style: {
+          background: "#1b1b2a",
+        },
+        title: "untitled",
+        width: "793px",
+      },
+    ],
   };
   const productElements = await page.$$(
     "main > div.vWU3Dw > div._6mOE8w > div > div > div > div.WVSfHg > div > div > div > div.LlCHmw.kMDoBQ > div > div.CAi1bQ > div.caBU6Q > div > div > div"
   );
 
   for (const el of productElements) {
-    const profileImg = await el.$eval(
-      "div:nth-child(5) > div > div.hWv4NA > div > div > div > img",
+    const firstImgUrl = await el.$eval(
+      "div:nth-child(4) > div > div.hWv4NA > div > div > div > img",
       (el) => el.src
     );
-    const brandImg = await el.$eval(
-      "div:nth-child(7) > div > div.a26Xuw > div > div > div > img",
+    const secondImgUrl = await el.$eval(
+      "div:nth-child(6) > div > div.hWv4NA > div > div > div > img",
       (el) => el.src
     );
-    const title = await el.$eval(
-      "div:nth-child(11) > div > div > div > p > span",
-      (el) => el.textContent
+    const thirdImgUrl = await el.$eval(
+      "div:nth-child(8) > div > div.hWv4NA > div > div > div > img",
+      (el) => el.src
     );
-    const txt = await el.$eval(
-      "div:nth-child(12) > div > div > div > p > span",
-      (el) => el.textContent
-    );
-
-    const brandName = await el.$eval(
-      "div:nth-child(20) > div > div > div > p > span",
-      (el) => el.textContent
-    );
-    const subTitle = await el.$eval(
-      "div:nth-child(19) > div > div > div > p > span",
-      (el) => el.textContent
-    );
-    const registerHeading = await el.$eval(
-      "div:nth-child(18) > div > div > div > p > span",
-      (el) => el.textContent
-    );
-    const date = await el.$eval(
-      "div:nth-child(13) > div > div > div > p > span",
-      (el) => el.textContent
-    );
-    const time = await el.$eval(
-      "div:nth-child(14) > div > div > div > p > span",
-      (el) => el.textContent
-    );
-    const infoHeading = await el.$eval(
+    const title1 = await el.$eval(
       "div:nth-child(15) > div > div > div > p > span",
       (el) => el.textContent
     );
-    const contact = await el.$eval(
+    const title2 = await el.$eval(
       "div:nth-child(16) > div > div > div > p > span",
       (el) => el.textContent
     );
-    const address = await el.$eval(
-      "div:nth-child(17) > div > div > div > p > span",
+    const subTitle = await el.$eval(
+      "div:nth-child(22) > div > div > div > p > span",
       (el) => el.textContent
     );
-    const contactIcon = await el.$eval(
-      "div:nth-child(9) > div > div.a26Xuw > div > div > div > img",
+    const brandLogo = await el.$eval(
+      "div:nth-child(14) > div > div.a26Xuw > div > div > div > img",
       (el) => el.src
     );
-    const addressIcon = await el.$eval(
-      "div:nth-child(10) > div > div.a26Xuw > div > div > div > img",
+    const contentHeading = await el.$eval(
+      "div:nth-child(21) > div > div > div > p > span",
       (el) => el.textContent
     );
+    const listOne = await el.$eval(
+      "div:nth-child(17) > div > div > div > ul > li > span",
+      (el) => el.textContent
+    );
+    const listTwo = await el.$eval(
+      "div:nth-child(18) > div > div > div > ul > li > span",
+      (el) => el.textContent
+    );
+    const listThree = await el.$eval(
+      "div:nth-child(19) > div > div > div > ul > li > span",
+      (el) => el.textContent
+    );
+    const listFour = await el.$eval(
+      "div:nth-child(20) > div > div > div > ul > li > span",
+      (el) => el.textContent
+    );
+    const contactNumber = await el.$eval(
+      "div:nth-child(12) > div > div:nth-child(2) > div > div > div > p > span",
+      (el) => el.textContent
+    );
+    const contactImg = await el.$eval(
+      "div:nth-child(12) > div > div:nth-child(1) > div > div.a26Xuw > div > div > div > img",
+      (el) => el.src
+    );
+    const addressImg = await el.$eval(
+      "div:nth-child(12) > div > div:nth-child(3) > div > div.a26Xuw > div > div > div > img",
+      (el) => el.src
+    );
+    const address = await el.$eval(
+        "div:nth-child(12) > div > div:nth-child(4) > div > div > div > p > span",
+        (el) => el.textContent
+    );
+    const arrowIcon = await el.$eval(
+      "div:nth-child(13) > div > div.a26Xuw > div > div > div > img",
+      (el) => el.src
+    );
 
-    const data = [
+    const secondImgClipPath = await el.$eval(
+      "div:nth-child(3) > div > div > svg > defs > clipPath > path",
+      (el) => el.getAttribute("d")
+    );
+
+    const ourSersviceClipPath = await el.$eval(
+      "div:nth-child(10) > div > div > svg > defs > clipPath > path",
+      (el) => el.getAttribute("d")
+    );
+
+    const contactClipPath = await el.$eval(
+      "div:nth-child(10) > div > div > svg > defs > clipPath > path",
+      (el) => el.getAttribute("d")
+    );
+
+    const dataElement = [
       {
-        name: "heading",
-        type: "text",
-        color: "#0a2449",
-        text: title,
-        fontSize: "116px",
-        fontWeight: 900,
-        lineHeight: "163px",
-        letterSpacing: "0em",
-        x: "79",
-        y: "189",
+        children: [
+          {
+            src: "",
+            text: "",
+            type: "image",
+            width: "",
+            height: "",
+            x: "",
+            y: "",
+          },
+        ],
+        name: "frame",
+        clipPath: secondImgClipPath,
+        type: "frame",
+        width: "1061px",
+        height: "790px",
+        text: "Background second half of canva",
+        rotate: "21deg",
+        bg: "b0e05e",
+        x: "-217",
+        y: "492",
       },
       {
-        name: "sub-heading",
-        type: "text",
-        color: "#0a2449",
-        text: txt,
-        fontSize: "96px",
-        fontWeight: 700,
-        lineHeight: "135px",
-        letterSpacing: "0em",
-        x: "79",
-        y: "318",
+        children: [
+          {
+            src: "",
+            text: "",
+            type: "image",
+            width: "",
+            height: "",
+            x: "",
+            y: "",
+          },
+        ],
+        name: "frame",
+        clipPath: ourSersviceClipPath,
+        type: "frame",
+        width: "433px",
+        height: "92px",
+        text: "Our service banner frame",
+        rotate: "0",
+        bg: "#1b1b2a",
+        x: "-72",
+        y: "675",
       },
       {
-        src: profileImg,
-        text: "Profile",
+        src: firstImgUrl,
+        text: "Hand drawn circle line 1",
         type: "image",
-        width: "285px",
-        height: "426px",
-        x: "396",
-        y: "388",
+        width: "416px",
+        height: "416px",
+        x: "-17",
+        y: "205",
       },
       {
-        src: brandImg,
-        text: "Business finance design logo",
+        src: secondImgUrl,
+        text: "Happy mother washing baby clothes in machine",
         type: "image",
-        width: "96px",
-        height: "96px",
-        x: "79",
+        width: "346px",
+        height: "346px",
+        x: "264",
+        y: "352",
+      },
+      {
+        src: thirdImgUrl,
+        text: "People Inside Laundry Facility",
+        type: "image",
+        width: "284px",
+        height: "284px",
+        x: "508",
+        y: "504",
+      },
+      {
+        name: "Laundry",
+        type: "text",
+        color: "#b0e05e",
+        text: title1,
+        fontSize: "47px",
+        fontWeight: 800,
+        lineHeight: "65px",
+        letterSpacing: "0em",
+        width: "450px",
+        height: "91px",
+        x: "263",
         y: "76",
       },
       {
-        name: "brand name",
+        name: "Service",
         type: "text",
-        color: "#fff",
-        text: brandName,
-        fontSize: "51px",
-        fontWeight: 700,
-        lineHeight: "71px",
+        color: "#b0e05e",
+        text: title2,
+        fontSize: "42px",
+        fontWeight: 800,
+        lineHeight: "59px",
         letterSpacing: "0em",
-        x: "197",
-        y: "94",
+        width: "374px",
+        height: "92px",
+        x: "339",
+        y: "145",
       },
       {
-        name: "Sub-title",
+        name: "Sub title",
         type: "text",
         color: "#fff",
         text: subTitle,
-        fontSize: "34px",
-        fontWeight: 700,
-        lineHeight: "48px",
-        letterSpacing: "0em",
-        x: "79",
-        y: "446",
+        fontSize: "17px",
+        fontWeight: 400,
+        lineHeight: "24px",
+        letterSpacing: "0.015em",
+        width: "366px",
+        height: "32px",
+        x: "348",
+        y: "223",
       },
       {
-        name: "register now",
+        src: brandLogo,
+        text: "Horiz More Icon",
+        type: "image",
+        width: "164px",
+        height: "41px",
+        x: "22",
+        y: "43",
+      },
+      {
+        name: "Our service",
         type: "text",
-        color: "#fff",
-        text: registerHeading,
-        fontSize: "40px",
-        fontWeight: 700,
-        lineHeight: "56px",
+        color: "#b0e05e",
+        text: contentHeading,
+        fontSize: "25px",
+        fontWeight: 500,
+        lineHeight: "36px",
         letterSpacing: "0em",
-        x: "409",
+        x: "90",
+        y: "698",
+      },
+      {
+        name: "list itme 1",
+        type: "text",
+        color: "#1b1b2a",
+        text: listOne,
+        fontSize: "17px",
+        fontWeight: 500,
+        lineHeight: "24px",
+        letterSpacing: "0em",
+        width: "360px",
+        height: "33px",
+        x: "83",
+        y: "783",
+      },
+      {
+        name: "list item 2",
+        type: "text",
+        color: "#1b1b2a",
+        text: listTwo,
+        fontSize: "17px",
+        fontWeight: 500,
+        lineHeight: "24px",
+        letterSpacing: "0em",
+        width: "307px",
+        height: "33px",
+        x: "79",
+        y: "825",
+      },
+      {
+        name: "list item 3",
+        type: "text",
+        color: "#1b1b2a",
+        text: listThree,
+        fontSize: "17px",
+        fontWeight: 500,
+        lineHeight: "24px",
+        letterSpacing: "0em",
+        width: "291px",
+        height: "33px",
+        x: "79",
+        y: "867",
+      },
+      {
+        name: "list item 4",
+        type: "text",
+        color: "#1b1b2a",
+        text: listFour,
+        fontSize: "17px",
+        fontWeight: 500,
+        lineHeight: "24px",
+        letterSpacing: "0em",
+        width: "268px",
+        height: "33px",
+        x: "79",
+        y: "909",
+      },
+      {
+        children: [
+          {
+            src: "",
+            text: "",
+            type: "image",
+            width: "",
+            height: "",
+            x: "",
+            y: "",
+          },
+        ],
+        name: "frame",
+        clipPath: contactClipPath,
+        type: "frame",
+        width: "664px",
+        height: "48px",
+        text: "Our service banner frame",
+        rotate: "0",
+        bg: "#1b1b2a",
+        x: "79",
         y: "997",
       },
       {
-        name: "Date",
+        name: "Contact number",
         type: "text",
         color: "#fff",
-        text: date,
-        fontSize: "51px",
-        fontWeight: 700,
-        lineHeight: "71px",
-        letterSpacing: "0em",
-        x: "79",
-        y: "745",
-      },
-      {
-        name: "Time",
-        type: "text",
-        color: "#fff",
-        text: time,
-        fontSize: "34px",
-        fontWeight: 700,
-        lineHeight: "48px",
-        letterSpacing: "0em",
-        x: "79",
-        y: "808",
-      },
-      {
-        name: "Information heading",
-        type: "text",
-        color: "#111423",
-        text: infoHeading,
-        fontSize: "41px",
-        fontWeight: 700,
-        lineHeight: "57px",
-        letterSpacing: "0em",
-        x: "79",
-        y: "858",
-      },
-      {
-        name: "Phone number",
-        type: "text",
-        color: "#fff",
-        text: contact,
-        fontSize: "37px",
+        text: contactNumber,
+        fontSize: "16px",
         fontWeight: 400,
-        lineHeight: "52px",
+        lineHeight: "22px",
         letterSpacing: "0em",
-        x: "141",
-        y: "918",
+        x: "112",
+        y: "1000",
       },
       {
-        name: "Address",
+        src: contactImg,
+        text: "Phone Call Glyph Icon",
+        type: "image",
+        width: "26px",
+        height: "26px",
+        x: "79",
+        y: "997 ",
+      },
+      {
+        name: "location",
         type: "text",
         color: "#fff",
         text: address,
-        fontSize: "30px",
+        fontSize: "16px",
         fontWeight: 400,
-        lineHeight: "42px",
+        lineHeight: "22px",
         letterSpacing: "0em",
-        x: "141",
-        y: "986",
+        x: "276",
+        y: "1000",
       },
       {
-        src: contactIcon,
-        text: "Phone in Circle Illustration",
+        src: addressImg,
+        text: "location glyph icon",
         type: "image",
-        width: "48px",
-        height: "48px",
+        width: "26px",
+        height: "26px",
         x: "79",
-        y: "917",
+        y: "997 ",
       },
       {
-        src: addressIcon,
-        text: "GPS Location Pin",
+        src: arrowIcon,
+        text: "Brushstroke Arrow Smooth Curve Down",
         type: "image",
-        width: "48px",
-        height: "59px",
+        width: "167px",
+        height: "123px",
         x: "79",
-        y: "974",
+        y: "997 ",
       },
     ];
 
-    data.forEach((item) => {
+    dataElement.forEach((item) => {
       switch (item.type) {
         case "text":
-          pages.elements.push(createTextStructure(item));
+          data.pages[0].elements.push(createTextStructure(item));
           break;
         case "image":
-          pages.elements.push(createImageStructure(item));
+          data.pages[0].elements.push(createImageStructure(item));
+          break;
+        case "frame":
+          if (item.children.length > 0) {
+            data.pages[0].elements.push(createFrameStructure(item, item.children));
+          } else {
+            data.pages[0].elements.push(createFrameStructure(item));
+          }
           break;
         case "shape":
-          pages.elements.push(createShapeStructure(item));
+          data.pages[0].elements.push(createShapeStructure(item));
           break;
         case "chart":
-          pages.elements.push(createChartStructure(item));
+          data.pages[0].elements.push(createChartStructure(item));
           break;
         default:
           break;
@@ -262,8 +412,8 @@ const template3 = async (page) => {
     });
   }
 
-  fs.writeFileSync("dataInfo3.json", JSON.stringify(pages, null, 2));
-  return pages;
+  fs.writeFileSync("dataInfo3.json", JSON.stringify(data, null, 2));
+  return data;
 };
 
-module.exports = template3;
+module.exports = template4;

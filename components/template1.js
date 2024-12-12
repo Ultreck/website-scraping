@@ -13,15 +13,19 @@ const template1 = async (page) => {
     "https://www.canva.com/design/DAGYNzHB7dQ/K-luEnlRMTijE7fjTn4Zgw/edit"
   );
 
-  const pages = {
-    elements: [],
-    height: "1122px",
-    width: "793px",
-    style: {
-      backgroundColor: "#111423",
-    },
-    title: "",
-    id: "",
+  const data = {
+    pages: [
+      {
+        elements: [],
+        height: "1122px",
+        id: crypto.randomUUID(),
+        style: {
+          background: "#111423",
+        },
+        title: "untitled",
+        width: "793px",
+      },
+    ],
   };
   const productElements = await page.$$(
     "main > div.vWU3Dw > div._6mOE8w > div > div > div > div.WVSfHg > div > div > div > div.LlCHmw.kMDoBQ > div > div.CAi1bQ > div.caBU6Q > div > div > div"
@@ -46,7 +50,7 @@ const template1 = async (page) => {
     );
     const title = await el.$eval(
       "div:nth-child(10) > div > div > div > p > span",
-      (el) => el.textContent
+      (el) => el.innerHTML
     );
     const brandName = await el.$eval(
       "div:nth-child(19) > div > div > div > p > span",
@@ -104,12 +108,12 @@ const template1 = async (page) => {
       "div:nth-child(6) > div > div.hWv4NA > svg:nth-child(3) > defs > clipPath > path",
       (el) => el.getAttribute("d")
     );
-    const secondImgClipPath =  await el.$eval(
+    const secondImgClipPath = await el.$eval(
       "div:nth-child(5) > div > div.hWv4NA > svg:nth-child(3) > defs > clipPath > path",
       (el) => el.getAttribute("d")
-    )
+    );
 
-    const data = [
+    const dataElement = [
       {
         children: [
           {
@@ -161,11 +165,13 @@ const template1 = async (page) => {
         fontWeight: 700,
         lineHeight: "17px",
         letterSpacing: "0em",
-        x: "11",
-        y: "7",
+        width: "199",
+        height: "25",
+        x: "79",
+        y: "985",
       },
       {
-        src: webIcon,
+        src: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fweb-icon&psig=AOvVaw0YSyZ1GgG1w_FFr3Tyzch4&ust=1733959765732000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODKs9GtnooDFQAAAAAdAAAAABAE",
         text: "web icon",
         type: "image",
         width: "41px",
@@ -174,7 +180,7 @@ const template1 = async (page) => {
         y: "923",
       },
       {
-        src: phoneIcon,
+        src: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F3720476-phone-icon-telephone-icon-symbol-for-app-and-messenger&psig=AOvVaw3EBV692mr3S_Li-xmvEI90&ust=1733959720570000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjl_LqtnooDFQAAAAAdAAAAABAE",
         text: "Telephone Call Icon",
         type: "image",
         width: "41px",
@@ -183,7 +189,7 @@ const template1 = async (page) => {
         y: "866",
       },
       {
-        src: calendarIcon,
+        src: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fcalendar-icon&psig=AOvVaw2-WnBFGo5JldaNRShIY8cU&ust=1733959572413000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDrxKWtnooDFQAAAAAdAAAAABAE",
         text: "time and date icon",
         type: "image",
         width: "25px",
@@ -200,6 +206,8 @@ const template1 = async (page) => {
         fontWeight: 700,
         lineHeight: "16px",
         letterSpacing: "0em",
+        width: "248",
+        height: "18",
         x: "124",
         y: "944",
       },
@@ -212,6 +220,8 @@ const template1 = async (page) => {
         fontWeight: 400,
         lineHeight: "16px",
         letterSpacing: "0em",
+        width: "157",
+        height: "18",
         x: "124",
         y: "925",
       },
@@ -224,6 +234,8 @@ const template1 = async (page) => {
         fontWeight: 700,
         lineHeight: "16px",
         letterSpacing: "0em",
+        width: "157",
+        height: "18",
         x: "124",
         y: "886",
       },
@@ -236,6 +248,8 @@ const template1 = async (page) => {
         fontWeight: 400,
         lineHeight: "16px",
         letterSpacing: "0em",
+        width: "157",
+        height: "18",
         x: "124",
         y: "867",
       },
@@ -248,6 +262,8 @@ const template1 = async (page) => {
         fontWeight: 700,
         lineHeight: "16px",
         letterSpacing: "0em",
+        width: "229",
+        height: "18",
         x: "124",
         y: "833",
       },
@@ -260,6 +276,8 @@ const template1 = async (page) => {
         fontWeight: 400,
         lineHeight: "23px",
         letterSpacing: "0em",
+        width: "157",
+        height: "18",
         x: "124",
         y: "814",
       },
@@ -272,8 +290,10 @@ const template1 = async (page) => {
         fontWeight: 700,
         lineHeight: "79px",
         letterSpacing: "0em",
-        x: "79",
-        y: "519",
+        width: "369px",
+        height: "163px",
+        x: "63",
+        y: "517",
       },
       {
         name: "Warner & Spencer",
@@ -284,6 +304,8 @@ const template1 = async (page) => {
         fontWeight: 700,
         lineHeight: "14px",
         letterSpacing: "0em",
+        width: "156px",
+        height: "16px",
         x: "119",
         y: "479",
       },
@@ -296,6 +318,8 @@ const template1 = async (page) => {
         fontWeight: 400,
         lineHeight: "14px",
         letterSpacing: "0em",
+        width: "156px",
+        height: "16px",
         x: "119",
         y: "496",
       },
@@ -308,6 +332,8 @@ const template1 = async (page) => {
         fontWeight: 400,
         lineHeight: "29px",
         letterSpacing: "0em",
+        width: "330px",
+        height: "98px",
         x: "79",
         y: "690",
       },
@@ -349,28 +375,26 @@ const template1 = async (page) => {
       },
     ];
 
-    data.forEach((item) => {
+    dataElement.forEach((item) => {
       switch (item.type) {
         case "text":
-          pages.elements.push(createTextStructure(item));
+          data.pages[0].elements.push(createTextStructure(item));
           break;
         case "image":
-          pages.elements.push(createImageStructure(item));
+          data.pages[0].elements.push(createImageStructure(item));
           break;
         case "frame":
           if (item.children.length > 0) {
-            pages.elements.push(
-              createFrameStructure(item, item.children)
-            );
+            data.pages[0].elements.push(createFrameStructure(item, item.children));
           } else {
-            pages.elements.push(createFrameStructure(item));
+            data.pages[0].elements.push(createFrameStructure(item));
           }
           break;
         case "shape":
-          pages.elements.push(createShapeStructure(item));
+          data.pages[0].elements.push(createShapeStructure(item));
           break;
         case "chart":
-          pages.elements.push(createChartStructure(item));
+          data.pages[0].elements.push(createChartStructure(item));
           break;
         default:
           break;
@@ -378,8 +402,8 @@ const template1 = async (page) => {
     });
   }
 
-  fs.writeFileSync("dataInfo1.json", JSON.stringify(pages, null, 2));
-  return pages;
+  fs.writeFileSync("dataInfo1.json", JSON.stringify(data, null, 2));
+  return data;
 };
 
 module.exports = template1;

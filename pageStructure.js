@@ -1,8 +1,8 @@
 function createTextStructure(data) {
   return {
     config: { name: data?.name || "" },
-    height: "",
-    id: "",
+    height: data.height || "",
+    id: crypto.randomUUID(),
     rotate: 0,
     style: {
       animationDuration: "1s",
@@ -18,9 +18,9 @@ function createTextStructure(data) {
     },
     text: data.text || "",
     type: data.type || "",
-    width: "",
-    x: 0,
-    y: 0,
+    width: data.width || "",
+    x: data.x || 0,
+    y: data.y || 0,
   };
 }
 function createChartStructure() {
@@ -62,7 +62,7 @@ function createChartStructure() {
       textTransform: "none",
     },
     height: "",
-    id: "",
+    id: crypto.randomUUID(),
     rotate: 0,
     style: {},
     text: "",
@@ -77,7 +77,7 @@ function createImageStructure(data) {
   return {
     config: { src: data.src || "" },
     height: data.height || "",
-    id: "",
+    id: crypto.randomUUID(),
     rotate: 0,
     style: {
       animationDuration: "1s",
@@ -102,7 +102,7 @@ function createFrameStructure(data, children) {
       {
         config: { src: children[0].src || "" },
         height: children[0].height || "",
-        id: "",
+        id: crypto.randomUUID(),
         rotate: 0,
         style: {
           animationDuration: "1s",
@@ -118,12 +118,12 @@ function createFrameStructure(data, children) {
         width: children[0].width || "",
         x: children[0].x || 0,
         y: children[0].y || 0,
-      }
+      },
     ],
-    config: { name: data.name || "", clipPath: data.clipPath || ""},
+    config: { name: data.name || "", clipPath: data.clipPath || "" },
     height: data.height || 300,
-    id: data.id || "",
-    rotate: 0,
+    id: data.id || crypto.randomUUID(),
+    rotate: data.rotate || 0,
     style: {
       animationDuration: "1s",
       animationName: "",
@@ -135,6 +135,7 @@ function createFrameStructure(data, children) {
     tooltip: data.tooltip || {},
     type: data.type || "frame",
     width: data.width || "",
+    background: data.bg || "",
     x: data.x || 0,
     y: data.y || 0,
   };
@@ -144,7 +145,7 @@ function createShapeStructure(data) {
   return {
     config: { name: "" },
     height: "",
-    id: "",
+    id: crypto.randomUUID(),
     rotate: 0,
     style: {
       animationDuration: "1s",

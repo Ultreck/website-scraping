@@ -4,8 +4,11 @@ puppeteer.use(StealthPlugin());
 const fs = require("fs");
 const template1 = require("./components/template1");
 const template2 = require("./components/template2");
-const template3 = require("./components/template3");
-const template4 = require("./components/template4");
+const template4 = require("./components/template3");
+const template3 = require("./components/template4");
+const scrapeTemplate = require("./components/scrapeAll1");
+const { stringify } = require("querystring");
+
 
 const getFirstTemplate = async () => {
   const pages = [];
@@ -27,8 +30,9 @@ const getFirstTemplate = async () => {
 
   
   await page.click(
-    "body > div:nth-child(3) > div > div > div > div > div._07T50w > button._5KtATA.LQzFZw.tYI0Vw._8ERLTg.Z3nT2A.LQzFZw.tYI0Vw._4_iekA.j34Zww.aqbYPg._3FvZZg._9Ix54Q"
+    "body > div:nth-child(2) > div > div > div > div > div._07T50w > button._5KtATA.LQzFZw.tYI0Vw._8ERLTg.Z3nT2A.LQzFZw.tYI0Vw._4_iekA.j34Zww.aqbYPg._3FvZZg._9Ix54Q"
   );
+  
 
 
 
@@ -53,19 +57,24 @@ const getFirstTemplate = async () => {
     "#root > div > main > div._mbIcQ.TEiAng > div > section > div > div > div > div > div > div > div > div > div.FRDSwg > form > button"
   );
 
-  const firstTemplateData = await template1(page);
-  pages.push(...firstTemplateData);
+  const data =  await scrapeTemplate(page);
+  fs.writeFileSync("scrape1.json", JSON.stringify(data, null, 2));
+  // console.log(JSON.stringify(data, null, 2));
 
-//   const secondTemplateData = await template2(page);
-//   pages.push(...secondTemplateData);
 
-//   const thirdTemplateData = await template3(page);
-//   pages.push(...thirdTemplateData);
+  // const firstTemplateData = await template1(page);
+  // pages.push(...firstTemplateData);
+
+  // const secondTemplateData = await template2(page);
+  // pages.push(...secondTemplateData);
+
+  // const thirdTemplateData = await template3(page);
+  // pages.push(...thirdTemplateData);
   
   // const fourthTemplateData = await template4(page);
   // pages.push(...fourthTemplateData);
 
   // console.log(pages);
-  fs.writeFileSync("dataInfoMaster.json", JSON.stringify(pages, null, 2));
+  // fs.writeFileSync("dataInfoMaster.json", JSON.stringify(pages, null, 2));
 };
 getFirstTemplate();

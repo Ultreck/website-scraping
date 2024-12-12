@@ -1,347 +1,560 @@
 {
-  "elements": [
+  "pages": [
     {
-      "config": {
-        "name": "heading"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
+      "elements": [
+        {
+          "children": [
+            {
+              "config": {
+                "src": ""
+              },
+              "height": "",
+              "id": "bba3fbb8-3a05-4cd5-940d-103595eb75b5",
+              "rotate": 0,
+              "style": {
+                "animationDuration": "1s",
+                "animationName": "",
+                "color": "#000000",
+                "borderRadius": 0,
+                "borderWidth": 0,
+                "opacity": 1,
+                "shadow": ""
+              },
+              "text": "",
+              "type": "image",
+              "width": "",
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "config": {
+            "name": "frame",
+            "clipPath": "M0,0L343.83498277892903,0L343.83498277892903,256L0,256Z"
+          },
+          "height": "790px",
+          "id": "b8b6c858-e246-4348-af04-fc9a32f7e629",
+          "rotate": "21deg",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": ""
+          },
+          "text": "Background second half of canva",
+          "tooltip": {},
+          "type": "frame",
+          "width": "1061px",
+          "background": "b0e05e",
+          "x": "-217",
+          "y": "492"
+        },
+        {
+          "children": [
+            {
+              "config": {
+                "src": ""
+              },
+              "height": "",
+              "id": "116fb241-6aae-4e04-bdfd-7d81cd919574",
+              "rotate": 0,
+              "style": {
+                "animationDuration": "1s",
+                "animationName": "",
+                "color": "#000000",
+                "borderRadius": 0,
+                "borderWidth": 0,
+                "opacity": 1,
+                "shadow": ""
+              },
+              "text": "",
+              "type": "image",
+              "width": "",
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "config": {
+            "name": "frame",
+            "clipPath": "M1044.4806402814215,0C1128.577692091308,0 1196.7518225576875,57.30755202165845 1196.7518225576875,128C1196.7518225576875,198.69244797834153 1128.577692091308,256 1044.4806402814215,256L152.27118227626588,256C68.17413046637924,256 0,198.6924479783416 0,128C0,57.30755202165848 68.17413046637921,0 152.27118227626588,0Z"
+          },
+          "height": "92px",
+          "id": "7bb55ad3-176d-4560-a538-6624841a8827",
+          "rotate": "0",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": ""
+          },
+          "text": "Our service banner frame",
+          "tooltip": {},
+          "type": "frame",
+          "width": "433px",
+          "background": "#1b1b2a",
+          "x": "-72",
+          "y": "675"
+        },
+        {
+          "config": {
+            "src": "https://media-public.canva.com/sRXDI/MAEH-esRXDI/1/s.jpg"
+          },
+          "height": "416px",
+          "id": "bfb7c89d-87da-4b55-8db7-6ec991749c3d",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "Hand drawn circle line 1",
+          "type": "image",
+          "width": "416px",
+          "x": "-17",
+          "y": "205"
+        },
+        {
+          "config": {
+            "src": "https://media-public.canva.com/Wrk-Q/MAEZ-7Wrk-Q/1/s.jpg"
+          },
+          "height": "346px",
+          "id": "989e9a21-2f78-44a9-b30f-d93d63f167cd",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "Happy mother washing baby clothes in machine",
+          "type": "image",
+          "width": "346px",
+          "x": "264",
+          "y": "352"
+        },
+        {
+          "config": {
+            "src": "https://media-public.canva.com/Z6YqA/MAE7afZ6YqA/1/s.jpg"
+          },
+          "height": "284px",
+          "id": "bf9c0494-6ec9-4f73-aaff-05f0a2e257b8",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "People Inside Laundry Facility",
+          "type": "image",
+          "width": "284px",
+          "x": "508",
+          "y": "504"
+        },
+        {
+          "config": {
+            "name": "Laundry"
+          },
+          "height": "91px",
+          "id": "c907e7f5-9ac4-4fab-b62a-36dae1c5b56d",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#b0e05e",
+            "fontSize": "47px",
+            "fontWeight": 800,
+            "letterSpacing": "0em",
+            "lineHeight": "65px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "laundry",
+          "type": "text",
+          "width": "450px",
+          "x": "263",
+          "y": "76"
+        },
+        {
+          "config": {
+            "name": "Service"
+          },
+          "height": "92px",
+          "id": "77204fa9-3b68-4e8f-a853-e05ed7e0b202",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#b0e05e",
+            "fontSize": "42px",
+            "fontWeight": 800,
+            "letterSpacing": "0em",
+            "lineHeight": "59px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "service",
+          "type": "text",
+          "width": "374px",
+          "x": "339",
+          "y": "145"
+        },
+        {
+          "config": {
+            "name": "Sub title"
+          },
+          "height": "32px",
+          "id": "f3d90e27-8c89-4095-b826-e6514d3f19ec",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#fff",
+            "fontSize": "17px",
+            "fontWeight": 400,
+            "letterSpacing": "0.015em",
+            "lineHeight": "24px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Get Disc Up To 30% Off",
+          "type": "text",
+          "width": "366px",
+          "x": "348",
+          "y": "223"
+        },
+        {
+          "config": {
+            "src": "blob:https://www.canva.com/6d90381a-8e23-4661-a6e2-12d8bd647075"
+          },
+          "height": "41px",
+          "id": "e4930eca-4f77-49df-961a-228065ce6d58",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "Horiz More Icon",
+          "type": "image",
+          "width": "164px",
+          "x": "22",
+          "y": "43"
+        },
+        {
+          "config": {
+            "name": "Our service"
+          },
+          "height": "",
+          "id": "7ecb0d1b-a403-4721-8489-a8ac8932f16b",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#b0e05e",
+            "fontSize": "25px",
+            "fontWeight": 500,
+            "letterSpacing": "0em",
+            "lineHeight": "36px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Our Services",
+          "type": "text",
+          "width": "",
+          "x": "90",
+          "y": "698"
+        },
+        {
+          "config": {
+            "name": "list itme 1"
+          },
+          "height": "33px",
+          "id": "2117dcb0-0e48-44a6-b277-de2f2892bf3f",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#1b1b2a",
+            "fontSize": "17px",
+            "fontWeight": 500,
+            "letterSpacing": "0em",
+            "lineHeight": "24px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Wash, Fold and Press",
+          "type": "text",
+          "width": "360px",
+          "x": "83",
+          "y": "783"
+        },
+        {
+          "config": {
+            "name": "list item 2"
+          },
+          "height": "33px",
+          "id": "eb886f7f-138e-4f25-98f6-223e12143f31",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#1b1b2a",
+            "fontSize": "17px",
+            "fontWeight": 500,
+            "letterSpacing": "0em",
+            "lineHeight": "24px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Leather Cleaning",
+          "type": "text",
+          "width": "307px",
+          "x": "79",
+          "y": "825"
+        },
+        {
+          "config": {
+            "name": "list item 3"
+          },
+          "height": "33px",
+          "id": "49e42ca6-fe8f-4e27-8822-89175444353c",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#1b1b2a",
+            "fontSize": "17px",
+            "fontWeight": 500,
+            "letterSpacing": "0em",
+            "lineHeight": "24px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Steam Cleaning",
+          "type": "text",
+          "width": "291px",
+          "x": "79",
+          "y": "867"
+        },
+        {
+          "config": {
+            "name": "list item 4"
+          },
+          "height": "33px",
+          "id": "531cf01f-dc8d-4dd3-8cd4-053cfa70382a",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#1b1b2a",
+            "fontSize": "17px",
+            "fontWeight": 500,
+            "letterSpacing": "0em",
+            "lineHeight": "24px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Stain Removal",
+          "type": "text",
+          "width": "268px",
+          "x": "79",
+          "y": "909"
+        },
+        {
+          "children": [
+            {
+              "config": {
+                "src": ""
+              },
+              "height": "",
+              "id": "86d7d9be-aa28-4027-8db4-3dabbf1f552c",
+              "rotate": 0,
+              "style": {
+                "animationDuration": "1s",
+                "animationName": "",
+                "color": "#000000",
+                "borderRadius": 0,
+                "borderWidth": 0,
+                "opacity": 1,
+                "shadow": ""
+              },
+              "text": "",
+              "type": "image",
+              "width": "",
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "config": {
+            "name": "frame",
+            "clipPath": "M1044.4806402814215,0C1128.577692091308,0 1196.7518225576875,57.30755202165845 1196.7518225576875,128C1196.7518225576875,198.69244797834153 1128.577692091308,256 1044.4806402814215,256L152.27118227626588,256C68.17413046637924,256 0,198.6924479783416 0,128C0,57.30755202165848 68.17413046637921,0 152.27118227626588,0Z"
+          },
+          "height": "48px",
+          "id": "f89e2a61-876f-48e7-bb9b-ba1743f1f28f",
+          "rotate": "0",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": ""
+          },
+          "text": "Our service banner frame",
+          "tooltip": {},
+          "type": "frame",
+          "width": "664px",
+          "background": "#1b1b2a",
+          "x": "79",
+          "y": "997"
+        },
+        {
+          "config": {
+            "name": "Contact number"
+          },
+          "height": "",
+          "id": "0ae5947b-c6d2-42ed-b373-cec703b0c45e",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#fff",
+            "fontSize": "16px",
+            "fontWeight": 400,
+            "letterSpacing": "0em",
+            "lineHeight": "22px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "123-456-7890",
+          "type": "text",
+          "width": "",
+          "x": "112",
+          "y": "1000"
+        },
+        {
+          "config": {
+            "src": "blob:https://www.canva.com/46bc200a-cb32-45ba-a013-299efb015551"
+          },
+          "height": "26px",
+          "id": "ab391c0a-725d-4c2c-b36b-a9bb5317ed25",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "Phone Call Glyph Icon",
+          "type": "image",
+          "width": "26px",
+          "x": "79",
+          "y": "997 "
+        },
+        {
+          "config": {
+            "name": "location"
+          },
+          "height": "",
+          "id": "cb34c977-e859-4d06-84dc-0f0bf9bb91f1",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#fff",
+            "fontSize": "16px",
+            "fontWeight": 400,
+            "letterSpacing": "0em",
+            "lineHeight": "22px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "123 Anywhere St., Any City",
+          "type": "text",
+          "width": "",
+          "x": "276",
+          "y": "1000"
+        },
+        {
+          "config": {
+            "src": "blob:https://www.canva.com/2e2f78d7-7cb3-420f-8ac9-0ee206c7aba3"
+          },
+          "height": "26px",
+          "id": "e877d71d-25d2-46f7-b55a-ebaf6018510d",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "location glyph icon",
+          "type": "image",
+          "width": "26px",
+          "x": "79",
+          "y": "997 "
+        },
+        {
+          "config": {
+            "src": "https://media-public.canva.com/_Il3A/MADWDV_Il3A/2/t.png"
+          },
+          "height": "123px",
+          "id": "6356d84d-f018-40e1-b5c4-a35adb8613ef",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "Brushstroke Arrow Smooth Curve Down",
+          "type": "image",
+          "width": "167px",
+          "x": "79",
+          "y": "997 "
+        }
+      ],
+      "height": "1122px",
+      "id": "0b7f1854-5f1f-4e0d-95e2-80583140ae17",
       "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#0a2449",
-        "fontSize": "116px",
-        "fontWeight": 900,
-        "letterSpacing": "0em",
-        "lineHeight": "163px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
+        "background": "#1b1b2a"
       },
-      "text": "Business",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "name": "sub-heading"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#0a2449",
-        "fontSize": "96px",
-        "fontWeight": 700,
-        "letterSpacing": "0em",
-        "lineHeight": "135px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
-      },
-      "text": "Webinar",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "src": "https://media-public.canva.com/Hmco8/MAEbq-Hmco8/1/s.jpg"
-      },
-      "height": "426px",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#000000",
-        "borderRadius": 0,
-        "borderWidth": 0,
-        "opacity": 1,
-        "shadow": ""
-      },
-      "text": "Profile",
-      "type": "image",
-      "width": "285px",
-      "x": "396",
-      "y": "388"
-    },
-    {
-      "config": {
-        "src": "blob:https://www.canva.com/991bf079-4076-46b2-8fed-ebdcd86d01ac"
-      },
-      "height": "96px",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#000000",
-        "borderRadius": 0,
-        "borderWidth": 0,
-        "opacity": 1,
-        "shadow": ""
-      },
-      "text": "Business finance design logo",
-      "type": "image",
-      "width": "96px",
-      "x": "79",
-      "y": "76"
-    },
-    {
-      "config": {
-        "name": "brand name"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#fff",
-        "fontSize": "51px",
-        "fontWeight": 700,
-        "letterSpacing": "0em",
-        "lineHeight": "71px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
-      },
-      "text": "Salford & Co.",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "name": "Sub-title"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#fff",
-        "fontSize": "34px",
-        "fontWeight": 700,
-        "letterSpacing": "0em",
-        "lineHeight": "48px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
-      },
-      "text": "Grow Your Business",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "name": "register now"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#fff",
-        "fontSize": "40px",
-        "fontWeight": 700,
-        "letterSpacing": "0em",
-        "lineHeight": "56px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
-      },
-      "text": "Register Now",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "name": "Date"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#fff",
-        "fontSize": "51px",
-        "fontWeight": 700,
-        "letterSpacing": "0em",
-        "lineHeight": "71px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
-      },
-      "text": "5 July, 2024",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "name": "Time"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#fff",
-        "fontSize": "34px",
-        "fontWeight": 700,
-        "letterSpacing": "0em",
-        "lineHeight": "48px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
-      },
-      "text": "7:00Pm - 9:00Pm",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "name": "Information heading"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#111423",
-        "fontSize": "41px",
-        "fontWeight": 700,
-        "letterSpacing": "0em",
-        "lineHeight": "57px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
-      },
-      "text": "More Information",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "name": "Phone number"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#fff",
-        "fontSize": "37px",
-        "fontWeight": 400,
-        "letterSpacing": "0em",
-        "lineHeight": "52px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
-      },
-      "text": "+123-456-7890",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "name": "Address"
-      },
-      "height": "",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#fff",
-        "fontSize": "30px",
-        "fontWeight": 400,
-        "letterSpacing": "0em",
-        "lineHeight": "42px",
-        "opacity": 1,
-        "shadow": "",
-        "textAlign": "left"
-      },
-      "text": "123 Anywhere St., Any City,ST 12345",
-      "type": "text",
-      "width": "",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "config": {
-        "src": "blob:https://www.canva.com/5395a7f8-d41e-421b-89b2-7cde2718a18a"
-      },
-      "height": "48px",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#000000",
-        "borderRadius": 0,
-        "borderWidth": 0,
-        "opacity": 1,
-        "shadow": ""
-      },
-      "text": "Phone in Circle Illustration",
-      "type": "image",
-      "width": "48px",
-      "x": "79",
-      "y": "917"
-    },
-    {
-      "config": {
-        "src": ""
-      },
-      "height": "59px",
-      "id": "",
-      "rotate": 0,
-      "style": {
-        "animationDuration": "1s",
-        "animationName": "",
-        "color": "#000000",
-        "borderRadius": 0,
-        "borderWidth": 0,
-        "opacity": 1,
-        "shadow": ""
-      },
-      "text": "GPS Location Pin",
-      "type": "image",
-      "width": "48px",
-      "x": "79",
-      "y": "974"
+      "title": "untitled",
+      "width": "793px"
     }
-  ],
-  "height": "1122px",
-  "width": "793px%",
-  "title": "",
-  "style": {},
-  "id": ""
+  ]
 }
