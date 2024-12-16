@@ -1,7 +1,7 @@
 function createTextStructure(data) {
   return {
-    config: { name: data?.name || "" },
-    height: data.height || "",
+    config: { name: data?.text || "" },
+    height: `${data.height}px` || "",
     id: crypto.randomUUID(),
     rotate: 0,
     style: {
@@ -17,10 +17,10 @@ function createTextStructure(data) {
       textAlign: "left",
     },
     text: data.text || "",
-    type: data.type || "",
-    width: data.width || "",
-    x: data.x || 0,
-    y: data.y || 0,
+    type: data.type || "text",
+    width: `${data.width}px` || "",
+    x: data.coordinates.x || 0,
+    y: data.coordinates.y || 0,
   };
 }
 function createChartStructure() {
@@ -74,54 +74,55 @@ function createChartStructure() {
 }
 
 function createImageStructure(data) {
+  console.log(data);
   return {
-    config: { src: data.src || "" },
-    height: data.height || "",
+    config: { src: data.imageSrc || "" },
+    height: `${data.imgStyle.height}px` || "",
     id: crypto.randomUUID(),
     rotate: 0,
     style: {
       animationDuration: "1s",
       animationName: "",
       color: "#000000",
-      borderRadius: 0,
-      borderWidth: 0,
+      borderRadius: data.imgStyle.borderRadius || 0,
+      borderWidth: data.imgStyle.borderWidth || 0,
       opacity: 1,
       shadow: "",
     },
-    text: data.text || "",
+    text: data.textAlt || "",
     type: data.type || "image",
-    width: data.width || "",
-    x: data.x || 0,
-    y: data.y || 0,
+    width: `${data.imgStyle.width}px` || "",
+    x: data.coordinates.x || 0,
+    y: data.coordinates.y || 0,
   };
 }
 
 function createFrameStructure(data, children) {
   return {
-    children: [
-      {
-        config: { src: children[0].src || "" },
-        height: children[0].height || "",
-        id: crypto.randomUUID(),
-        rotate: 0,
-        style: {
-          animationDuration: "1s",
-          animationName: "",
-          color: "#000000",
-          borderRadius: 0,
-          borderWidth: 0,
-          opacity: 1,
-          shadow: "",
-        },
-        text: children[0].text || "",
-        type: children[0].type || "image",
-        width: children[0].width || "",
-        x: children[0].x || 0,
-        y: children[0].y || 0,
-      },
-    ],
+    // children: [
+    //   {
+    //     config: { src: children[0].src || "" },
+    //     height: children[0].height || "",
+    //     id: crypto.randomUUID(),
+    //     rotate: 0,
+    //     style: {
+    //       animationDuration: "1s",
+    //       animationName: "",
+    //       color: "#000000",
+    //       borderRadius: 0,
+    //       borderWidth: 0,
+    //       opacity: 1,
+    //       shadow: "",
+    //     },
+    //     text: children[0].text || "",
+    //     type: children[0].type || "image",
+    //     width: children[0].width || "",
+    //     x: children[0].x || 0,
+    //     y: children[0].y || 0,
+    //   },
+    // ],
     config: { name: data.name || "", clipPath: data.clipPath || "" },
-    height: data.height || 300,
+    height: `${data.position.height}` || 300,
     id: data.id || crypto.randomUUID(),
     rotate: data.rotate || 0,
     style: {
@@ -134,10 +135,10 @@ function createFrameStructure(data, children) {
     text: data.text || "",
     tooltip: data.tooltip || {},
     type: data.type || "frame",
-    width: data.width || "",
+    width: `${data.position.width}` || "",
     background: data.bg || "",
-    x: data.x || 0,
-    y: data.y || 0,
+    x: data.position.x || 0,
+    y: data.position.y || 0,
   };
 }
 

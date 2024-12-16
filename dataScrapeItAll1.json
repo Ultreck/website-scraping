@@ -1,9 +1,92 @@
 [
   [
     {
+      "tagName": "div",
+      "style": "padding-top: 0px; padding-bottom: 0px;",
+      "width": "337.975px",
+      "height": "510px",
+      "text": "123-456-7890123 Anywhere St., Any CitylaundryserviceWash, Fold and PressLeather CleaningSteam CleaningStain RemovalOur ServicesGet Disc Up To 30% Off",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 121,
+        "width": 337.9750061035156,
+        "height": 510
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 337.98px;",
+      "width": "337.975px",
+      "height": "32px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 121,
+        "width": 337.9750061035156,
+        "height": 32
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "337.975px",
+      "height": "28px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 121,
+        "width": 337.9750061035156,
+        "height": 28
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "229.975px",
+      "height": "0px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 135,
+        "width": 229.97500610351562,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "28px",
+      "height": "28px",
+      "text": null,
+      "position": {
+        "x": 622.9874877929688,
+        "y": 121,
+        "width": 28,
+        "height": 28
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "auto",
+      "height": "auto",
+      "text": null,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
       "tagName": "span",
       "text": null,
       "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 626.9874877929688,
@@ -16,6 +99,11 @@
       "tagName": "span",
       "text": null,
       "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 626.9874877929688,
@@ -25,9 +113,103 @@
       }
     },
     {
+      "tagName": "svg",
+      "clipPath": "M14.996 7.78H5.039m9.957 0c.574 0 1.039.466 1.039 1.04m-1.04-1.04c.572 0 1.04.468 1.04 1.04M5.039 7.78A1.04 1.04 0 0 0 4 8.82m1.04-1.04C4.467 7.78 4 8.249 4 8.82m12.035 0v7.466m0 0a1.04 1.04 0 0 1-1.04 1.04m1.04-1.04c0 .572-.468 1.04-1.04 1.04m0 0H5.04m0 0A1.04 1.04 0 0 1 4 16.286m1.04 1.04c-.572 0-1.04-.468-1.04-1.04m0 0V8.82M10.02 11.7v3.074",
+      "viewBox": "0 0 20 20",
+      "clipPathId": null,
+      "position": {
+        "x": 626.9874877929688,
+        "y": 125,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 630.9874877929688,
+        "y": 132.78001403808594,
+        "width": 12.03501033782959,
+        "height": 9.54599666595459
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 635.5294799804688,
+        "y": 134.4449920654297,
+        "width": 2.9510254859924316,
+        "height": 3.0830078125
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 632.9924926757812,
+        "y": 125.74995422363281,
+        "width": 8.495019912719727,
+        "height": 6.750049114227295
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "28px",
+      "height": "28px",
+      "text": null,
+      "position": {
+        "x": 658.9874877929688,
+        "y": 121,
+        "width": 28,
+        "height": 28
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "auto",
+      "height": "auto",
+      "text": null,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
       "tagName": "span",
       "text": null,
       "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 662.9874877929688,
@@ -40,6 +222,11 @@
       "tagName": "span",
       "text": null,
       "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 662.9874877929688,
@@ -49,9 +236,86 @@
       }
     },
     {
+      "tagName": "svg",
+      "clipPath": "M4.167 2.5h6.666c.92 0 1.667.746 1.667 1.667v.416h-1.25v-.416a.417.417 0 0 0-.417-.417H4.167a.417.417 0 0 0-.417.417V12.5c0 .23.187.417.417.417H6.25v1.25H4.167c-.92 0-1.667-.746-1.667-1.667V4.167c0-.92.746-1.667 1.667-1.667Zm5 4.583a.417.417 0 0 0-.417.417v8.333c0 .23.187.417.417.417h6.666c.23 0 .417-.186.417-.417V7.5a.417.417 0 0 0-.417-.417H9.167Zm6.666-1.25H9.167c-.92 0-1.667.747-1.667 1.667v8.333c0 .92.746 1.667 1.667 1.667h6.666c.92 0 1.667-.746 1.667-1.667V7.5c0-.92-.746-1.667-1.667-1.667Z",
+      "viewBox": "0 0 20 20",
+      "clipPathId": null,
+      "position": {
+        "x": 662.9874877929688,
+        "y": 125,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 665.4874877929688,
+        "y": 127.5,
+        "width": 15,
+        "height": 15
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 672.9874877929688,
+        "y": 134.16700744628906,
+        "width": 5,
+        "height": 5
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "28px",
+      "height": "28px",
+      "text": null,
+      "position": {
+        "x": 694.9874877929688,
+        "y": 121,
+        "width": 28,
+        "height": 28
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "auto",
+      "height": "auto",
+      "text": null,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
       "tagName": "span",
       "text": null,
       "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 698.9874877929688,
@@ -64,6 +328,11 @@
       "tagName": "span",
       "text": null,
       "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 698.9874877929688,
@@ -73,11 +342,393 @@
       }
     },
     {
-      "tagName": "img",
-      "src": "https://media-public.canva.com/sRXDI/MAEH-esRXDI/1/s.jpg",
-      "width": 750,
-      "height": 500,
-      "name": null,
+      "tagName": "svg",
+      "clipPath": "M11.875 10.208a.625.625 0 1 0 1.25 0v-3.75h3.75a.625.625 0 1 0 0-1.25h-3.75v-3.75a.625.625 0 1 0-1.25 0v3.75h-3.75a.625.625 0 0 0 0 1.25h3.75v3.75Z",
+      "viewBox": "0 0 20 20",
+      "clipPathId": null,
+      "position": {
+        "x": 698.9874877929688,
+        "y": 125,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 706.4874877929688,
+        "y": 125.83300018310547,
+        "width": 10,
+        "height": 10
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 702.3204956054688,
+        "y": 128.33299255371094,
+        "width": 11.6669921875,
+        "height": 13.3330078125
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "337.975px",
+      "height": "478px",
+      "text": "123-456-7890123 Anywhere St., Any CitylaundryserviceWash, Fold and PressLeather CleaningSteam CleaningStain RemovalOur ServicesGet Disc Up To 30% Off",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9750061035156,
+        "height": 478
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 337.98px; height: 478px; margin: 0px;",
+      "width": "337.975px",
+      "height": "478px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9750061035156,
+        "height": 478
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "0px",
+      "height": "0px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "337.975px",
+      "height": "478px",
+      "text": "123-456-7890123 Anywhere St., Any CitylaundryserviceWash, Fold and PressLeather CleaningSteam CleaningStain RemovalOur ServicesGet Disc Up To 30% Off",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9750061035156,
+        "height": 478
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 337.98px; height: 478px; margin: 0px;",
+      "width": "337.975px",
+      "height": "478px",
+      "text": "123-456-7890123 Anywhere St., Any CitylaundryserviceWash, Fold and PressLeather CleaningSteam CleaningStain RemovalOur ServicesGet Disc Up To 30% Off",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9750061035156,
+        "height": 478
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 793.701px; height: 1122.52px; transform: scale(0.425828);",
+      "width": "793.7px",
+      "height": "1122.51px",
+      "text": "123-456-7890123 Anywhere St., Any CitylaundryserviceWash, Fold and PressLeather CleaningSteam CleaningStain RemovalOur ServicesGet Disc Up To 30% Off",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 477.9969177246094
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 793.701px; height: 1122.52px;",
+      "width": "793.7px",
+      "height": "1122.51px",
+      "text": "123-456-7890123 Anywhere St., Any CitylaundryserviceWash, Fold and PressLeather CleaningSteam CleaningStain RemovalOur ServicesGet Disc Up To 30% Off",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 477.9969177246094
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom;",
+      "width": "793.7px",
+      "height": "1122.51px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 477.9969177246094
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "793.7px",
+      "height": "1122.51px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 477.9969177246094
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "background: rgb(27, 27, 42);",
+      "width": "793.7px",
+      "height": "1122.51px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 477.9969177246094
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 79.3701px; left: 79.3701px; width: 634.961px; height: 963.78px;",
+      "width": "634.95px",
+      "height": "963.775px",
+      "text": null,
+      "position": {
+        "x": 418.8072204589844,
+        "y": 186.7947540283203,
+        "width": 270.3793029785156,
+        "height": 410.40216064453125
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 1061.72px; height: 790.499px; transform: translate(-217.782px, 492.832px) rotate(21.3569deg);",
+      "width": "1061.71px",
+      "height": "790.487px",
+      "text": null,
+      "position": {
+        "x": 246.50523376464844,
+        "y": 292.09600830078125,
+        "width": 543.6463012695312,
+        "height": 478.1427307128906
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 790.499px; width: 1061.72px; transform: scale(1);",
+      "width": "1061.71px",
+      "height": "790.487px",
+      "text": null,
+      "position": {
+        "x": 246.50523376464844,
+        "y": 292.09600830078125,
+        "width": 543.6463012695312,
+        "height": 478.1427307128906
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 1061.72px; height: 790.499px; margin-left: 0px; margin-top: 0px;",
+      "width": "1061.71px",
+      "height": "790.487px",
+      "text": null,
+      "position": {
+        "x": 246.50523376464844,
+        "y": 292.09600830078125,
+        "width": 543.6463012695312,
+        "height": 478.1427307128906
+      }
+    },
+    {
+      "tagName": "svg",
+      "clipPath": "M0,0L343.83498277892903,0L343.83498277892903,256L0,256Z",
+      "viewBox": null,
+      "clipPathId": "__id0",
+      "position": {
+        "x": 369.0909423828125,
+        "y": 292.09600830078125,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "clippath",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 329.3914489746094,
+        "y": 292.09600830078125,
+        "width": 176.05972290039062,
+        "height": 154.8466796875
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "clip-path: url(\"#__id0\"); background: rgb(176, 224, 94); width: 343.835px; height: 256px; transform: scale(3.08789, 3.08789); transform-origin: 0px 0px; touch-action: pan-x pan-y pinch-zoom;",
+      "width": "343.825px",
+      "height": "256px",
+      "text": null,
+      "position": {
+        "x": 246.50344848632812,
+        "y": 292.09600830078125,
+        "width": 543.64013671875,
+        "height": 478.1441345214844
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 416.763px; height: 416.761px; transform: translate(-17.188px, 205.569px) rotate(1.77636e-15deg);",
+      "width": "416.763px",
+      "height": "416.75px",
+      "text": null,
+      "position": {
+        "x": 377.6933898925781,
+        "y": 240.5367889404297,
+        "width": 177.46902465820312,
+        "height": 177.4636993408203
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 416.761px; width: 416.763px; transform: scale(1);",
+      "width": "416.763px",
+      "height": "416.75px",
+      "text": null,
+      "position": {
+        "x": 377.6933898925781,
+        "y": 240.5367889404297,
+        "width": 177.46902465820312,
+        "height": 177.4636993408203
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 416.763px; height: 416.761px; margin-left: 0px; margin-top: 0px;",
+      "width": "416.763px",
+      "height": "416.75px",
+      "text": null,
+      "position": {
+        "x": 377.6933898925781,
+        "y": 240.5367889404297,
+        "width": 177.46902465820312,
+        "height": 177.4636993408203
+      }
+    },
+    {
+      "tagName": "svg",
+      "clipPath": "M500.002000008,250.00300001200003C500.002000008,388.0685522742091 388.0705522822091,500 250.001000004,500C111.92944771779086,500 0,388.0685522742091 0,250.00300001200003C0,111.93044772179088 111.92944771779086,0 250.001000004,0C388.07255229020916,0 500.002000008,111.93044772179088 500.002000008,250.00300001200003Z",
+      "viewBox": null,
+      "clipPathId": "__id1",
+      "position": {
+        "x": 377.6933898925781,
+        "y": 240.5367889404297,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "clippath",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 377.6933898925781,
+        "y": 240.5367889404297,
+        "width": 212.9147186279297,
+        "height": 212.91384887695312
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "clip-path: url(\"#__id1\"); transform: scale(0.833522, 0.833522); transform-origin: 0px 0px; width: 500.002px; height: 500px; touch-action: pan-x pan-y pinch-zoom;",
+      "width": "500px",
+      "height": "500px",
+      "text": null,
+      "position": {
+        "x": 377.6933898925781,
+        "y": 240.5367889404297,
+        "width": 177.4684295654297,
+        "height": 177.4683837890625
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform-origin: 250.001px 250px;",
+      "width": "500px",
+      "height": "500px",
+      "text": null,
+      "position": {
+        "x": 377.6933898925781,
+        "y": 240.5367889404297,
+        "width": 177.4684295654297,
+        "height": 177.4683837890625
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 750.469px; height: 500px; transform: translate(-64.6765px, 0px) translate(375.235px, 250px) rotate(0deg) translate(-375.235px, -250px); transform-origin: 0px 0px;",
+      "width": "750.463px",
+      "height": "500px",
+      "text": null,
       "position": {
         "x": 354.7373046875,
         "y": 240.5367889404297,
@@ -87,10 +738,103 @@
     },
     {
       "tagName": "img",
-      "src": "blob:https://www.canva.com/3f6feff7-a7d6-490c-a808-5268527d23de",
-      "width": 494,
-      "height": 444,
-      "name": "Hand drawn circle line",
+      "src": "https://media-public.canva.com/sRXDI/MAEH-esRXDI/1/s.jpg",
+      "width": 750,
+      "height": 500,
+      "name": null,
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 354.7373046875,
+        "y": 240.5367889404297,
+        "width": 266.3667907714844,
+        "height": 177.4683837890625
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "416.763px",
+      "height": "416.75px",
+      "text": null,
+      "position": {
+        "x": 377.6933898925781,
+        "y": 240.5367889404297,
+        "width": 177.46902465820312,
+        "height": 177.4636993408203
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 493.541px; height: 444.187px; transform: translate(-32.9921px, 191.375px);",
+      "width": "493.538px",
+      "height": "444.175px",
+      "text": null,
+      "position": {
+        "x": 370.9635314941406,
+        "y": 234.4928436279297,
+        "width": 210.16197204589844,
+        "height": 189.1420135498047
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "493.538px",
+      "height": "444.175px",
+      "text": null,
+      "position": {
+        "x": 370.9635314941406,
+        "y": 234.4928436279297,
+        "width": 210.16197204589844,
+        "height": 189.1420135498047
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "493.538px",
+      "height": "444.175px",
+      "text": null,
+      "position": {
+        "x": 370.9635314941406,
+        "y": 234.4928436279297,
+        "width": 210.16197204589844,
+        "height": 189.1420135498047
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "493.538px",
+      "height": "444.175px",
+      "text": null,
+      "position": {
+        "x": 370.9635314941406,
+        "y": 234.4928436279297,
+        "width": 210.16197204589844,
+        "height": 189.1420135498047
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "493.538px",
+      "height": "444.175px",
+      "text": null,
+      "position": {
+        "x": 370.9635314941406,
+        "y": 234.4928436279297,
+        "width": 210.16197204589844,
+        "height": 189.1420135498047
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 493.541px; height: 444.187px; transform: translate(-2.84217e-14px, -8.52651e-14px) rotate(0deg);",
+      "width": "493.538px",
+      "height": "444.175px",
+      "text": null,
       "position": {
         "x": 370.9635314941406,
         "y": 234.4928436279297,
@@ -100,10 +844,141 @@
     },
     {
       "tagName": "img",
-      "src": "https://media-public.canva.com/Wrk-Q/MAEZ-7Wrk-Q/1/s.jpg",
-      "width": 750,
-      "height": 500,
-      "name": "Happy mother washing baby clothes in machine",
+      "src": "blob:https://www.canva.com/70c90858-32bf-4b8e-9f50-8420fbcf3bfc",
+      "width": 494,
+      "height": 444,
+      "name": "Hand drawn circle line",
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 370.9635314941406,
+        "y": 234.4928436279297,
+        "width": 210.16197204589844,
+        "height": 189.1420135498047
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 444.187px; width: 493.541px; pointer-events: none; transform: scale(1);",
+      "width": "493.538px",
+      "height": "444.175px",
+      "text": null,
+      "position": {
+        "x": 370.9635314941406,
+        "y": 234.4928436279297,
+        "width": 210.16197204589844,
+        "height": 189.1420135498047
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 346.256px; height: 346.255px; transform: translate(264.836px, 352.626px) rotate(1.77636e-15deg);",
+      "width": "346.25px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 497.78692626953125,
+        "y": 303.1579284667969,
+        "width": 147.4428253173828,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 346.255px; width: 346.256px; transform: scale(1);",
+      "width": "346.25px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 497.78692626953125,
+        "y": 303.1579284667969,
+        "width": 147.4428253173828,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 346.256px; height: 346.255px; margin-left: 0px; margin-top: 0px;",
+      "width": "346.25px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 497.78692626953125,
+        "y": 303.1579284667969,
+        "width": 147.4428253173828,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "svg",
+      "clipPath": "M500.002000008,250.00300001200003C500.002000008,388.0685522742091 388.0705522822091,500 250.001000004,500C111.92944771779086,500 0,388.0685522742091 0,250.00300001200003C0,111.93044772179088 111.92944771779086,0 250.001000004,0C388.07255229020916,0 500.002000008,111.93044772179088 500.002000008,250.00300001200003Z",
+      "viewBox": null,
+      "clipPathId": "__id5",
+      "position": {
+        "x": 497.78692626953125,
+        "y": 303.1579284667969,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "clippath",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 497.78692626953125,
+        "y": 303.1579284667969,
+        "width": 212.91470336914062,
+        "height": 212.9138641357422
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "clip-path: url(\"#__id5\"); transform: scale(0.69251, 0.69251); transform-origin: 0px 0px; width: 500.002px; height: 500px; touch-action: pan-x pan-y pinch-zoom;",
+      "width": "500px",
+      "height": "500px",
+      "text": null,
+      "position": {
+        "x": 497.78692626953125,
+        "y": 303.1579284667969,
+        "width": 147.44493103027344,
+        "height": 147.44497680664062
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform-origin: 250.001px 250px;",
+      "width": "500px",
+      "height": "500px",
+      "text": null,
+      "position": {
+        "x": 497.78692626953125,
+        "y": 303.1579284667969,
+        "width": 147.44493103027344,
+        "height": 147.44497680664062
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 750.469px; height: 500px; transform: translate(-132.067px, 0px) translate(375.235px, 250px) rotate(0deg) translate(-375.235px, -250px); transform-origin: 0px 0px;",
+      "width": "750.463px",
+      "height": "500px",
+      "text": null,
       "position": {
         "x": 458.8417663574219,
         "y": 303.1579284667969,
@@ -113,10 +988,103 @@
     },
     {
       "tagName": "img",
-      "src": "blob:https://www.canva.com/3f6feff7-a7d6-490c-a808-5268527d23de",
-      "width": 385,
-      "height": 346,
-      "name": "Hand drawn circle line",
+      "src": "https://media-public.canva.com/Wrk-Q/MAEZ-7Wrk-Q/1/s.jpg",
+      "width": 750,
+      "height": 500,
+      "name": "Happy mother washing baby clothes in machine",
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 458.8417663574219,
+        "y": 303.1579284667969,
+        "width": 221.30386352539062,
+        "height": 147.44497680664062
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "346.25px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 497.78692626953125,
+        "y": 303.1579284667969,
+        "width": 147.4428253173828,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 384.728px; height: 346.255px; transform: translate(259.562px, 348.06px);",
+      "width": "384.725px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 495.5411071777344,
+        "y": 301.2134704589844,
+        "width": 163.82656860351562,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "384.725px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 495.5411071777344,
+        "y": 301.2134704589844,
+        "width": 163.82656860351562,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "384.725px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 495.5411071777344,
+        "y": 301.2134704589844,
+        "width": 163.82656860351562,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "384.725px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 495.5411071777344,
+        "y": 301.2134704589844,
+        "width": 163.82656860351562,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "384.725px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 495.5411071777344,
+        "y": 301.2134704589844,
+        "width": 163.82656860351562,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 384.728px; height: 346.255px; transform: translate(-2.84217e-14px, -8.52651e-14px) rotate(0deg);",
+      "width": "384.725px",
+      "height": "346.25px",
+      "text": null,
       "position": {
         "x": 495.5411071777344,
         "y": 301.2134704589844,
@@ -126,10 +1094,141 @@
     },
     {
       "tagName": "img",
-      "src": "https://media-public.canva.com/Z6YqA/MAE7afZ6YqA/1/s.jpg",
-      "width": 750,
-      "height": 500,
-      "name": "People Inside Laundry Facility",
+      "src": "blob:https://www.canva.com/70c90858-32bf-4b8e-9f50-8420fbcf3bfc",
+      "width": 385,
+      "height": 346,
+      "name": "Hand drawn circle line",
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 495.5411071777344,
+        "y": 301.2134704589844,
+        "width": 163.82656860351562,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 346.255px; width: 384.728px; pointer-events: none; transform: scale(1);",
+      "width": "384.725px",
+      "height": "346.25px",
+      "text": null,
+      "position": {
+        "x": 495.5411071777344,
+        "y": 301.2134704589844,
+        "width": 163.82656860351562,
+        "height": 147.44287109375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 284.824px; height: 284.823px; transform: translate(508.326px, 504.477px) rotate(1.77636e-15deg);",
+      "width": "284.812px",
+      "height": "284.812px",
+      "text": null,
+      "position": {
+        "x": 601.4719848632812,
+        "y": 367.8200988769531,
+        "width": 121.28105926513672,
+        "height": 121.28108215332031
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 284.823px; width: 284.824px; transform: scale(1);",
+      "width": "284.812px",
+      "height": "284.812px",
+      "text": null,
+      "position": {
+        "x": 601.4719848632812,
+        "y": 367.8200988769531,
+        "width": 121.28105926513672,
+        "height": 121.28108215332031
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 284.824px; height: 284.823px; margin-left: 0px; margin-top: 0px;",
+      "width": "284.812px",
+      "height": "284.812px",
+      "text": null,
+      "position": {
+        "x": 601.4719848632812,
+        "y": 367.8200988769531,
+        "width": 121.28105926513672,
+        "height": 121.28108215332031
+      }
+    },
+    {
+      "tagName": "svg",
+      "clipPath": "M500.002000008,250.00300001200003C500.002000008,388.0685522742091 388.0705522822091,500 250.001000004,500C111.92944771779086,500 0,388.0685522742091 0,250.00300001200003C0,111.93044772179088 111.92944771779086,0 250.001000004,0C388.07255229020916,0 500.002000008,111.93044772179088 500.002000008,250.00300001200003Z",
+      "viewBox": null,
+      "clipPathId": "__id9",
+      "position": {
+        "x": 601.4719848632812,
+        "y": 367.8200988769531,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "clippath",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 601.4719848632812,
+        "y": 367.8200988769531,
+        "width": 212.91465759277344,
+        "height": 212.91384887695312
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "clip-path: url(\"#__id9\"); transform: scale(0.569646, 0.569646); transform-origin: 0px 0px; width: 500.002px; height: 500px; touch-action: pan-x pan-y pinch-zoom;",
+      "width": "500px",
+      "height": "500px",
+      "text": null,
+      "position": {
+        "x": 601.4719848632812,
+        "y": 367.8200988769531,
+        "width": 121.285400390625,
+        "height": 121.2854232788086
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: scale(-1, 1); transform-origin: 250.001px 250px;",
+      "width": "500px",
+      "height": "500px",
+      "text": null,
+      "position": {
+        "x": 601.4724731445312,
+        "y": 367.8200988769531,
+        "width": 121.28545379638672,
+        "height": 121.2854232788086
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 750.469px; height: 500px; transform: translate(-222.149px, 0px) translate(375.235px, 250px) rotate(0deg) translate(-375.235px, -250px); transform-origin: 0px 0px;",
+      "width": "750.463px",
+      "height": "500px",
+      "text": null,
       "position": {
         "x": 594.6044921875,
         "y": 367.8200988769531,
@@ -139,10 +1238,103 @@
     },
     {
       "tagName": "img",
-      "src": "blob:https://www.canva.com/3f6feff7-a7d6-490c-a808-5268527d23de",
-      "width": 341,
-      "height": 306,
-      "name": "Hand drawn circle line",
+      "src": "https://media-public.canva.com/Z6YqA/MAE7afZ6YqA/1/s.jpg",
+      "width": 750,
+      "height": 500,
+      "name": "People Inside Laundry Facility",
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 594.6044921875,
+        "y": 367.8200988769531,
+        "width": 182.0403289794922,
+        "height": 121.2854232788086
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "284.812px",
+      "height": "284.812px",
+      "text": null,
+      "position": {
+        "x": 601.4719848632812,
+        "y": 367.8200988769531,
+        "width": 121.28105926513672,
+        "height": 121.28108215332031
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 340.511px; height: 306.46px; transform: translate(488.836px, 493.658px);",
+      "width": "340.5px",
+      "height": "306.45px",
+      "text": null,
+      "position": {
+        "x": 593.1724853515625,
+        "y": 363.21331787109375,
+        "width": 144.9943389892578,
+        "height": 130.49490356445312
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "340.5px",
+      "height": "306.45px",
+      "text": null,
+      "position": {
+        "x": 593.1724853515625,
+        "y": 363.21331787109375,
+        "width": 144.9943389892578,
+        "height": 130.49490356445312
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "340.5px",
+      "height": "306.45px",
+      "text": null,
+      "position": {
+        "x": 593.1724853515625,
+        "y": 363.21331787109375,
+        "width": 144.9943389892578,
+        "height": 130.49490356445312
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "340.5px",
+      "height": "306.45px",
+      "text": null,
+      "position": {
+        "x": 593.1724853515625,
+        "y": 363.21331787109375,
+        "width": 144.9943389892578,
+        "height": 130.49490356445312
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: scale(1, -1);",
+      "width": "340.5px",
+      "height": "306.45px",
+      "text": null,
+      "position": {
+        "x": 593.1724853515625,
+        "y": 363.21331787109375,
+        "width": 144.9943389892578,
+        "height": 130.49490356445312
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 340.511px; height: 306.46px; transform: translate(-5.68434e-14px, -2.84217e-14px) rotate(0deg);",
+      "width": "340.5px",
+      "height": "306.45px",
+      "text": null,
       "position": {
         "x": 593.1724853515625,
         "y": 363.21331787109375,
@@ -152,10 +1344,244 @@
     },
     {
       "tagName": "img",
-      "src": "blob:https://www.canva.com/7c96ba4e-9432-4c2e-a1e0-53e722e45a51",
-      "width": 26,
-      "height": 26,
-      "name": "Phone Call Glyph Icon",
+      "src": "blob:https://www.canva.com/70c90858-32bf-4b8e-9f50-8420fbcf3bfc",
+      "width": 341,
+      "height": 306,
+      "name": "Hand drawn circle line",
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 593.1724853515625,
+        "y": 363.21331787109375,
+        "width": 144.9943389892578,
+        "height": 130.49490356445312
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 306.46px; width: 340.511px; pointer-events: none; transform: scale(1);",
+      "width": "340.5px",
+      "height": "306.45px",
+      "text": null,
+      "position": {
+        "x": 593.1724853515625,
+        "y": 363.21331787109375,
+        "width": 144.9943389892578,
+        "height": 130.49490356445312
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 433.353px; height: 92.6995px; transform: translate(-72.8957px, 675.339px);",
+      "width": "433.35px",
+      "height": "92.6875px",
+      "text": null,
+      "position": {
+        "x": 353.97149658203125,
+        "y": 440.5782165527344,
+        "width": 184.5324249267578,
+        "height": 39.46894454956055
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 92.6995px; width: 433.353px; transform: scale(1);",
+      "width": "433.35px",
+      "height": "92.6875px",
+      "text": null,
+      "position": {
+        "x": 353.97149658203125,
+        "y": 440.5782165527344,
+        "width": 184.5324249267578,
+        "height": 39.46894454956055
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 433.353px; height: 92.6995px; margin-left: 0px; margin-top: 0px;",
+      "width": "433.35px",
+      "height": "92.6875px",
+      "text": null,
+      "position": {
+        "x": 353.97149658203125,
+        "y": 440.5782165527344,
+        "width": 184.5324249267578,
+        "height": 39.46894454956055
+      }
+    },
+    {
+      "tagName": "svg",
+      "clipPath": "M1044.4806402814215,0C1128.577692091308,0 1196.7518225576875,57.30755202165845 1196.7518225576875,128C1196.7518225576875,198.69244797834153 1128.577692091308,256 1044.4806402814215,256L152.27118227626588,256C68.17413046637924,256 0,198.6924479783416 0,128C0,57.30755202165848 68.17413046637921,0 152.27118227626588,0Z",
+      "viewBox": null,
+      "clipPathId": "__id13",
+      "position": {
+        "x": 353.97149658203125,
+        "y": 440.5782165527344,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "clippath",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 353.97149658203125,
+        "y": 440.5782165527344,
+        "width": 509.61016845703125,
+        "height": 109.01191711425781
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "clip-path: url(\"#__id13\"); background: rgb(27, 27, 42); width: 1196.75px; height: 256px; transform: scale(0.362108, 0.362108); transform-origin: 0px 0px; touch-action: pan-x pan-y pinch-zoom;",
+      "width": "1196.75px",
+      "height": "256px",
+      "text": null,
+      "position": {
+        "x": 353.97149658203125,
+        "y": 440.5782165527344,
+        "width": 184.5334014892578,
+        "height": 39.47402572631836
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 664.53px; height: 48.5108px; transform: translate(64.5856px, 993.134px);",
+      "width": "664.525px",
+      "height": "48.5px",
+      "text": null,
+      "position": {
+        "x": 412.5148620605469,
+        "y": 575.9039306640625,
+        "width": 282.97314453125,
+        "height": 20.652637481689453
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 48.5108px; width: 664.53px; transform: scale(1);",
+      "width": "664.525px",
+      "height": "48.5px",
+      "text": null,
+      "position": {
+        "x": 412.5148620605469,
+        "y": 575.9039306640625,
+        "width": 282.97314453125,
+        "height": 20.652637481689453
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 664.53px; height: 48.5108px; margin-left: 0px; margin-top: 0px;",
+      "width": "664.525px",
+      "height": "48.5px",
+      "text": null,
+      "position": {
+        "x": 412.5148620605469,
+        "y": 575.9039306640625,
+        "width": 282.97314453125,
+        "height": 20.652637481689453
+      }
+    },
+    {
+      "tagName": "svg",
+      "clipPath": "M128.00000007195032,0L3378.841595979914,0C3449.5340438567964,0 3506.8415958555283,57.30755199873203 3506.8415958555283,128.00000007195032C3506.8415958555283,198.69244794883264 3449.5340438567964,255.99999994756465 3378.841595979914,255.99999994756465L128.00000007195032,255.99999994756465C57.30755199873203,255.99999994756465 0,198.69244794883264 0,128.00000007195032C0,57.30755199873203 57.30755199873203,0 128.00000007195032,0Z",
+      "viewBox": null,
+      "clipPathId": "__id14",
+      "position": {
+        "x": 412.5148620605469,
+        "y": 575.9039306640625,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "clippath",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "path",
+      "text": null,
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "10px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "normal",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "position": {
+        "x": 412.5148620605469,
+        "y": 575.9039306640625,
+        "width": 1493.3101806640625,
+        "height": 109.0118637084961
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "clip-path: url(\"#__id14\"); background: rgb(27, 27, 42); width: 3506.84px; height: 256px; transform: scale(0.189495, 0.189495); transform-origin: 0px 0px; touch-action: pan-x pan-y pinch-zoom;",
+      "width": "3506.84px",
+      "height": "256px",
+      "text": null,
+      "position": {
+        "x": 412.5148620605469,
+        "y": 575.9039306640625,
+        "width": 282.9748229980469,
+        "height": 20.65717887878418
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 634.961px; height: 40.1823px; transform: translate(79.3701px, 997.298px);",
+      "width": "634.95px",
+      "height": "40.175px",
+      "text": "123-456-7890123 Anywhere St., Any City",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 270.3792419433594,
+        "height": 17.10761833190918
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 412.514px; height: 26.1051px; transform: scale(1.53925, 1.53925); transform-origin: 0px 0px;",
+      "width": "412.513px",
+      "height": "26.1px",
+      "text": "123-456-7890123 Anywhere St., Any City",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 270.3830261230469,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 26.1051px; height: 26.1051px; transform: translate(2.84217e-14px, 7.10543e-15px);",
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
       "position": {
         "x": 418.8105163574219,
         "y": 577.6771850585938,
@@ -164,9 +1590,159 @@
       }
     },
     {
+      "tagName": "div",
+      "style": null,
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 26.1051px; height: 26.1051px; transform: translate(0px, 0px) rotate(0deg);",
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "blob:https://www.canva.com/5a2f7a36-1bf1-43f0-b9ff-2f2ae7bad036",
+      "width": 26,
+      "height": 26,
+      "name": "Phone Call Glyph Icon",
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 26.1051px; width: 26.1051px; pointer-events: none; transform: scale(1);",
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "412.513px",
+      "height": "0px",
+      "text": "123-456-7890",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 270.3830261230469,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 113.031px; height: 18.7294px; transform: translate(33.1679px, 3.6879px);",
+      "width": "113.025px",
+      "height": "18.725px",
+      "text": "123-456-7890",
+      "position": {
+        "x": 440.5505065917969,
+        "y": 580.0944213867188,
+        "width": 74.08271789550781,
+        "height": 12.273388862609863
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 113.031px; height: 18.7294px;",
+      "width": "113.025px",
+      "height": "18.725px",
+      "text": "123-456-7890",
+      "position": {
+        "x": 440.5505065917969,
+        "y": 580.0944213867188,
+        "width": 74.08271789550781,
+        "height": 12.273388862609863
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(0px, -1.63532px);",
+      "width": "113.025px",
+      "height": "22px",
+      "text": "123-456-7890",
+      "position": {
+        "x": 440.5505065917969,
+        "y": 579.0225219726562,
+        "width": 74.08271789550781,
+        "height": 14.419970512390137
+      }
+    },
+    {
       "tagName": "p",
       "text": "123-456-7890",
       "color": "rgb(255, 255, 255)",
+      "fontSize": "16.3532px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 440.5505065917969,
@@ -179,6 +1755,11 @@
       "tagName": "span",
       "text": "123-456-7890",
       "color": "rgb(255, 255, 255)",
+      "fontSize": "16.3532px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 440.5505065917969,
@@ -188,11 +1769,11 @@
       }
     },
     {
-      "tagName": "img",
-      "src": "blob:https://www.canva.com/d15e8beb-689c-4edd-a1ad-53df52c1b365",
-      "width": 26,
-      "height": 26,
-      "name": "location glyph icon",
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 26.1051px; height: 26.1051px; transform: translate(164.484px, -3.19744e-14px);",
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
       "position": {
         "x": 526.6220092773438,
         "y": 577.6771850585938,
@@ -201,9 +1782,159 @@
       }
     },
     {
+      "tagName": "div",
+      "style": null,
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 526.6220092773438,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 526.6220092773438,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 526.6220092773438,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 526.6220092773438,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 26.1051px; height: 26.1051px; transform: translate(-1.77636e-15px, -1.77636e-15px) rotate(0deg);",
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 526.6220092773438,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "blob:https://www.canva.com/0cece6f4-c48d-491d-8826-87aefe9b512d",
+      "width": 26,
+      "height": 26,
+      "name": "location glyph icon",
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 526.6220092773438,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 26.1051px; width: 26.1051px; pointer-events: none; transform: scale(1);",
+      "width": "26.1px",
+      "height": "26.1px",
+      "text": null,
+      "position": {
+        "x": 526.6220092773438,
+        "y": 577.6771850585938,
+        "width": 17.107324600219727,
+        "height": 17.107324600219727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "412.513px",
+      "height": "0px",
+      "text": "123 Anywhere St., Any City",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 577.6771850585938,
+        "width": 270.3830261230469,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 214.862px; height: 18.7294px; transform: translate(197.652px, 3.6879px);",
+      "width": "214.85px",
+      "height": "18.725px",
+      "text": "123 Anywhere St., Any City",
+      "position": {
+        "x": 548.3619995117188,
+        "y": 580.0944213867188,
+        "width": 140.82432556152344,
+        "height": 12.273388862609863
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 214.862px; height: 18.7294px; transform: scale(1, 1); transform-origin: 0px 0px;",
+      "width": "214.85px",
+      "height": "18.725px",
+      "text": "123 Anywhere St., Any City",
+      "position": {
+        "x": 548.3619995117188,
+        "y": 580.0944213867188,
+        "width": 140.82432556152344,
+        "height": 12.273388862609863
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(0px, -1.63532px);",
+      "width": "214.85px",
+      "height": "22px",
+      "text": "123 Anywhere St., Any City",
+      "position": {
+        "x": 548.3619995117188,
+        "y": 579.0225219726562,
+        "width": 140.82432556152344,
+        "height": 14.419970512390137
+      }
+    },
+    {
       "tagName": "p",
       "text": "123 Anywhere St., Any City",
       "color": "rgb(255, 255, 255)",
+      "fontSize": "16.3532px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 548.3619995117188,
@@ -216,6 +1947,11 @@
       "tagName": "span",
       "text": "123 Anywhere St., Any City",
       "color": "rgb(255, 255, 255)",
+      "fontSize": "16.3532px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 548.3619995117188,
@@ -225,11 +1961,76 @@
       }
     },
     {
-      "tagName": "img",
-      "src": "https://media-public.canva.com/_Il3A/MADWDV_Il3A/2/t.png",
-      "width": 167,
-      "height": 124,
-      "name": "Brushstroke Arrow Smooth Curve Down",
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 167.286px; height: 123.791px; transform: translate(463.911px, 804.715px) rotate(34.8174deg);",
+      "width": "167.275px",
+      "height": "123.787px",
+      "text": null,
+      "position": {
+        "x": 573.8864135742188,
+        "y": 480.0534362792969,
+        "width": 88.5750961303711,
+        "height": 83.94526672363281
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "167.275px",
+      "height": "123.787px",
+      "text": null,
+      "position": {
+        "x": 573.8864135742188,
+        "y": 480.0534362792969,
+        "width": 88.5750961303711,
+        "height": 83.94526672363281
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "167.275px",
+      "height": "123.787px",
+      "text": null,
+      "position": {
+        "x": 573.8864135742188,
+        "y": 480.0534362792969,
+        "width": 88.5750961303711,
+        "height": 83.94526672363281
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "167.275px",
+      "height": "123.787px",
+      "text": null,
+      "position": {
+        "x": 573.8864135742188,
+        "y": 480.0534362792969,
+        "width": 88.5750961303711,
+        "height": 83.94526672363281
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: scale(-1, 1);",
+      "width": "167.275px",
+      "height": "123.787px",
+      "text": null,
+      "position": {
+        "x": 573.8864135742188,
+        "y": 480.0534362792969,
+        "width": 88.5750961303711,
+        "height": 83.94526672363281
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 167.286px; height: 123.791px; transform: translate(-1.42109e-14px, 7.10543e-15px) rotate(0deg);",
+      "width": "167.275px",
+      "height": "123.787px",
+      "text": null,
       "position": {
         "x": 573.8864135742188,
         "y": 480.0534362792969,
@@ -239,10 +2040,38 @@
     },
     {
       "tagName": "img",
-      "src": "blob:https://www.canva.com/f8029a2b-1a42-492d-bdc7-e42593ae8b4c",
-      "width": 164,
-      "height": 41,
-      "name": "Horiz More Icon",
+      "src": "https://media-public.canva.com/_Il3A/MADWDV_Il3A/2/t.png",
+      "width": 167,
+      "height": 124,
+      "name": "Brushstroke Arrow Smooth Curve Down",
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 573.8864135742188,
+        "y": 480.0534362792969,
+        "width": 88.5750961303711,
+        "height": 83.94526672363281
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 123.791px; width: 167.286px; pointer-events: none; transform: scale(1);",
+      "width": "167.275px",
+      "height": "123.787px",
+      "text": null,
+      "position": {
+        "x": 573.8864135742188,
+        "y": 480.0534362792969,
+        "width": 88.5750961303711,
+        "height": 83.94526672363281
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 164.399px; height: 41.0998px; transform: translate(22.6116px, 43.9396px);",
+      "width": "164.387px",
+      "height": "41.0875px",
+      "text": null,
       "position": {
         "x": 394.6411437988281,
         "y": 171.710693359375,
@@ -251,9 +2080,159 @@
       }
     },
     {
+      "tagName": "div",
+      "style": null,
+      "width": "164.387px",
+      "height": "41.0875px",
+      "text": null,
+      "position": {
+        "x": 394.6411437988281,
+        "y": 171.710693359375,
+        "width": 70.0007553100586,
+        "height": 17.496191024780273
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "164.387px",
+      "height": "41.0875px",
+      "text": null,
+      "position": {
+        "x": 394.6411437988281,
+        "y": 171.710693359375,
+        "width": 70.0007553100586,
+        "height": 17.496191024780273
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "164.387px",
+      "height": "41.0875px",
+      "text": null,
+      "position": {
+        "x": 394.6411437988281,
+        "y": 171.710693359375,
+        "width": 70.0007553100586,
+        "height": 17.496191024780273
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "164.387px",
+      "height": "41.0875px",
+      "text": null,
+      "position": {
+        "x": 394.6411437988281,
+        "y": 171.710693359375,
+        "width": 70.0007553100586,
+        "height": 17.496191024780273
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 164.399px; height: 41.0998px; transform: translate(0px, 0px) rotate(0deg);",
+      "width": "164.387px",
+      "height": "41.0875px",
+      "text": null,
+      "position": {
+        "x": 394.6411437988281,
+        "y": 171.710693359375,
+        "width": 70.0007553100586,
+        "height": 17.496191024780273
+      }
+    },
+    {
+      "tagName": "img",
+      "src": "blob:https://www.canva.com/faac0c53-08a5-4946-8f91-186d0ec8aa51",
+      "width": 164,
+      "height": 41,
+      "name": "Horiz More Icon",
+      "borderRadius": "0px",
+      "borderWidth": "0px",
+      "position": {
+        "x": 394.6411437988281,
+        "y": 171.710693359375,
+        "width": 70.0007553100586,
+        "height": 17.496191024780273
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 41.0998px; width: 164.399px; pointer-events: none; transform: scale(1);",
+      "width": "164.387px",
+      "height": "41.0875px",
+      "text": null,
+      "position": {
+        "x": 394.6411437988281,
+        "y": 171.710693359375,
+        "width": 70.0007553100586,
+        "height": 17.496191024780273
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "793.7px",
+      "height": "0px",
+      "text": "laundry",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 450.989px; height: 91.9037px; transform: translate(263.341px, 76.7717px);",
+      "width": "450.987px",
+      "height": "91.9px",
+      "text": "laundry",
+      "position": {
+        "x": 497.1506042480469,
+        "y": 185.69151306152344,
+        "width": 192.04296875,
+        "height": 39.13357162475586
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 272.741px; height: 55.5799px; transform: scale(1.65354, 1.65354); transform-origin: 0px 0px;",
+      "width": "272.737px",
+      "height": "55.575px",
+      "text": "laundry",
+      "position": {
+        "x": 497.1506042480469,
+        "y": 185.69151306152344,
+        "width": 192.04116821289062,
+        "height": 39.1317138671875
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(1.13041px, -4.71006px);",
+      "width": "272.737px",
+      "height": "65px",
+      "text": "laundry",
+      "position": {
+        "x": 497.9465026855469,
+        "y": 182.37503051757812,
+        "width": 192.0412139892578,
+        "height": 45.76811599731445
+      }
+    },
+    {
       "tagName": "p",
       "text": "laundry",
       "color": "rgb(176, 224, 94)",
+      "fontSize": "47.1006px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "1.13041px",
+      "lineHeight": "65px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 497.9465026855469,
@@ -266,6 +2245,11 @@
       "tagName": "span",
       "text": "laundry",
       "color": "rgb(176, 224, 94)",
+      "fontSize": "47.1006px",
+      "fontWeight": "800",
+      "fontStyle": "normal",
+      "letterSpacing": "1.13041px",
+      "lineHeight": "65px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 510.40948486328125,
@@ -275,9 +2259,66 @@
       }
     },
     {
+      "tagName": "div",
+      "style": null,
+      "width": "793.7px",
+      "height": "0px",
+      "text": "service",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 374.991px; height: 92.1208px; transform: translate(339.34px, 145.315px);",
+      "width": "374.987px",
+      "height": "92.1125px",
+      "text": "service",
+      "position": {
+        "x": 529.5127563476562,
+        "y": 214.87905883789062,
+        "width": 159.6801300048828,
+        "height": 39.22404861450195
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 205.432px; height: 50.4667px; transform: scale(1.82538, 1.82538); transform-origin: 0px 0px;",
+      "width": "205.425px",
+      "height": "50.4625px",
+      "text": "service",
+      "position": {
+        "x": 529.5127563476562,
+        "y": 214.87905883789062,
+        "width": 159.6763153076172,
+        "height": 39.224365234375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(0px, -4.26667px);",
+      "width": "205.425px",
+      "height": "59px",
+      "text": "service",
+      "position": {
+        "x": 529.5127563476562,
+        "y": 211.5625762939453,
+        "width": 159.6763153076172,
+        "height": 45.86052322387695
+      }
+    },
+    {
       "tagName": "p",
       "text": "service",
       "color": "rgb(176, 224, 94)",
+      "fontSize": "42.6667px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "59px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 529.5127563476562,
@@ -290,6 +2331,11 @@
       "tagName": "span",
       "text": "service",
       "color": "rgb(176, 224, 94)",
+      "fontSize": "42.6667px",
+      "fontWeight": "800",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "59px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 537.4994506835938,
@@ -299,14 +2345,71 @@
       }
     },
     {
-      "tagName": "li",
+      "tagName": "div",
+      "style": null,
+      "width": "793.7px",
+      "height": "0px",
       "text": "Wash, Fold and Press",
-      "color": "rgb(27, 27, 42)",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 360.408px; height: 33.9821px; transform: translate(83.1375px, 783.127px);",
+      "width": "360.4px",
+      "height": "33.975px",
+      "text": "Wash, Fold and Press",
+      "position": {
+        "x": 420.4147644042969,
+        "y": 486.47705078125,
+        "width": 153.46826171875,
+        "height": 14.467480659484863
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 217.961px; height: 20.5511px; transform: scale(1.65354, 1.65354); transform-origin: 0px 0px;",
+      "width": "217.95px",
+      "height": "20.55px",
+      "text": "Wash, Fold and Press",
+      "position": {
+        "x": 420.4147644042969,
+        "y": 486.47705078125,
+        "width": 153.46397399902344,
+        "height": 14.469775199890137
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(0px, -1.72446px);",
+      "width": "217.95px",
+      "height": "24px",
+      "text": "Wash, Fold and Press",
+      "position": {
+        "x": 420.4147644042969,
+        "y": 485.2627868652344,
+        "width": 153.46397399902344,
+        "height": 16.899023056030273
+      }
+    },
+    {
+      "tagName": "ul",
+      "text": "Wash, Fold and Press",
+      "color": "rgb(0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
-        "x": 441.0544128417969,
+        "x": 420.4147644042969,
         "y": 485.2627868652344,
-        "width": 132.82432556152344,
+        "width": 153.46397399902344,
         "height": 16.899023056030273
       }
     },
@@ -314,6 +2417,11 @@
       "tagName": "span",
       "text": "Wash, Fold and Press",
       "color": "rgb(27, 27, 42)",
+      "fontSize": "17.2446px",
+      "fontWeight": "500",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "24px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 441.0544128417969,
@@ -323,14 +2431,71 @@
       }
     },
     {
-      "tagName": "li",
+      "tagName": "div",
+      "style": null,
+      "width": "793.7px",
+      "height": "0px",
       "text": "Leather Cleaning",
-      "color": "rgb(27, 27, 42)",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 307.866px; height: 33.9821px; transform: translate(79.3701px, 825.395px);",
+      "width": "307.862px",
+      "height": "33.975px",
+      "text": "Leather Cleaning",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 504.47589111328125,
+        "width": 131.09634399414062,
+        "height": 14.467529296875
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 186.186px; height: 20.5511px; transform: scale(1.65354, 1.65354); transform-origin: 0px 0px;",
+      "width": "186.175px",
+      "height": "20.55px",
+      "text": "Leather Cleaning",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 504.47589111328125,
+        "width": 131.0903778076172,
+        "height": 14.469775199890137
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(0px, -1.72446px);",
+      "width": "186.175px",
+      "height": "24px",
+      "text": "Leather Cleaning",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 503.2616882324219,
+        "width": 131.0903778076172,
+        "height": 16.898975372314453
+      }
+    },
+    {
+      "tagName": "ul",
+      "text": "Leather Cleaning",
+      "color": "rgb(0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
-        "x": 439.4501647949219,
+        "x": 418.8105163574219,
         "y": 503.2616882324219,
-        "width": 110.45073699951172,
+        "width": 131.0903778076172,
         "height": 16.898975372314453
       }
     },
@@ -338,6 +2503,11 @@
       "tagName": "span",
       "text": "Leather Cleaning",
       "color": "rgb(27, 27, 42)",
+      "fontSize": "17.2446px",
+      "fontWeight": "500",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "24px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 439.4501647949219,
@@ -347,14 +2517,71 @@
       }
     },
     {
-      "tagName": "li",
+      "tagName": "div",
+      "style": null,
+      "width": "793.7px",
+      "height": "0px",
       "text": "Steam Cleaning",
-      "color": "rgb(27, 27, 42)",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 291.495px; height: 33.9821px; transform: translate(79.3701px, 867.47px);",
+      "width": "291.487px",
+      "height": "33.975px",
+      "text": "Steam Cleaning",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 522.3927612304688,
+        "width": 124.1234359741211,
+        "height": 14.467480659484863
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 176.285px; height: 20.5511px; transform: scale(1.65354, 1.65354); transform-origin: 0px 0px;",
+      "width": "176.275px",
+      "height": "20.55px",
+      "text": "Steam Cleaning",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 522.3927612304688,
+        "width": 124.1195297241211,
+        "height": 14.4697265625
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(0px, -1.72446px);",
+      "width": "176.275px",
+      "height": "24px",
+      "text": "Steam Cleaning",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 521.1785278320312,
+        "width": 124.1195297241211,
+        "height": 16.899023056030273
+      }
+    },
+    {
+      "tagName": "ul",
+      "text": "Steam Cleaning",
+      "color": "rgb(0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
-        "x": 439.4501647949219,
+        "x": 418.8105163574219,
         "y": 521.1785278320312,
-        "width": 103.4798812866211,
+        "width": 124.1195297241211,
         "height": 16.899023056030273
       }
     },
@@ -362,6 +2589,11 @@
       "tagName": "span",
       "text": "Steam Cleaning",
       "color": "rgb(27, 27, 42)",
+      "fontSize": "17.2446px",
+      "fontWeight": "500",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "24px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 439.4501647949219,
@@ -371,14 +2603,71 @@
       }
     },
     {
-      "tagName": "li",
+      "tagName": "div",
+      "style": null,
+      "width": "793.7px",
+      "height": "0px",
       "text": "Stain Removal",
-      "color": "rgb(27, 27, 42)",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 268.817px; height: 33.9821px; transform: translate(79.3701px, 909.545px);",
+      "width": "268.812px",
+      "height": "33.975px",
+      "text": "Stain Removal",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 540.3096923828125,
+        "width": 114.4677734375,
+        "height": 14.467480659484863
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 162.57px; height: 20.5511px; transform: scale(1.65354, 1.65354); transform-origin: 0px 0px;",
+      "width": "162.562px",
+      "height": "20.55px",
+      "text": "Stain Removal",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 540.3096923828125,
+        "width": 114.4642105102539,
+        "height": 14.4697265625
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(0px, -1.72446px);",
+      "width": "162.562px",
+      "height": "24px",
+      "text": "Stain Removal",
+      "position": {
+        "x": 418.8105163574219,
+        "y": 539.0953979492188,
+        "width": 114.4642105102539,
+        "height": 16.899023056030273
+      }
+    },
+    {
+      "tagName": "ul",
+      "text": "Stain Removal",
+      "color": "rgb(0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
-        "x": 439.4501647949219,
+        "x": 418.8105163574219,
         "y": 539.0953979492188,
-        "width": 93.8245620727539,
+        "width": 114.4642105102539,
         "height": 16.899023056030273
       }
     },
@@ -386,6 +2675,11 @@
       "tagName": "span",
       "text": "Stain Removal",
       "color": "rgb(27, 27, 42)",
+      "fontSize": "17.2446px",
+      "fontWeight": "500",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "24px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 439.4501647949219,
@@ -395,9 +2689,66 @@
       }
     },
     {
+      "tagName": "div",
+      "style": null,
+      "width": "793.7px",
+      "height": "0px",
+      "text": "Our Services",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 263.808px; height: 47.1898px; transform: translate(90.454px, 698.094px);",
+      "width": "263.8px",
+      "height": "47.1875px",
+      "text": "Our Services",
+      "position": {
+        "x": 423.53033447265625,
+        "y": 450.26788330078125,
+        "width": 112.3333511352539,
+        "height": 20.09375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 172.241px; height: 30.8103px; transform: scale(1.53163, 1.53163); transform-origin: 0px 0px;",
+      "width": "172.238px",
+      "height": "30.8px",
+      "text": "Our Services",
+      "position": {
+        "x": 423.53033447265625,
+        "y": 450.26788330078125,
+        "width": 112.3348159790039,
+        "height": 20.088037490844727
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(0px, -2.59486px);",
+      "width": "172.238px",
+      "height": "36px",
+      "text": "Our Services",
+      "position": {
+        "x": 423.53033447265625,
+        "y": 448.57550048828125,
+        "width": 112.3348159790039,
+        "height": 23.4794921875
+      }
+    },
+    {
       "tagName": "p",
       "text": "Our Services",
       "color": "rgb(176, 224, 94)",
+      "fontSize": "25.9486px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "36px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 423.53033447265625,
@@ -410,6 +2761,11 @@
       "tagName": "span",
       "text": "Our Services",
       "color": "rgb(176, 224, 94)",
+      "fontSize": "25.9486px",
+      "fontWeight": "500",
+      "fontStyle": "italic",
+      "letterSpacing": "normal",
+      "lineHeight": "36px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 423.53033447265625,
@@ -419,9 +2775,66 @@
       }
     },
     {
+      "tagName": "div",
+      "style": null,
+      "width": "793.7px",
+      "height": "0px",
+      "text": "Get Disc Up To 30% Off",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9794616699219,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "touch-action: pan-x pan-y pinch-zoom; width: 366.151px; height: 32.5753px; transform: translate(348.187px, 223.599px);",
+      "width": "366.15px",
+      "height": "32.575px",
+      "text": "Get Disc Up To 30% Off",
+      "position": {
+        "x": 533.280029296875,
+        "y": 248.2145538330078,
+        "width": 155.91685485839844,
+        "height": 13.871337890625
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "writing-mode: horizontal-tb; width: 230.511px; height: 20.5078px; transform: scale(1.58843, 1.58843); transform-origin: 0px 0px;",
+      "width": "230.5px",
+      "height": "20.5px",
+      "text": "Get Disc Up To 30% Off",
+      "position": {
+        "x": 533.280029296875,
+        "y": 248.2145538330078,
+        "width": 155.9097137451172,
+        "height": 13.866162300109863
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "transform: translate(0.261914px, -1.74609px);",
+      "width": "230.5px",
+      "height": "24px",
+      "text": "Get Disc Up To 30% Off",
+      "position": {
+        "x": 533.4572143554688,
+        "y": 247.0334930419922,
+        "width": 155.90977478027344,
+        "height": 16.233545303344727
+      }
+    },
+    {
       "tagName": "p",
       "text": "Get Disc Up To 30% Off",
       "color": "rgb(255, 255, 255)",
+      "fontSize": "17.4609px",
+      "fontWeight": "400",
+      "fontStyle": "normal",
+      "letterSpacing": "0.261913px",
+      "lineHeight": "24px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 533.4572143554688,
@@ -434,6 +2847,11 @@
       "tagName": "span",
       "text": "Get Disc Up To 30% Off",
       "color": "rgb(255, 255, 255)",
+      "fontSize": "17.4609px",
+      "fontWeight": "400",
+      "fontStyle": "italic",
+      "letterSpacing": "0.261913px",
+      "lineHeight": "24px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 545.0067138671875,
@@ -441,13 +2859,174 @@
         "width": 144.36021423339844,
         "height": 16.774658203125
       }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 337.98px; height: 478px; margin: 0px;",
+      "width": "337.975px",
+      "height": "478px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9750061035156,
+        "height": 478
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "0px",
+      "height": "0px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "width: 337.98px; height: 478px; margin: 0px;",
+      "width": "337.975px",
+      "height": "478px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9750061035156,
+        "height": 478
+      }
+    },
+    {
+      "tagName": "div",
+      "style": "height: 147.445px; width: 163.828px; transform: translate(110.529px, 148.213px) rotate(0deg);",
+      "width": "163.825px",
+      "height": "147.438px",
+      "text": null,
+      "position": {
+        "x": 494.5411071777344,
+        "y": 300.2134704589844,
+        "width": 165.8249969482422,
+        "height": 149.4375
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "337.975px",
+      "height": "478px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9750061035156,
+        "height": 478
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "337.975px",
+      "height": "0px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9750061035156,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "337.975px",
+      "height": "0px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 337.9750061035156,
+        "height": 0
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "0px",
+      "height": "36px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 0,
+        "height": 36
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "0px",
+      "height": "36px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 0,
+        "height": 36
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "0px",
+      "height": "36px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 0,
+        "height": 36
+      }
+    },
+    {
+      "tagName": "div",
+      "style": null,
+      "width": "0px",
+      "height": "36px",
+      "text": null,
+      "position": {
+        "x": 385.01251220703125,
+        "y": 153,
+        "width": 0,
+        "height": 36
+      }
     }
   ],
   [
     {
+      "tagName": "div",
+      "style": null,
+      "width": "337.975px",
+      "height": "40px",
+      "text": "+ Add page",
+      "position": {
+        "x": 385.01251220703125,
+        "y": 655,
+        "width": 337.9750061035156,
+        "height": 40
+      }
+    },
+    {
       "tagName": "span",
       "text": "+ Add page",
       "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "fontStyle": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22px",
       "backgroundColor": "rgba(0, 0, 0, 0)",
       "position": {
         "x": 400.8125,
