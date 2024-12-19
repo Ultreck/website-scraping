@@ -1,0 +1,530 @@
+{
+  "pages": [
+    {
+      "elements": [
+        {
+          "children": [
+            null
+          ],
+          "config": {
+            "name": "frame path",
+            "clipPath": "M0,0L256,0L256,555.4584637739404L0,555.4584637739404Z"
+          },
+          "height": "555.45px",
+          "id": "d9ae458d-df98-4a30-bbf3-e73b5e4909da",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": ""
+          },
+          "text": "frame",
+          "tooltip": {},
+          "type": "path",
+          "width": "256px",
+          "background": "rgba(0, 0, 0, 0)",
+          "x": 596.385,
+          "y": 0
+        },
+        {
+          "children": [
+            null
+          ],
+          "config": {
+            "name": "frame path",
+            "clipPath": "M424.7580354847005,0C311.30804834147597,0 204.63718179480588,44.18462329647725 124.41090254564156,124.41090254564156C44.18462329647725,204.63718179480588 0,311.30804834147597 0,424.7580354847005C0,538.208022627925 44.18462329647725,644.878889174595 124.41090254564156,725.1151967086654C204.63718179480588,805.3515042427359 311.30804834147597,849.526099254307 424.7580354847005,849.526099254307C495.3772177937774,849.526099254307 563.3689894574441,832.4078169195166 624,800.1267678066341L624,49.39933144767292C563.3790177423502,17.118282334790436 495.3872460786835,0 424.7580354847005,0Z"
+          },
+          "height": "849.525px",
+          "id": "39a0c873-6257-48e9-9804-58cdcd5d74b6",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": ""
+          },
+          "text": "frame",
+          "tooltip": {},
+          "type": "path",
+          "width": "624px",
+          "background": "rgb(250, 166, 26)",
+          "x": 390.637,
+          "y": 74.2596
+        },
+        {
+          "children": [
+            {
+              "config": {
+                "src": "https://media-public.canva.com/MADGxrhjZ8A/4/screen.jpg"
+              },
+              "height": "531.037px",
+              "id": "02b45c0a-c659-40af-84ae-6afcabc37fdc",
+              "rotate": 0,
+              "style": {
+                "animationDuration": "1s",
+                "animationName": "",
+                "color": "#000000",
+                "borderRadius": 0,
+                "borderWidth": 0,
+                "opacity": 1,
+                "shadow": ""
+              },
+              "text": "",
+              "type": "image",
+              "width": "394.212px",
+              "x": 399.487,
+              "y": 83.1106
+            }
+          ],
+          "config": {
+            "name": "frame path",
+            "clipPath": "M412.20552206212193,0C184.552225930326,0 0,184.552225930326 0,412.20552206212193C0,639.858818193918 184.552225930326,824.4110441242439 412.20552206212193,824.4110441242439C484.70099921620437,824.4110441242439 552.8119531300066,805.6963703853415 612.0030168737891,772.8325585751679L612.0030168737891,51.57848554907596C552.8119531300066,18.71467373890239 484.70099921620437,0 412.20552206212193,0Z"
+          },
+          "height": "824.412px",
+          "id": "97c702cb-bdeb-408f-8954-c580d7099a9e",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": ""
+          },
+          "text": "frame",
+          "tooltip": {},
+          "type": "path",
+          "width": "612px",
+          "background": "rgba(0, 0, 0, 0)",
+          "x": 399.487,
+          "y": 83.1106
+        },
+        {
+          "config": {
+            "name": "About Property"
+          },
+          "height": "24.725px",
+          "id": "8e9ea77a-c6c9-4247-8a9b-204fd980c3ed",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(250, 166, 26)",
+            "fontSize": "21.3339px",
+            "fontWeight": "700",
+            "letterSpacing": "normal",
+            "lineHeight": "29px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "About Property",
+          "type": "text",
+          "width": "263.513px",
+          "x": 51.759,
+          "y": 515.752
+        },
+        {
+          "config": {
+            "name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut quam eget, luctus sollicitudin neque. Sed leo nisl, semper ac hendrerit a, sollicitudin in arcu."
+          },
+          "height": "87.325px",
+          "id": "53ca9c37-9ec8-4b1e-aa4a-ff380894dc79",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "13.3341px",
+            "fontWeight": "300",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut quam eget, luctus sollicitudin neque. Sed leo nisl, semper ac hendrerit a, sollicitudin in arcu.",
+          "type": "text",
+          "width": "345.087px",
+          "x": 51.759,
+          "y": 555.232
+        },
+        {
+          "config": {
+            "name": "BeautifulHome"
+          },
+          "height": "128.4px",
+          "id": "346175de-3e83-4f20-a10b-e35d83619a30",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "60px",
+            "fontWeight": "800",
+            "letterSpacing": "normal",
+            "lineHeight": "57px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "BeautifulHome",
+          "type": "text",
+          "width": "338.875px",
+          "x": 51.759,
+          "y": 167.899
+        },
+        {
+          "config": {
+            "name": "For Sale"
+          },
+          "height": "80px",
+          "id": "23f0bba5-0bb9-4329-a774-ccd8f00179f2",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(250, 166, 26)",
+            "fontSize": "66.6667px",
+            "fontWeight": "500",
+            "letterSpacing": "normal",
+            "lineHeight": "64px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "For Sale",
+          "type": "text",
+          "width": "317.275px",
+          "x": 51.759,
+          "y": 286.518
+        },
+        {
+          "config": {
+            "name": "Get in Touch"
+          },
+          "height": "29.8625px",
+          "id": "85812d79-48cc-4141-9c4b-771ad0cc254c",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(250, 166, 26)",
+            "fontSize": "25.3332px",
+            "fontWeight": "600",
+            "letterSpacing": "normal",
+            "lineHeight": "40px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Get in Touch",
+          "type": "text",
+          "width": "216.837px",
+          "x": 51.759,
+          "y": 974.506
+        },
+        {
+          "config": {
+            "name": "+123-456-7890+123-456-7890"
+          },
+          "height": "39.5875px",
+          "id": "f5f91ddb-5ef3-408f-a9c0-61922b48920a",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "16.0008px",
+            "fontWeight": "300",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "+123-456-7890+123-456-7890",
+          "type": "text",
+          "width": "122.125px",
+          "x": 51.759,
+          "y": 1019.37
+        },
+        {
+          "config": {
+            "name": "123 Anywhere St., Any City, ST 12345"
+          },
+          "height": "37.675px",
+          "id": "c830f0ab-5743-4be5-bd06-695eda2862fc",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "16.0008px",
+            "fontWeight": "300",
+            "letterSpacing": "normal",
+            "lineHeight": "19px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "123 Anywhere St., Any City, ST 12345",
+          "type": "text",
+          "width": "153.087px",
+          "x": 403.727,
+          "y": 1020.33
+        },
+        {
+          "config": {
+            "name": "hello@reallygreatsite.comwww.reallygreatsite.com"
+          },
+          "height": "39.5875px",
+          "id": "f2fea70a-aad3-4e67-9e32-18f4cf70c00d",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "16.0008px",
+            "fontWeight": "300",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "hello@reallygreatsite.comwww.reallygreatsite.com",
+          "type": "text",
+          "width": "197.887px",
+          "x": 189.83,
+          "y": 1019.37
+        },
+        {
+          "config": {
+            "src": "https://media-public.canva.com/BpCrA/MAEuhCBpCrA/1/t.jpg"
+          },
+          "height": "118.738px",
+          "id": "28711796-94cc-4efa-8443-bd3036205551",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "",
+          "type": "image",
+          "width": "306.15px",
+          "x": 52.3764,
+          "y": 831.767
+        },
+        {
+          "config": {
+            "src": "https://media-public.canva.com/4gV7g/MADw3k4gV7g/1/t.jpg"
+          },
+          "height": "118.738px",
+          "id": "3fed70eb-ecca-419f-bb42-f3c2bdf1cd73",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "",
+          "type": "image",
+          "width": "306.15px",
+          "x": 52.3764,
+          "y": 688.555
+        },
+        {
+          "config": {
+            "name": "Start From"
+          },
+          "height": "26.1125px",
+          "id": "db6a4bf7-fc76-4f16-9175-bee236327140",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "22.2554px",
+            "fontWeight": "300",
+            "letterSpacing": "normal",
+            "lineHeight": "23px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Start From",
+          "type": "text",
+          "width": "201.75px",
+          "x": 51.759,
+          "y": 397.015
+        },
+        {
+          "config": {
+            "name": "$350,000"
+          },
+          "height": "56.6875px",
+          "id": "c305ed4b-39d6-435c-9df3-c928990e7bf9",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(250, 166, 26)",
+            "fontSize": "47.8488px",
+            "fontWeight": "500",
+            "letterSpacing": "normal",
+            "lineHeight": "50px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "$350,000",
+          "type": "text",
+          "width": "252.225px",
+          "x": 51.759,
+          "y": 420.059
+        },
+        {
+          "config": {
+            "src": "blob:https://www.canva.com/1d07aee7-4f3e-48b4-bc10-865aaf8dc30c"
+          },
+          "height": "67.875px",
+          "id": "9a9562d4-6756-4975-9973-44d018e97579",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "",
+          "type": "image",
+          "width": "55.825px",
+          "x": 58.3564,
+          "y": 69.5207
+        },
+        {
+          "config": {
+            "name": "Liceria & Co."
+          },
+          "height": "28.775px",
+          "id": "451079dd-ff01-4aff-9eda-122d002e9adf",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "24px",
+            "fontWeight": "900",
+            "letterSpacing": "-0.216px",
+            "lineHeight": "26px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Liceria & Co.",
+          "type": "text",
+          "width": "192.375px",
+          "x": 129.488,
+          "y": 78.3418
+        },
+        {
+          "config": {
+            "name": "Real Estate"
+          },
+          "height": "25px",
+          "id": "8e282214-f4a7-4125-a1bb-15808d2f1f4d",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "21.3334px",
+            "fontWeight": "300",
+            "letterSpacing": "-0.192001px",
+            "lineHeight": "25px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Real Estate",
+          "type": "text",
+          "width": "128.75px",
+          "x": 129.488,
+          "y": 103.25
+        },
+        {
+          "config": {
+            "name": "2 Bedrooms2 BathroomsLiving Room Modern KitchenSwimming PoolGarage"
+          },
+          "height": "211.562px",
+          "id": "2f4e0982-1c81-4198-8d22-3c8d1f40076c",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "18.667px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "38px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "2 Bedrooms2 BathroomsLiving Room Modern KitchenSwimming PoolGarage",
+          "type": "text",
+          "width": "228.312px",
+          "x": 471.264,
+          "y": 737.217
+        },
+        {
+          "config": {
+            "name": "Property Features"
+          },
+          "height": "24.725px",
+          "id": "a07dca2b-3f0e-4f67-9d61-530f00805668",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(250, 166, 26)",
+            "fontSize": "21.3339px",
+            "fontWeight": "700",
+            "letterSpacing": "normal",
+            "lineHeight": "29px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Property Features",
+          "type": "text",
+          "width": "256.737px",
+          "x": 471.264,
+          "y": 688.555
+        }
+      ],
+      "height": "1122.51px",
+      "width": "793.7px",
+      "id": "e82267cf-f364-493f-bd72-25a5af298174",
+      "title": "Untitled",
+      "style": {
+        "background": "rgb(8, 6, 43)"
+      }
+    }
+  ]
+}

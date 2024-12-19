@@ -1,0 +1,382 @@
+[
+  {
+    "tagName": "div",
+    "width": "214.125px",
+    "height": "479.125px",
+    "coordinates": {
+      "x": 1082.42,
+      "y": 161.145
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "1328.18px",
+    "height": "970.362px",
+    "coordinates": {
+      "x": -90.5749,
+      "y": -261.418
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "1224.76px",
+    "height": "302.45px",
+    "coordinates": {
+      "x": 185.497,
+      "y": 1638.34
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "1945.79px",
+    "height": "746.7px",
+    "coordinates": {
+      "x": -192.709,
+      "y": 1735.22
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "1826.35px",
+    "height": "64.5375px",
+    "coordinates": {
+      "x": -129.173,
+      "y": 1799.95
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "1219.49px",
+    "height": "1219.49px",
+    "coordinates": {
+      "x": 675.951,
+      "y": 856.227
+    },
+    "src": "https://media-public.canva.com/MADGvsJACB4/7/screen.jpg",
+    "text": null,
+    "type": "img",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "726.737px",
+    "height": "162.988px",
+    "coordinates": {
+      "x": 791.687,
+      "y": 2178.96
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "293.3px",
+    "height": "293.3px",
+    "coordinates": {
+      "x": 1428.66,
+      "y": -134.566
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "261.862px",
+    "height": "261.862px",
+    "coordinates": {
+      "x": -130.931,
+      "y": 2108.58
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "231.788px",
+    "height": "231.788px",
+    "coordinates": {
+      "x": -115.895,
+      "y": 781.906
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "1063.71px",
+    "height": "143.988px",
+    "coordinates": {
+      "x": 158.74,
+      "y": 160.884
+    },
+    "src": null,
+    "text": "exclusive",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "400",
+    "fontSize": "60.0001px",
+    "letterSpacing": "normal",
+    "lineHeight": "84px"
+  },
+  {
+    "tagName": "div",
+    "width": "1177.11px",
+    "height": "190px",
+    "coordinates": {
+      "x": 158.74,
+      "y": 297.324
+    },
+    "src": null,
+    "text": "furniture",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 191, 0)",
+    "fontStyle": "normal",
+    "fontWeight": "400",
+    "fontSize": "79.9994px",
+    "letterSpacing": "normal",
+    "lineHeight": "111px"
+  },
+  {
+    "tagName": "div",
+    "width": "700.925px",
+    "height": "78.6625px",
+    "coordinates": {
+      "x": 158.74,
+      "y": 895.388
+    },
+    "src": null,
+    "text": "new product",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(0, 0, 0)",
+    "fontStyle": "normal",
+    "fontWeight": "400",
+    "fontSize": "33.3332px",
+    "letterSpacing": "normal",
+    "lineHeight": "46px"
+  },
+  {
+    "tagName": "div",
+    "width": "700.925px",
+    "height": "56.4px",
+    "coordinates": {
+      "x": 158.74,
+      "y": 1897.72
+    },
+    "src": null,
+    "text": "contact us",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(0, 0, 0)",
+    "fontStyle": "normal",
+    "fontWeight": "400",
+    "fontSize": "24px",
+    "letterSpacing": "normal",
+    "lineHeight": "33px"
+  },
+  {
+    "tagName": "div",
+    "width": "611.438px",
+    "height": "188.387px",
+    "coordinates": {
+      "x": 158.74,
+      "y": 995.995
+    },
+    "src": null,
+    "text": "Designs inspired by thenew generation with a classic touch.",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(0, 0, 0)",
+    "fontStyle": "normal",
+    "fontWeight": "400",
+    "fontSize": "24.0001px",
+    "letterSpacing": "normal",
+    "lineHeight": "33px"
+  },
+  {
+    "tagName": "div",
+    "width": "517.275px",
+    "height": "137.363px",
+    "coordinates": {
+      "x": 158.74,
+      "y": 1247.06
+    },
+    "src": null,
+    "text": "Making home a happy place.",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(0, 0, 0)",
+    "fontStyle": "normal",
+    "fontWeight": "700",
+    "fontSize": "26.5885px",
+    "letterSpacing": "normal",
+    "lineHeight": "37px"
+  },
+  {
+    "tagName": "div",
+    "width": "913.15px",
+    "height": "114.925px",
+    "coordinates": {
+      "x": 158.74,
+      "y": 1963.9
+    },
+    "src": null,
+    "text": "123-456-7890123 Anywhere St., Any City",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(0, 0, 0)",
+    "fontStyle": "normal",
+    "fontWeight": "700",
+    "fontSize": "22.6666px",
+    "letterSpacing": "normal",
+    "lineHeight": "31px"
+  },
+  {
+    "tagName": "div",
+    "width": "97.1px",
+    "height": "97.1px",
+    "coordinates": {
+      "x": 879.166,
+      "y": 562.034
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "77.6125px",
+    "height": "77.6125px",
+    "coordinates": {
+      "x": 228.381,
+      "y": 600.841
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  },
+  {
+    "tagName": "div",
+    "width": "108.075px",
+    "height": "108.075px",
+    "coordinates": {
+      "x": 1533.36,
+      "y": 856.227
+    },
+    "src": null,
+    "text": null,
+    "type": null,
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null
+  }
+]

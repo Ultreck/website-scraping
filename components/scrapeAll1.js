@@ -102,10 +102,31 @@ async function scrapeTemplate(page) {
           const img = el.querySelector("img");
           return img ? img.getAttribute("alt") : null;
         });
+        elementData.position = await child.evaluate((el) => {
+          const rect = el.getBoundingClientRect();
+          return {
+            x: rect.x,
+            y: rect.y,
+          };
+        });
         elementData.spanStyle = await child.evaluate((el) => {
+          const p = el.querySelector("p");
           const span = el.querySelector("span");
+          const rec = p.getBoundingClientRect();
+          const rect = span.getBoundingClientRect();
+
           return span
             ? {
+              p: {
+                x: rec.x,
+                y: rec.y,
+                width: window.getComputedStyle(p).width || null,
+                height: window.getComputedStyle(p).height || null,
+              },
+                position: {
+                  x: rect.x,
+                  y: rect.y,
+                },
                 text: span.textContent,
                 width: window.getComputedStyle(span).width || ull,
                 height: window.getComputedStyle(span).height || null,
@@ -169,7 +190,7 @@ async function scrapeTemplate(page) {
           const clipPath = el.querySelector("clipPath");
           return clipPath ? clipPath.getAttribute("id") : null;
         });
-        
+
         elementData.referencingDiv = await child.evaluate((svg) => {
           // fs.writeFileSync("dataTest.json", JSON.stringify(svg, null, 2));
           //   const clipPath = svg.querySelector("clipPath");
@@ -248,19 +269,19 @@ async function scrapeTemplate(page) {
         );
       }
 
-      if (tagName.match(/^div|p|span|ul|img|ol|svg$/)) {
-        elementData.position = await child.evaluate((el) => {
-          const rect = el.getBoundingClientRect();
-          return {
-            x: rect.x,
-            y: rect.y,
-            width: rect.width,
-            height: rect.height,
-          };
-        });
+      // if (tagName.match(/^div|p|span|ul|img|ol|svg$/)) {
+      //   elementData.position = await child.evaluate((el) => {
+      //     const rect = el.getBoundingClientRect();
+      //     return {
+      //       x: rect.x,
+      //       y: rect.y,
+      //       width: rect.width,
+      //       height: rect.height,
+      //     };
+      //   });
 
-        elementsData.push(elementData);
-      }
+      // }
+      elementsData.push(elementData);
     }
 
     elementsData.forEach((item) => {
@@ -271,7 +292,13 @@ async function scrapeTemplate(page) {
           }
           break;
         case "div":
-          if (item.imageSrc !== null && item.coordinates.x !== null && item.coordinates.y !== null && item.coordinates.x !== 0 && item.coordinates.y !== 0) {
+          if (
+            item.imageSrc !== null &&
+            item.coordinates.x !== null &&
+            item.coordinates.y !== null &&
+            item.coordinates.x !== 0 &&
+            item.coordinates.y !== 0
+          ) {
             data.pages[0].elements.push(createImageStructure(item));
           }
           break;

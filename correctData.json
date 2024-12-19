@@ -1,0 +1,212 @@
+{
+  "pages": [
+    {
+      "elements": [
+        {
+          "config": {
+            "src": "https://media-public.canva.com/MADGvsJACB4/7/screen.jpg"
+          },
+          "height": "1219.49pxpx",
+          "id": "3ccc8a2b-c439-43ea-9186-0296ad2ae878",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "text": "",
+          "type": "img",
+          "width": "1219.49pxpx",
+          "x": 675.951,
+          "y": 856.227
+        },
+        {
+          "config": {
+            "name": "exclusive"
+          },
+          "height": "143.988pxpx",
+          "id": "c35f67f8-aa03-4711-8ffc-97d14a3c4f73",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "60.0001px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "84px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "exclusive",
+          "type": "text",
+          "width": "1063.71pxpx",
+          "x": 158.74,
+          "y": 160.884
+        },
+        {
+          "config": {
+            "name": "furniture"
+          },
+          "height": "190pxpx",
+          "id": "5b4e2a9d-ef1a-425f-8785-2fb2f19d15c5",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 191, 0)",
+            "fontSize": "79.9994px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "111px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "furniture",
+          "type": "text",
+          "width": "1177.11pxpx",
+          "x": 158.74,
+          "y": 297.324
+        },
+        {
+          "config": {
+            "name": "new product"
+          },
+          "height": "78.6625pxpx",
+          "id": "25537d38-26a7-470d-971b-9d237e067ddb",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "33.3332px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "46px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "new product",
+          "type": "text",
+          "width": "700.925pxpx",
+          "x": 158.74,
+          "y": 895.388
+        },
+        {
+          "config": {
+            "name": "contact us"
+          },
+          "height": "56.4pxpx",
+          "id": "a4840af3-0250-4afc-a050-dde09511c53c",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "33px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "contact us",
+          "type": "text",
+          "width": "700.925pxpx",
+          "x": 158.74,
+          "y": 1897.72
+        },
+        {
+          "config": {
+            "name": "Designs inspired by thenew generation with a classic touch."
+          },
+          "height": "188.387pxpx",
+          "id": "dababd73-440f-4d4a-b314-8d2a3eeb346d",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "24.0001px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "33px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Designs inspired by thenew generation with a classic touch.",
+          "type": "text",
+          "width": "611.438pxpx",
+          "x": 158.74,
+          "y": 995.995
+        },
+        {
+          "config": {
+            "name": "Making home a happy place."
+          },
+          "height": "137.363pxpx",
+          "id": "bc48bb7d-7b4e-4676-8c81-cae06adc2090",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "26.5885px",
+            "fontWeight": "700",
+            "letterSpacing": "normal",
+            "lineHeight": "37px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "Making home a happy place.",
+          "type": "text",
+          "width": "517.275pxpx",
+          "x": 158.74,
+          "y": 1247.06
+        },
+        {
+          "config": {
+            "name": "123-456-7890123 Anywhere St., Any City"
+          },
+          "height": "114.925pxpx",
+          "id": "f127008d-1a56-4416-8da4-de777c2726ee",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "22.6666px",
+            "fontWeight": "700",
+            "letterSpacing": "normal",
+            "lineHeight": "31px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left"
+          },
+          "text": "123-456-7890123 Anywhere St., Any City",
+          "type": "text",
+          "width": "913.15pxpx",
+          "x": 158.74,
+          "y": 1963.9
+        }
+      ],
+      "height": "2245.04px",
+      "width": "1587.4px",
+      "id": "79a86d7e-3054-4c43-9351-23262bad1757",
+      "title": "Untitled",
+      "style": {
+        "background": "rgb(255, 255, 255)"
+      }
+    }
+  ]
+}

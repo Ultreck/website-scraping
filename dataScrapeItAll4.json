@@ -1,0 +1,423 @@
+[
+  {
+    "tagName": "div",
+    "width": "141.2px",
+    "height": "306.388px",
+    "coordinates": {
+      "x": 596.385,
+      "y": 0
+    },
+    "src": null,
+    "text": null,
+    "type": "path",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "path",
+      "text": "",
+      "path": "M0,0L256,0L256,555.4584637739404L0,555.4584637739404Z",
+      "width": "256px",
+      "height": "555.45px",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "403.062px",
+    "height": "548.737px",
+    "coordinates": {
+      "x": 390.637,
+      "y": 74.2596
+    },
+    "src": null,
+    "text": null,
+    "type": "path",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "path",
+      "text": "",
+      "path": "M424.7580354847005,0C311.30804834147597,0 204.63718179480588,44.18462329647725 124.41090254564156,124.41090254564156C44.18462329647725,204.63718179480588 0,311.30804834147597 0,424.7580354847005C0,538.208022627925 44.18462329647725,644.878889174595 124.41090254564156,725.1151967086654C204.63718179480588,805.3515042427359 311.30804834147597,849.526099254307 424.7580354847005,849.526099254307C495.3772177937774,849.526099254307 563.3689894574441,832.4078169195166 624,800.1267678066341L624,49.39933144767292C563.3790177423502,17.118282334790436 495.3872460786835,0 424.7580354847005,0Z",
+      "width": "624px",
+      "height": "849.525px",
+      "background": "rgb(250, 166, 26)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "394.212px",
+    "height": "531.037px",
+    "coordinates": {
+      "x": 399.487,
+      "y": 83.1106
+    },
+    "src": "https://media-public.canva.com/MADGxrhjZ8A/4/screen.jpg",
+    "text": null,
+    "type": "image",
+    "altName": "Blue and Gray Concrete House With Attic during Twilight",
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "path",
+      "text": "",
+      "path": "M412.20552206212193,0C184.552225930326,0 0,184.552225930326 0,412.20552206212193C0,639.858818193918 184.552225930326,824.4110441242439 412.20552206212193,824.4110441242439C484.70099921620437,824.4110441242439 552.8119531300066,805.6963703853415 612.0030168737891,772.8325585751679L612.0030168737891,51.57848554907596C552.8119531300066,18.71467373890239 484.70099921620437,0 412.20552206212193,0Z",
+      "width": "612px",
+      "height": "824.412px",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "263.513px",
+    "height": "24.725px",
+    "coordinates": {
+      "x": 51.759,
+      "y": 515.752
+    },
+    "src": null,
+    "text": "About Property",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(250, 166, 26)",
+    "fontStyle": "normal",
+    "fontWeight": "700",
+    "fontSize": "21.3339px",
+    "letterSpacing": "normal",
+    "lineHeight": "29px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "345.087px",
+    "height": "87.325px",
+    "coordinates": {
+      "x": 51.759,
+      "y": 555.232
+    },
+    "src": null,
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut quam eget, luctus sollicitudin neque. Sed leo nisl, semper ac hendrerit a, sollicitudin in arcu.",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "300",
+    "fontSize": "13.3341px",
+    "letterSpacing": "normal",
+    "lineHeight": "18px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "338.875px",
+    "height": "128.4px",
+    "coordinates": {
+      "x": 51.759,
+      "y": 167.899
+    },
+    "src": null,
+    "text": "BeautifulHome",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "800",
+    "fontSize": "60px",
+    "letterSpacing": "normal",
+    "lineHeight": "57px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "317.275px",
+    "height": "80px",
+    "coordinates": {
+      "x": 51.759,
+      "y": 286.518
+    },
+    "src": null,
+    "text": "For Sale",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(250, 166, 26)",
+    "fontStyle": "normal",
+    "fontWeight": "500",
+    "fontSize": "66.6667px",
+    "letterSpacing": "normal",
+    "lineHeight": "64px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "216.837px",
+    "height": "29.8625px",
+    "coordinates": {
+      "x": 51.759,
+      "y": 974.506
+    },
+    "src": null,
+    "text": "Get in Touch",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(250, 166, 26)",
+    "fontStyle": "normal",
+    "fontWeight": "600",
+    "fontSize": "25.3332px",
+    "letterSpacing": "normal",
+    "lineHeight": "40px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "122.125px",
+    "height": "39.5875px",
+    "coordinates": {
+      "x": 51.759,
+      "y": 1019.37
+    },
+    "src": null,
+    "text": "+123-456-7890+123-456-7890",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "300",
+    "fontSize": "16.0008px",
+    "letterSpacing": "normal",
+    "lineHeight": "21px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "153.087px",
+    "height": "37.675px",
+    "coordinates": {
+      "x": 403.727,
+      "y": 1020.33
+    },
+    "src": null,
+    "text": "123 Anywhere St., Any City, ST 12345",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "300",
+    "fontSize": "16.0008px",
+    "letterSpacing": "normal",
+    "lineHeight": "19px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "197.887px",
+    "height": "39.5875px",
+    "coordinates": {
+      "x": 189.83,
+      "y": 1019.37
+    },
+    "src": null,
+    "text": "hello@reallygreatsite.comwww.reallygreatsite.com",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "300",
+    "fontSize": "16.0008px",
+    "letterSpacing": "normal",
+    "lineHeight": "21px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "306.15px",
+    "height": "118.738px",
+    "coordinates": {
+      "x": 52.3764,
+      "y": 831.767
+    },
+    "src": "https://media-public.canva.com/BpCrA/MAEuhCBpCrA/1/t.jpg",
+    "text": null,
+    "type": "image",
+    "altName": "Minimalist Interior ,Yellow Sofa Furniture and Plants,Green Mode",
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "306.15px",
+    "height": "118.738px",
+    "coordinates": {
+      "x": 52.3764,
+      "y": 688.555
+    },
+    "src": "https://media-public.canva.com/4gV7g/MADw3k4gV7g/1/t.jpg",
+    "text": null,
+    "type": "image",
+    "altName": "Photo of Bedroom",
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "201.75px",
+    "height": "26.1125px",
+    "coordinates": {
+      "x": 51.759,
+      "y": 397.015
+    },
+    "src": null,
+    "text": "Start From",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "300",
+    "fontSize": "22.2554px",
+    "letterSpacing": "normal",
+    "lineHeight": "23px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "252.225px",
+    "height": "56.6875px",
+    "coordinates": {
+      "x": 51.759,
+      "y": 420.059
+    },
+    "src": null,
+    "text": "$350,000",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(250, 166, 26)",
+    "fontStyle": "normal",
+    "fontWeight": "500",
+    "fontSize": "47.8488px",
+    "letterSpacing": "normal",
+    "lineHeight": "50px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "55.825px",
+    "height": "67.875px",
+    "coordinates": {
+      "x": 58.3564,
+      "y": 69.5207
+    },
+    "src": "blob:https://www.canva.com/1d07aee7-4f3e-48b4-bc10-865aaf8dc30c",
+    "text": null,
+    "type": "image",
+    "altName": "Real Estate Logo",
+    "color": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "192.375px",
+    "height": "28.775px",
+    "coordinates": {
+      "x": 129.488,
+      "y": 78.3418
+    },
+    "src": null,
+    "text": "Liceria & Co.",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "900",
+    "fontSize": "24px",
+    "letterSpacing": "-0.216px",
+    "lineHeight": "26px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "128.75px",
+    "height": "25px",
+    "coordinates": {
+      "x": 129.488,
+      "y": 103.25
+    },
+    "src": null,
+    "text": "Real Estate",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "300",
+    "fontSize": "21.3334px",
+    "letterSpacing": "-0.192001px",
+    "lineHeight": "25px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "228.312px",
+    "height": "211.562px",
+    "coordinates": {
+      "x": 471.264,
+      "y": 737.217
+    },
+    "src": null,
+    "text": "2 Bedrooms2 BathroomsLiving Room Modern KitchenSwimming PoolGarage",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "fontWeight": "400",
+    "fontSize": "18.667px",
+    "letterSpacing": "normal",
+    "lineHeight": "38px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "256.737px",
+    "height": "24.725px",
+    "coordinates": {
+      "x": 471.264,
+      "y": 688.555
+    },
+    "src": null,
+    "text": "Property Features",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(250, 166, 26)",
+    "fontStyle": "italic",
+    "fontWeight": "700",
+    "fontSize": "21.3339px",
+    "letterSpacing": "normal",
+    "lineHeight": "29px",
+    "clipPath": null
+  }
+]

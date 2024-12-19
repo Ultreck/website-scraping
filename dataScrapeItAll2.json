@@ -1,5332 +1,698 @@
 [
-  [
-    {
-      "tagName": "div",
-      "style": "padding-top: 0px; padding-bottom: 0px;",
-      "width": "337.975px",
-      "height": "510px",
-      "text": "BusinesswebinarRegister NowContact us8:30amVisit our website+123-456-789002 February, 2024www.reallygreatsite.comjoin us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunitiesWarner & SpencerCompany",
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": {
-        "text": "",
-        "width": "20px",
-        "height": "20px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 121,
-        "width": 337.9750061035156,
-        "height": 510
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 337.98px;",
-      "width": "337.975px",
-      "height": "32px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "",
-        "width": "20px",
-        "height": "20px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 121,
-        "width": 337.9750061035156,
-        "height": 32
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "337.975px",
-      "height": "28px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "",
-        "width": "20px",
-        "height": "20px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 121,
-        "width": 337.9750061035156,
-        "height": 28
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "229.975px",
-      "height": "0px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 135,
-        "width": 229.97500610351562,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "28px",
-      "height": "28px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "",
-        "width": "20px",
-        "height": "20px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 622.9874877929688,
-        "y": 121,
-        "width": 28,
-        "height": 28
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "auto",
-      "height": "auto",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "",
-        "width": "20px",
-        "height": "20px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "span",
-      "text": null,
-      "width": "20px",
-      "height": "20px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 626.9874877929688,
-        "y": 125,
-        "width": 20,
-        "height": 20
-      }
-    },
-    {
-      "tagName": "span",
-      "text": null,
-      "width": "20px",
-      "height": "20px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 626.9874877929688,
-        "y": 125,
-        "width": 20,
-        "height": 20
-      }
-    },
-    {
-      "tagName": "svg",
-      "clipPath": "M14.996 7.78H5.039m9.957 0c.574 0 1.039.466 1.039 1.04m-1.04-1.04c.572 0 1.04.468 1.04 1.04M5.039 7.78A1.04 1.04 0 0 0 4 8.82m1.04-1.04C4.467 7.78 4 8.249 4 8.82m12.035 0v7.466m0 0a1.04 1.04 0 0 1-1.04 1.04m1.04-1.04c0 .572-.468 1.04-1.04 1.04m0 0H5.04m0 0A1.04 1.04 0 0 1 4 16.286m1.04 1.04c-.572 0-1.04-.468-1.04-1.04m0 0V8.82M10.02 11.7v3.074",
-      "viewBox": "0 0 20 20",
-      "clipPathId": null,
-      "position": {
-        "x": 626.9874877929688,
-        "y": 125,
-        "width": 20,
-        "height": 20
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 630.9874877929688,
-        "y": 132.78001403808594,
-        "width": 12.03501033782959,
-        "height": 9.54599666595459
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 635.5294799804688,
-        "y": 134.4449920654297,
-        "width": 2.9510254859924316,
-        "height": 3.0830078125
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 632.9924926757812,
-        "y": 125.74995422363281,
-        "width": 8.495019912719727,
-        "height": 6.750049114227295
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "28px",
-      "height": "28px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "",
-        "width": "20px",
-        "height": "20px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 658.9874877929688,
-        "y": 121,
-        "width": 28,
-        "height": 28
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "auto",
-      "height": "auto",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "",
-        "width": "20px",
-        "height": "20px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "span",
-      "text": null,
-      "width": "20px",
-      "height": "20px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 662.9874877929688,
-        "y": 125,
-        "width": 20,
-        "height": 20
-      }
-    },
-    {
-      "tagName": "span",
-      "text": null,
-      "width": "20px",
-      "height": "20px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 662.9874877929688,
-        "y": 125,
-        "width": 20,
-        "height": 20
-      }
-    },
-    {
-      "tagName": "svg",
-      "clipPath": "M4.167 2.5h6.666c.92 0 1.667.746 1.667 1.667v.416h-1.25v-.416a.417.417 0 0 0-.417-.417H4.167a.417.417 0 0 0-.417.417V12.5c0 .23.187.417.417.417H6.25v1.25H4.167c-.92 0-1.667-.746-1.667-1.667V4.167c0-.92.746-1.667 1.667-1.667Zm5 4.583a.417.417 0 0 0-.417.417v8.333c0 .23.187.417.417.417h6.666c.23 0 .417-.186.417-.417V7.5a.417.417 0 0 0-.417-.417H9.167Zm6.666-1.25H9.167c-.92 0-1.667.747-1.667 1.667v8.333c0 .92.746 1.667 1.667 1.667h6.666c.92 0 1.667-.746 1.667-1.667V7.5c0-.92-.746-1.667-1.667-1.667Z",
-      "viewBox": "0 0 20 20",
-      "clipPathId": null,
-      "position": {
-        "x": 662.9874877929688,
-        "y": 125,
-        "width": 20,
-        "height": 20
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 665.4874877929688,
-        "y": 127.5,
-        "width": 15,
-        "height": 15
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 672.9874877929688,
-        "y": 134.16700744628906,
-        "width": 5,
-        "height": 5
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "28px",
-      "height": "28px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "",
-        "width": "20px",
-        "height": "20px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 694.9874877929688,
-        "y": 121,
-        "width": 28,
-        "height": 28
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "auto",
-      "height": "auto",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "",
-        "width": "20px",
-        "height": "20px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "span",
-      "text": null,
-      "width": "20px",
-      "height": "20px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 698.9874877929688,
-        "y": 125,
-        "width": 20,
-        "height": 20
-      }
-    },
-    {
-      "tagName": "span",
-      "text": null,
-      "width": "20px",
-      "height": "20px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 698.9874877929688,
-        "y": 125,
-        "width": 20,
-        "height": 20
-      }
-    },
-    {
-      "tagName": "svg",
-      "clipPath": "M11.875 10.208a.625.625 0 1 0 1.25 0v-3.75h3.75a.625.625 0 1 0 0-1.25h-3.75v-3.75a.625.625 0 1 0-1.25 0v3.75h-3.75a.625.625 0 0 0 0 1.25h3.75v3.75Z",
-      "viewBox": "0 0 20 20",
-      "clipPathId": null,
-      "position": {
-        "x": 698.9874877929688,
-        "y": 125,
-        "width": 20,
-        "height": 20
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 706.4874877929688,
-        "y": 125.83300018310547,
-        "width": 10,
-        "height": 10
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 702.3204956054688,
-        "y": 128.33299255371094,
-        "width": 11.6669921875,
-        "height": 13.3330078125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "337.975px",
-      "height": "478px",
-      "text": "BusinesswebinarRegister NowContact us8:30amVisit our website+123-456-789002 February, 2024www.reallygreatsite.comjoin us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunitiesWarner & SpencerCompany",
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": {
-        "text": "Businesswebinar",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "74.7447px",
-        "letterSpacing": "normal",
-        "lineHeight": "79px"
-      },
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9750061035156,
-        "height": 478
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 337.98px; height: 478px; margin: 0px;",
-      "width": "337.975px",
-      "height": "478px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9750061035156,
-        "height": 478
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "0px",
-      "height": "0px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "337.975px",
-      "height": "478px",
-      "text": "BusinesswebinarRegister NowContact us8:30amVisit our website+123-456-789002 February, 2024www.reallygreatsite.comjoin us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunitiesWarner & SpencerCompany",
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": {
-        "text": "Businesswebinar",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "74.7447px",
-        "letterSpacing": "normal",
-        "lineHeight": "79px"
-      },
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9750061035156,
-        "height": 478
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 337.98px; height: 478px; margin: 0px;",
-      "width": "337.975px",
-      "height": "478px",
-      "text": "BusinesswebinarRegister NowContact us8:30amVisit our website+123-456-789002 February, 2024www.reallygreatsite.comjoin us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunitiesWarner & SpencerCompany",
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": {
-        "text": "Businesswebinar",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "74.7447px",
-        "letterSpacing": "normal",
-        "lineHeight": "79px"
-      },
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9750061035156,
-        "height": 478
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 793.701px; height: 1122.52px; transform: scale(0.425828);",
-      "width": "793.7px",
-      "height": "1122.51px",
-      "text": "BusinesswebinarRegister NowContact us8:30amVisit our website+123-456-789002 February, 2024www.reallygreatsite.comjoin us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunitiesWarner & SpencerCompany",
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": {
-        "text": "Business webinar",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "74.7447px",
-        "letterSpacing": "normal",
-        "lineHeight": "79px"
-      },
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 477.9969177246094
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 793.701px; height: 1122.52px;",
-      "width": "793.7px",
-      "height": "1122.51px",
-      "text": "BusinesswebinarRegister NowContact us8:30amVisit our website+123-456-789002 February, 2024www.reallygreatsite.comjoin us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunitiesWarner & SpencerCompany",
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": {
-        "text": "Businesswebinar",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "74.7447px",
-        "letterSpacing": "normal",
-        "lineHeight": "79px"
-      },
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 477.9969177246094
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom;",
-      "width": "793.7px",
-      "height": "1122.51px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 477.9969177246094
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "1122.51px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 477.9969177246094
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "background: rgb(17, 20, 35);",
-      "width": "793.7px",
-      "height": "1122.51px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 477.9969177246094
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 79.3701px; left: 79.3701px; width: 634.961px; height: 963.78px;",
-      "width": "634.95px",
-      "height": "963.775px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8072204589844,
-        "y": 186.7947540283203,
-        "width": 270.3793029785156,
-        "height": 410.40216064453125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 817.701px; height: 339.646px; transform: translate(-12px, -12px);",
-      "width": "817.7px",
-      "height": "339.638px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": -12,
-        "y": -12
-      },
-      "position": {
-        "x": 379.9025573730469,
-        "y": 147.8900604248047,
-        "width": 348.1993103027344,
-        "height": 144.6270751953125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "grid-template: \"a\" 1fr / 1fr; gap: 10px;",
-      "width": "817.7px",
-      "height": "339.638px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 379.9025573730469,
-        "y": 147.8900604248047,
-        "width": 348.1993103027344,
-        "height": 144.6270751953125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "grid-area: a; touch-action: pan-x pan-y pinch-zoom; width: 817.701px; height: 339.646px;",
-      "width": "817.7px",
-      "height": "339.638px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 379.9025573730469,
-        "y": 147.8900604248047,
-        "width": 348.1993103027344,
-        "height": 144.6270751953125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "817.7px",
-      "height": "339.638px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 379.9025573730469,
-        "y": 147.8900604248047,
-        "width": 348.1993103027344,
-        "height": 144.6270751953125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "817.7px",
-      "height": "339.638px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 379.9025573730469,
-        "y": 147.8900604248047,
-        "width": 348.1993103027344,
-        "height": 144.6270751953125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "817.7px",
-      "height": "339.638px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 379.9025573730469,
-        "y": 147.8900604248047,
-        "width": 348.1993103027344,
-        "height": 144.6270751953125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 817.701px; height: 544.793px; transform: translate(0px, -102.574px) rotate(0deg);",
-      "width": "817.7px",
-      "height": "544.787px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "textAlt": "High Rise Buildings ",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "817.7px",
-        "height": "544.787px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": -102.574
-      },
-      "position": {
-        "x": 379.9025573730469,
-        "y": 104.21129608154297,
-        "width": 348.1993103027344,
-        "height": 231.985595703125
-      }
-    },
-    {
-      "tagName": "img",
-      "src": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg",
-      "name": "High Rise Buildings ",
-      "borderRadius": "0px",
-      "width": "817.7px",
-      "height": "544.787px",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "borderWidth": "0px",
-      "position": {
-        "x": 379.9025573730469,
-        "y": 104.21129608154297,
-        "width": 348.1993103027344,
-        "height": 231.985595703125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 875.223px; height: 485.351px; transform: translate(-40.7613px, 32.4972px);",
-      "width": "875.213px",
-      "height": "485.35px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/b8d3560c-aa8d-4517-b0a1-71eef0f51ecc",
-      "textAlt": "Abstract Wave Frame",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "875.213px",
-        "height": "485.35px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": -40.7613,
-        "y": 32.4972
-      },
-      "position": {
-        "x": 367.6552429199219,
-        "y": 166.8382110595703,
-        "width": 372.68975830078125,
-        "height": 206.6754913330078
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "875.213px",
-      "height": "485.35px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/b8d3560c-aa8d-4517-b0a1-71eef0f51ecc",
-      "textAlt": "Abstract Wave Frame",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "875.213px",
-        "height": "485.35px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 367.6552429199219,
-        "y": 166.8382110595703,
-        "width": 372.68975830078125,
-        "height": 206.6754913330078
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "875.213px",
-      "height": "485.35px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/b8d3560c-aa8d-4517-b0a1-71eef0f51ecc",
-      "textAlt": "Abstract Wave Frame",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "875.213px",
-        "height": "485.35px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 367.6552429199219,
-        "y": 166.8382110595703,
-        "width": 372.68975830078125,
-        "height": 206.6754913330078
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "875.213px",
-      "height": "485.35px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/b8d3560c-aa8d-4517-b0a1-71eef0f51ecc",
-      "textAlt": "Abstract Wave Frame",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "875.213px",
-        "height": "485.35px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 367.6552429199219,
-        "y": 166.8382110595703,
-        "width": 372.68975830078125,
-        "height": 206.6754913330078
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "875.213px",
-      "height": "485.35px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/b8d3560c-aa8d-4517-b0a1-71eef0f51ecc",
-      "textAlt": "Abstract Wave Frame",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "875.213px",
-        "height": "485.35px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 367.6552429199219,
-        "y": 166.8382110595703,
-        "width": 372.68975830078125,
-        "height": 206.6754913330078
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 875.223px; height: 485.351px; transform: translate(0px, 0px) rotate(0deg);",
-      "width": "875.213px",
-      "height": "485.35px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/b8d3560c-aa8d-4517-b0a1-71eef0f51ecc",
-      "textAlt": "Abstract Wave Frame",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "875.213px",
-        "height": "485.35px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 367.6552429199219,
-        "y": 166.8382110595703,
-        "width": 372.68975830078125,
-        "height": 206.6754913330078
-      }
-    },
-    {
-      "tagName": "img",
-      "src": "blob:https://www.canva.com/b8d3560c-aa8d-4517-b0a1-71eef0f51ecc",
-      "name": "Abstract Wave Frame",
-      "borderRadius": "0px",
-      "width": "875.213px",
-      "height": "485.35px",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "borderWidth": "0px",
-      "position": {
-        "x": 367.6552429199219,
-        "y": 166.8382110595703,
-        "width": 372.68975830078125,
-        "height": 206.6754913330078
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 485.351px; width: 875.223px; pointer-events: none; transform: scale(1);",
-      "width": "875.213px",
-      "height": "485.35px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 367.6552429199219,
-        "y": 166.8382110595703,
-        "width": 372.68975830078125,
-        "height": 206.6754913330078
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 540.354px; height: 540.354px; transform: translate(372.869px, 634.673px);",
-      "width": "540.35px",
-      "height": "540.35px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg",
-      "textAlt": "Person Using Macbook Pro",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 372.869,
-        "y": 634.673
-      },
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 230.09605407714844,
-        "height": 230.095947265625
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 540.354px; width: 540.354px; transform: scale(1);",
-      "width": "540.35px",
-      "height": "540.35px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg",
-      "textAlt": "Person Using Macbook Pro",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 230.09605407714844,
-        "height": 230.095947265625
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 540.354px; height: 540.354px; margin-left: 0px; margin-top: 0px;",
-      "width": "540.35px",
-      "height": "540.35px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg",
-      "textAlt": "Person Using Macbook Pro",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 230.09605407714844,
-        "height": 230.095947265625
-      }
-    },
-    {
-      "tagName": "svg",
-      "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z",
-      "viewBox": null,
-      "clipPathId": "__id4",
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "clippath",
-      "position": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "10px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "normal",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 212.91392517089844,
-        "height": 212.913818359375
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "clip-path: url(\"#__id4\"); background: rgb(104, 111, 123); width: 500px; height: 500px; transform: scale(1.08071, 1.08071); transform-origin: 0px 0px; touch-action: pan-x pan-y pinch-zoom;",
-      "width": "500px",
-      "height": "500px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 230.0979461669922,
-        "height": 230.0978546142578
-      }
-    },
-    {
-      "tagName": "svg",
-      "clipPath": "M250 33.1a216.9 216.9 0 1 0 0 433.8 216.9 216.9 0 1 0 0-433.8z",
-      "viewBox": null,
-      "clipPathId": "__id5",
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "clippath",
-      "position": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "10px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "normal",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 557.8854370117188,
-        "y": 437.3562927246094,
-        "width": 184.7240753173828,
-        "height": 184.72402954101562
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "clip-path: url(\"#__id5\"); transform: scale(1.08071, 1.08071); transform-origin: 0px 0px; width: 500px; height: 500px; touch-action: pan-x pan-y pinch-zoom;",
-      "width": "500px",
-      "height": "500px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg",
-      "textAlt": "Person Using Macbook Pro",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 230.0979461669922,
-        "height": 230.0978546142578
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform-origin: 250px 250px;",
-      "width": "500px",
-      "height": "500px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg",
-      "textAlt": "Person Using Macbook Pro",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 230.0979461669922,
-        "height": 230.0978546142578
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 651.107px; height: 433.8px; transform: translate(-75.5535px, 33.1px) translate(325.553px, 216.9px) rotate(0deg) translate(-325.553px, -216.9px); transform-origin: 0px 0px;",
-      "width": "651.1px",
-      "height": "433.8px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg",
-      "textAlt": "Person Using Macbook Pro",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": -75.5535,
-        "y": 33.1
-      },
-      "position": {
-        "x": 509.0210876464844,
-        "y": 438.4938659667969,
-        "width": 299.6335144042969,
-        "height": 199.63296508789062
-      }
-    },
-    {
-      "tagName": "img",
-      "src": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg",
-      "name": "Person Using Macbook Pro",
-      "borderRadius": "0px",
-      "width": "651.1px",
-      "height": "433.8px",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "borderWidth": "0px",
-      "position": {
-        "x": 509.0210876464844,
-        "y": 438.4938659667969,
-        "width": 299.6335144042969,
-        "height": 199.63296508789062
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "540.35px",
-      "height": "540.35px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 543.7904663085938,
-        "y": 423.2614440917969,
-        "width": 230.09605407714844,
-        "height": 230.095947265625
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 400.632px; height: 400.632px; transform: translate(490.994px, 317.532px);",
-      "width": "400.625px",
-      "height": "400.625px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg",
-      "textAlt": "Man in Black Suit Jacket While Using Smartphone",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 490.994,
-        "y": 317.532
-      },
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 170.59727478027344,
-        "height": 170.5972137451172
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 400.632px; width: 400.632px; transform: scale(1);",
-      "width": "400.625px",
-      "height": "400.625px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg",
-      "textAlt": "Man in Black Suit Jacket While Using Smartphone",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 170.59727478027344,
-        "height": 170.5972137451172
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 400.632px; height: 400.632px; margin-left: 0px; margin-top: 0px;",
-      "width": "400.625px",
-      "height": "400.625px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg",
-      "textAlt": "Man in Black Suit Jacket While Using Smartphone",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 170.59727478027344,
-        "height": 170.5972137451172
-      }
-    },
-    {
-      "tagName": "svg",
-      "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z",
-      "viewBox": null,
-      "clipPathId": "__id6",
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "clippath",
-      "position": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "10px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "normal",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 212.9138641357422,
-        "height": 212.9138641357422
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "clip-path: url(\"#__id6\"); background: rgb(54, 61, 72); width: 500px; height: 500px; transform: scale(0.801264, 0.801264); transform-origin: 0px 0px; touch-action: pan-x pan-y pinch-zoom;",
-      "width": "500px",
-      "height": "500px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 170.60020446777344,
-        "height": 170.60020446777344
-      }
-    },
-    {
-      "tagName": "svg",
-      "clipPath": "M250 33.1a216.9 216.9 0 1 0 0 433.8 216.9 216.9 0 1 0 0-433.8z",
-      "viewBox": null,
-      "clipPathId": "__id7",
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "clippath",
-      "position": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "10px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "normal",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 608.1862182617188,
-        "y": 302.3089904785156,
-        "width": 184.72402954101562,
-        "height": 184.72402954101562
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "clip-path: url(\"#__id7\"); transform: scale(0.801264, 0.801264); transform-origin: 0px 0px; width: 500px; height: 500px; touch-action: pan-x pan-y pinch-zoom;",
-      "width": "500px",
-      "height": "500px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg",
-      "textAlt": "Man in Black Suit Jacket While Using Smartphone",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 170.60020446777344,
-        "height": 170.60020446777344
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform-origin: 250px 250px;",
-      "width": "500px",
-      "height": "500px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg",
-      "textAlt": "Man in Black Suit Jacket While Using Smartphone",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 170.60020446777344,
-        "height": 170.60020446777344
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 651.107px; height: 433.8px; transform: translate(-160.126px, 33.1px) translate(325.553px, 216.9px) rotate(0deg) translate(-325.553px, -216.9px); transform-origin: 0px 0px;",
-      "width": "651.1px",
-      "height": "433.8px",
-      "text": null,
-      "imageSrc": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg",
-      "textAlt": "Man in Black Suit Jacket While Using Smartphone",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "651.1px",
-        "height": "433.8px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": -160.126,
-        "y": 33.1
-      },
-      "position": {
-        "x": 539.4562377929688,
-        "y": 299.5078125,
-        "width": 222.1555633544922,
-        "height": 148.0126953125
-      }
-    },
-    {
-      "tagName": "img",
-      "src": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg",
-      "name": "Man in Black Suit Jacket While Using Smartphone",
-      "borderRadius": "0px",
-      "width": "651.1px",
-      "height": "433.8px",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "borderWidth": "0px",
-      "position": {
-        "x": 539.4562377929688,
-        "y": 299.5078125,
-        "width": 222.1555633544922,
-        "height": 148.0126953125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "400.625px",
-      "height": "400.625px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 594.09130859375,
-        "y": 288.2140808105469,
-        "width": 170.59727478027344,
-        "height": 170.5972137451172
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 34.7727px; height: 48.664px; transform: translate(79.3701px, 470.42px);",
-      "width": "34.7625px",
-      "height": "48.6625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/e44e0940-881c-403c-b9a2-2ac6dea64219",
-      "textAlt": "Letter CF logo and Initial FC logo design template.",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "34.7625px",
-        "height": "48.6625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 79.3701,
-        "y": 470.42
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 353.31781005859375,
-        "width": 14.80283260345459,
-        "height": 20.721851348876953
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "34.7625px",
-      "height": "48.6625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/e44e0940-881c-403c-b9a2-2ac6dea64219",
-      "textAlt": "Letter CF logo and Initial FC logo design template.",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "34.7625px",
-        "height": "48.6625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 353.31781005859375,
-        "width": 14.80283260345459,
-        "height": 20.721851348876953
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "34.7625px",
-      "height": "48.6625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/e44e0940-881c-403c-b9a2-2ac6dea64219",
-      "textAlt": "Letter CF logo and Initial FC logo design template.",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "34.7625px",
-        "height": "48.6625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 353.31781005859375,
-        "width": 14.80283260345459,
-        "height": 20.721851348876953
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "34.7625px",
-      "height": "48.6625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/e44e0940-881c-403c-b9a2-2ac6dea64219",
-      "textAlt": "Letter CF logo and Initial FC logo design template.",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "34.7625px",
-        "height": "48.6625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 353.31781005859375,
-        "width": 14.80283260345459,
-        "height": 20.721851348876953
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "34.7625px",
-      "height": "48.6625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/e44e0940-881c-403c-b9a2-2ac6dea64219",
-      "textAlt": "Letter CF logo and Initial FC logo design template.",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "34.7625px",
-        "height": "48.6625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 353.31781005859375,
-        "width": 14.80283260345459,
-        "height": 20.721851348876953
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 34.7727px; height: 48.664px; transform: translate(0px, 0px) rotate(0deg);",
-      "width": "34.7625px",
-      "height": "48.6625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/e44e0940-881c-403c-b9a2-2ac6dea64219",
-      "textAlt": "Letter CF logo and Initial FC logo design template.",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "34.7625px",
-        "height": "48.6625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 353.31781005859375,
-        "width": 14.80283260345459,
-        "height": 20.721851348876953
-      }
-    },
-    {
-      "tagName": "img",
-      "src": "blob:https://www.canva.com/e44e0940-881c-403c-b9a2-2ac6dea64219",
-      "name": "Letter CF logo and Initial FC logo design template.",
-      "borderRadius": "0px",
-      "width": "34.7625px",
-      "height": "48.6625px",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "borderWidth": "0px",
-      "position": {
-        "x": 418.8105163574219,
-        "y": 353.31781005859375,
-        "width": 14.80283260345459,
-        "height": 20.721851348876953
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 48.664px; width: 34.7727px; pointer-events: none; transform: scale(1);",
-      "width": "34.7625px",
-      "height": "48.6625px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 353.31781005859375,
-        "width": 14.80283260345459,
-        "height": 20.721851348876953
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 41.037px; height: 41.037px; transform: translate(79.3701px, 812.76px);",
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 79.3701,
-        "y": 812.76
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 499.095703125,
-        "width": 17.469579696655273,
-        "height": 17.469629287719727
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 41.037px; width: 41.037px; transform: scale(1);",
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 499.095703125,
-        "width": 17.469579696655273,
-        "height": 17.469629287719727
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 41.037px; height: 41.037px; margin-left: 0px; margin-top: 0px;",
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 499.095703125,
-        "width": 17.469579696655273,
-        "height": 17.469629287719727
-      }
-    },
-    {
-      "tagName": "svg",
-      "clipPath": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
-      "viewBox": null,
-      "clipPathId": "__id11",
-      "position": {
-        "x": 418.8105163574219,
-        "y": 499.095703125,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "clippath",
-      "position": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "10px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "normal",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 418.8105163574219,
-        "y": 499.095703125,
-        "width": 109.0118637084961,
-        "height": 109.01191711425781
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "clip-path: url(\"#__id11\"); background: rgb(242, 241, 242); width: 256px; height: 256px; transform: scale(0.160301, 0.160301); transform-origin: 0px 0px; touch-action: pan-x pan-y pinch-zoom;",
+  {
+    "tagName": "div",
+    "width": "280.913px",
+    "height": "280.913px",
+    "shadow": null,
+    "coordinates": {
+      "x": 512.785,
+      "y": 452.771
+    },
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
       "width": "256px",
       "height": "256px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 499.095703125,
-        "width": 17.474658966064453,
-        "height": 17.474756240844727
-      }
+      "background": "rgb(248, 252, 255)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "280.913px",
+    "height": "280.913px",
+    "shadow": null,
+    "coordinates": {
+      "x": 512.785,
+      "y": 743.233
     },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 25.8704px; height: 24.3652px; transform: translate(86.9534px, 821.096px);",
-      "width": "25.8625px",
-      "height": "24.3625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/66bd9b94-143d-4f58-b3d1-de55b2b748d1",
-      "textAlt": "time and date icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "25.8625px",
-        "height": "24.3625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 86.9534,
-        "y": 821.096
-      },
-      "position": {
-        "x": 422.0396423339844,
-        "y": 502.6454162597656,
-        "width": 11.012988090515137,
-        "height": 10.374218940734863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "25.8625px",
-      "height": "24.3625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/66bd9b94-143d-4f58-b3d1-de55b2b748d1",
-      "textAlt": "time and date icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "25.8625px",
-        "height": "24.3625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 422.0396423339844,
-        "y": 502.6454162597656,
-        "width": 11.012988090515137,
-        "height": 10.374218940734863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "25.8625px",
-      "height": "24.3625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/66bd9b94-143d-4f58-b3d1-de55b2b748d1",
-      "textAlt": "time and date icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "25.8625px",
-        "height": "24.3625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 422.0396423339844,
-        "y": 502.6454162597656,
-        "width": 11.012988090515137,
-        "height": 10.374218940734863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "25.8625px",
-      "height": "24.3625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/66bd9b94-143d-4f58-b3d1-de55b2b748d1",
-      "textAlt": "time and date icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "25.8625px",
-        "height": "24.3625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 422.0396423339844,
-        "y": 502.6454162597656,
-        "width": 11.012988090515137,
-        "height": 10.374218940734863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "25.8625px",
-      "height": "24.3625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/66bd9b94-143d-4f58-b3d1-de55b2b748d1",
-      "textAlt": "time and date icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "25.8625px",
-        "height": "24.3625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 422.0396423339844,
-        "y": 502.6454162597656,
-        "width": 11.012988090515137,
-        "height": 10.374218940734863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 25.8704px; height: 24.3652px; transform: translate(0px, 0px) rotate(0deg);",
-      "width": "25.8625px",
-      "height": "24.3625px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/66bd9b94-143d-4f58-b3d1-de55b2b748d1",
-      "textAlt": "time and date icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "25.8625px",
-        "height": "24.3625px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 422.0396423339844,
-        "y": 502.6454162597656,
-        "width": 11.012988090515137,
-        "height": 10.374218940734863
-      }
-    },
-    {
-      "tagName": "img",
-      "src": "blob:https://www.canva.com/66bd9b94-143d-4f58-b3d1-de55b2b748d1",
-      "name": "time and date icon",
-      "borderRadius": "0px",
-      "width": "25.8625px",
-      "height": "24.3625px",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "borderWidth": "0px",
-      "position": {
-        "x": 422.0396423339844,
-        "y": 502.6454162597656,
-        "width": 11.012988090515137,
-        "height": 10.374218940734863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 24.3652px; width: 25.8704px; pointer-events: none; transform: scale(1);",
-      "width": "25.8625px",
-      "height": "24.3625px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 422.0396423339844,
-        "y": 502.6454162597656,
-        "width": 11.012988090515137,
-        "height": 10.374218940734863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "Businesswebinar",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Businesswebinar",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "74.7447px",
-        "letterSpacing": "normal",
-        "lineHeight": "79px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 369.678px; height: 163.932px; transform: translate(63.8499px, 517.848px);",
-      "width": "369.675px",
-      "height": "163.925px",
-      "text": "Businesswebinar",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Businesswebinar",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "74.7447px",
-        "letterSpacing": "normal",
-        "lineHeight": "79px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 63.8499,
-        "y": 517.848
-      },
-      "position": {
-        "x": 412.2015686035156,
-        "y": 373.5141906738281,
-        "width": 157.41787719726562,
-        "height": 69.80378723144531
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 378.214px; height: 167.717px; transform: scale(0.977432, 0.977432); transform-origin: 0px 0px;",
-      "width": "378.212px",
-      "height": "167.712px",
-      "text": "Businesswebinar",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Businesswebinar",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "74.7447px",
-        "letterSpacing": "normal",
-        "lineHeight": "79px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 412.2015686035156,
-        "y": 373.5141906738281,
-        "width": 157.4187469482422,
-        "height": 69.8049545288086
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 4.85841px);",
-      "width": "378.212px",
-      "height": "158px",
-      "text": "Businesswebinar",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Businesswebinar",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "74.7447px",
-        "letterSpacing": "normal",
-        "lineHeight": "79px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 4.85841
-      },
-      "position": {
-        "x": 412.2015686035156,
-        "y": 375.5363464355469,
-        "width": 157.4187469482422,
-        "height": 65.76240539550781
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "Businesswebinar",
-      "width": "378.212px",
-      "height": "158px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "74.7447px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "79px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 412.2015686035156,
-        "y": 375.5363464355469,
-        "width": 157.4187469482422,
-        "height": 65.76240539550781
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "Businesswebinar",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "74.7447px",
-      "fontWeight": "700",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "79px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 412.2015686035156,
-        "y": 369.8757629394531,
-        "width": 149.23486328125,
-        "height": 76.50080871582031
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 223.224px; height: 40.2258px; transform: translate(79.3701px, 985.519px);",
-      "width": "223.212px",
-      "height": "40.225px",
-      "text": "Register Now",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Register Now",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(17, 20, 35)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.9736px",
-        "letterSpacing": "normal",
-        "lineHeight": "17px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 79.3701,
-        "y": 985.519
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 572.6611328125,
-        "width": 95.050048828125,
-        "height": 17.12890625
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 223.224px; height: 40.2258px; transform: scale(1, 1); transform-origin: 0px 0px;",
-      "width": "223.212px",
-      "height": "40.225px",
-      "text": "Register Now",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Register Now",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(17, 20, 35)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.9736px",
-        "letterSpacing": "normal",
-        "lineHeight": "17px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 572.6611328125,
-        "width": 95.050048828125,
-        "height": 17.12890625
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 223.224px; height: 40.2258px; transform: translate(-1.42109e-14px, 1.63425e-13px);",
-      "width": "223.212px",
-      "height": "40.225px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": -1.42109e-14,
-        "y": 1.63425e-13
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 572.6611328125,
-        "width": 95.050048828125,
-        "height": 17.12890625
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 40.2258px; width: 223.224px; transform: scale(1);",
-      "width": "223.212px",
-      "height": "40.225px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 572.6611328125,
-        "width": 95.050048828125,
-        "height": 17.12890625
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 223.224px; height: 40.2258px; margin-left: 0px; margin-top: 0px;",
-      "width": "223.212px",
-      "height": "40.225px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 572.6611328125,
-        "width": 95.050048828125,
-        "height": 17.12890625
-      }
-    },
-    {
-      "tagName": "svg",
-      "clipPath": "M127.99999989034727,0L1292.6124477060307,0C1326.5601583420394,0 1359.117459195029,13.485675523231142 1383.1221155231024,37.49033207327548C1407.1267720731469,61.49498840134913 1420.612447596378,94.05228925433866 1420.612447596378,127.99999989034727C1420.612447596378,161.94771074832659 1407.1267720731469,194.50501160131608 1383.1221155231024,218.50966792938976C1359.117459195029,242.5143244794341 1326.5601583420394,256.0000000026653 1292.6124477060307,256.0000000026653L127.99999989034727,256.0000000026653C94.05228925433866,256.0000000026653 61.49498840134913,242.5143244794341 37.49033207327548,218.50966792938976C13.485675523231142,194.50501160131608 0,161.94771074832659 0,127.99999989034727C0,94.05228925433866 13.485675523231142,61.49498840134913 37.49033207327548,37.49033207327548C61.49498840134913,13.485675523231142 94.05228925433866,0 127.99999989034727,0Z",
-      "viewBox": null,
-      "clipPathId": "__id52",
-      "position": {
-        "x": 418.8105163574219,
-        "y": 572.6611328125,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "clippath",
-      "position": {
-        "x": 0,
-        "y": 0,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "path",
-      "text": null,
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "10px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "normal",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 418.8105163574219,
-        "y": 572.6611328125,
-        "width": 604.9362182617188,
-        "height": 109.0118637084961
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "clip-path: url(\"#__id52\"); background: rgb(242, 241, 242); width: 1420.61px; height: 256px; transform: scale(0.157132, 0.157132); transform-origin: 0px 0px; touch-action: pan-x pan-y pinch-zoom;",
-      "width": "1420.6px",
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
+      "width": "256px",
       "height": "256px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 572.6611328125,
-        "width": 95.053955078125,
-        "height": 17.129247665405273
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "223.212px",
-      "height": "0px",
-      "text": "Register Now",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Register Now",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(17, 20, 35)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.9736px",
-        "letterSpacing": "normal",
-        "lineHeight": "17px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 572.6611328125,
-        "width": 95.050048828125,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 199.313px; height: 25.6858px; transform: translate(11.9554px, 7.27001px);",
-      "width": "199.312px",
-      "height": "25.675px",
-      "text": "Register Now",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Register Now",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(17, 20, 35)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.9736px",
-        "letterSpacing": "normal",
-        "lineHeight": "17px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 11.9554,
-        "y": 7.27001
-      },
-      "position": {
-        "x": 423.90142822265625,
-        "y": 575.7568969726562,
-        "width": 84.872802734375,
-        "height": 10.93310546875
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 148.028px; height: 19.0766px; transform: scale(1.34646, 1.34646); transform-origin: 0px 0px;",
-      "width": "148.025px",
-      "height": "19.075px",
-      "text": "Register Now",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Register Now",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(17, 20, 35)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.9736px",
-        "letterSpacing": "normal",
-        "lineHeight": "17px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 423.90142822265625,
-        "y": 575.7568969726562,
-        "width": 84.871337890625,
-        "height": 10.936767578125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 1.03828px);",
-      "width": "148.025px",
-      "height": "17px",
-      "text": "Register Now",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Register Now",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(17, 20, 35)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.9736px",
-        "letterSpacing": "normal",
-        "lineHeight": "17px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 1.03828
-      },
-      "position": {
-        "x": 423.90142822265625,
-        "y": 576.3521728515625,
-        "width": 84.871337890625,
-        "height": 9.74716854095459
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "Register Now",
-      "width": "148.025px",
-      "height": "17px",
-      "color": "rgb(17, 20, 35)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.9736px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "17px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 423.90142822265625,
-        "y": 576.3521728515625,
-        "width": 84.871337890625,
-        "height": 9.74716854095459
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "Register Now",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(17, 20, 35)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.9736px",
-      "fontWeight": "700",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "17px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 432.2222595214844,
-        "y": 574.5173950195312,
-        "width": 68.22246551513672,
-        "height": 12.84326171875
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "Contact us",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Contact us",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 157.505px; height: 18.0503px; transform: translate(124.509px, 867.884px);",
-      "width": "157.5px",
-      "height": "18.05px",
-      "text": "Contact us",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Contact us",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 124.509,
-        "y": 867.884
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 522.5689086914062,
-        "width": 67.06787109375,
-        "height": 7.686181545257568
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 157.505px; height: 18.0503px;",
-      "width": "157.5px",
-      "height": "18.05px",
-      "text": "Contact us",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Contact us",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 522.5689086914062,
-        "width": 67.06787109375,
-        "height": 7.686181545257568
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 1.02517px);",
-      "width": "157.5px",
-      "height": "16px",
-      "text": "Contact us",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Contact us",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 1.02517
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 523.0054931640625,
-        "width": 67.06787109375,
-        "height": 6.813183784484863
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "Contact us",
-      "width": "157.5px",
-      "height": "16px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 523.0054931640625,
-        "width": 67.06787109375,
-        "height": 6.813183784484863
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "Contact us",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 521.642822265625,
-        "width": 36.87665939331055,
-        "height": 9.538525581359863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "8:30am",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "8:30am",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "21.5077px",
-        "letterSpacing": "normal",
-        "lineHeight": "23px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 157.505px; height: 18.9165px; transform: translate(124.509px, 814.795px);",
-      "width": "157.5px",
-      "height": "18.9125px",
-      "text": "8:30am",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "8:30am",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "21.5077px",
-        "letterSpacing": "normal",
-        "lineHeight": "23px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 124.509,
-        "y": 814.795
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 499.9623107910156,
-        "width": 67.06787109375,
-        "height": 8.053515434265137
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 214.786px; height: 25.796px; transform: scale(0.733311, 0.733311); transform-origin: 0px 0px;",
-      "width": "214.775px",
-      "height": "25.7875px",
-      "text": "8:30am",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "8:30am",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "21.5077px",
-        "letterSpacing": "normal",
-        "lineHeight": "23px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 499.9623107910156,
-        "width": 67.06645965576172,
-        "height": 8.052538871765137
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 1.398px);",
-      "width": "214.775px",
-      "height": "23px",
-      "text": "8:30am",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "8:30am",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "21.5077px",
-        "letterSpacing": "normal",
-        "lineHeight": "23px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 1.398
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 500.3988952636719,
-        "width": 67.06645965576172,
-        "height": 7.182080268859863
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "8:30am",
-      "width": "214.775px",
-      "height": "23px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "21.5077px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "23px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 500.3988952636719,
-        "width": 67.06645965576172,
-        "height": 7.182080268859863
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "8:30am",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "21.5077px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "23px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 499.1498107910156,
-        "width": 25.297266006469727,
-        "height": 9.24301815032959
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "Visit our website",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Visit our website",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 157.505px; height: 18.0503px; transform: translate(124.509px, 925.517px);",
-      "width": "157.5px",
-      "height": "18.05px",
-      "text": "Visit our website",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Visit our website",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 124.509,
-        "y": 925.517
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 547.1106567382812,
-        "width": 67.06787109375,
-        "height": 7.686230659484863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 157.505px; height: 18.0503px;",
-      "width": "157.5px",
-      "height": "18.05px",
-      "text": "Visit our website",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Visit our website",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 547.1106567382812,
-        "width": 67.06787109375,
-        "height": 7.686230659484863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 1.02517px);",
-      "width": "157.5px",
-      "height": "16px",
-      "text": "Visit our website",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Visit our website",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 1.02517
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 547.5472412109375,
-        "width": 67.06787109375,
-        "height": 6.813232421875
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "Visit our website",
-      "width": "157.5px",
-      "height": "16px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 547.5472412109375,
-        "width": 67.06787109375,
-        "height": 6.813232421875
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "Visit our website",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 546.1845703125,
-        "width": 54.452735900878906,
-        "height": 9.538525581359863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "+123-456-7890",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "+123-456-7890",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 157.505px; height: 18.0503px; transform: translate(124.509px, 886.8px);",
-      "width": "157.5px",
-      "height": "18.05px",
-      "text": "+123-456-7890",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "+123-456-7890",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 124.509,
-        "y": 886.8
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 530.6240234375,
-        "width": 67.06787109375,
-        "height": 7.686181545257568
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 157.505px; height: 18.0503px;",
-      "width": "157.5px",
-      "height": "18.05px",
-      "text": "+123-456-7890",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "+123-456-7890",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 530.6240234375,
-        "width": 67.06787109375,
-        "height": 7.686181545257568
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 1.02517px);",
-      "width": "157.5px",
-      "height": "16px",
-      "text": "+123-456-7890",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "+123-456-7890",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 1.02517
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 531.060546875,
-        "width": 67.06787109375,
-        "height": 6.813281536102295
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "+123-456-7890",
-      "width": "157.5px",
-      "height": "16px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 531.060546875,
-        "width": 67.06787109375,
-        "height": 6.813281536102295
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "+123-456-7890",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "700",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 529.6979370117188,
-        "width": 52.06806564331055,
-        "height": 9.538525581359863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "02 February, 2024",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "02 February, 2024",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 229.987px; height: 18.0503px; transform: translate(124.509px, 833.712px);",
-      "width": "229.975px",
-      "height": "18.05px",
-      "text": "02 February, 2024",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "02 February, 2024",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 124.509,
-        "y": 833.712
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 508.0174865722656,
-        "width": 97.92974090576172,
-        "height": 7.686230659484863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 229.987px; height: 18.0503px;",
-      "width": "229.975px",
-      "height": "18.05px",
-      "text": "02 February, 2024",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "02 February, 2024",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 508.0174865722656,
-        "width": 97.92974090576172,
-        "height": 7.686230659484863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 1.02517px);",
-      "width": "229.975px",
-      "height": "16px",
-      "text": "02 February, 2024",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "02 February, 2024",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 1.02517
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 508.4541015625,
-        "width": 97.92974090576172,
-        "height": 6.813183784484863
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "02 February, 2024",
-      "width": "229.975px",
-      "height": "16px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 508.4541015625,
-        "width": 97.92974090576172,
-        "height": 6.813183784484863
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "02 February, 2024",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "700",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 507.0914611816406,
-        "width": 64.2520980834961,
-        "height": 9.538525581359863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "www.reallygreatsite.com",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "www.reallygreatsite.com",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 248.36px; height: 18.0503px; transform: translate(124.509px, 944.433px);",
-      "width": "248.35px",
-      "height": "18.05px",
-      "text": "www.reallygreatsite.com",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "www.reallygreatsite.com",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 124.509,
-        "y": 944.433
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 555.1658325195312,
-        "width": 105.7542953491211,
-        "height": 7.686181545257568
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 248.36px; height: 18.0503px;",
-      "width": "248.35px",
-      "height": "18.05px",
-      "text": "www.reallygreatsite.com",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "www.reallygreatsite.com",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 555.1658325195312,
-        "width": 105.7542953491211,
-        "height": 7.686181545257568
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 1.02517px);",
-      "width": "248.35px",
-      "height": "16px",
-      "text": "www.reallygreatsite.com",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "www.reallygreatsite.com",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "15.7718px",
-        "letterSpacing": "normal",
-        "lineHeight": "16px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 1.02517
-      },
-      "position": {
-        "x": 438.0318908691406,
-        "y": 555.6024169921875,
-        "width": 105.7542953491211,
-        "height": 6.813232421875
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "www.reallygreatsite.com",
-      "width": "248.35px",
-      "height": "16px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 555.6024169921875,
-        "width": 105.7542953491211,
-        "height": 6.813232421875
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "www.reallygreatsite.com",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "15.7718px",
-      "fontWeight": "700",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "16px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 438.0318908691406,
-        "y": 554.23974609375,
-        "width": 101.16069793701172,
-        "height": 9.538525581359863
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "24.0496px",
-        "letterSpacing": "normal",
-        "lineHeight": "29px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 330.593px; height: 98.2099px; transform: translate(79.3701px, 690.154px);",
-      "width": "330.587px",
-      "height": "98.2px",
-      "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "24.0496px",
-        "letterSpacing": "normal",
-        "lineHeight": "29px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 79.3701,
-        "y": 690.154
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 446.88653564453125,
-        "width": 140.77330017089844,
-        "height": 41.81631088256836
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 389.668px; height: 115.76px; transform: scale(0.848396, 0.848396); transform-origin: 0px 0px;",
-      "width": "389.663px",
-      "height": "115.75px",
-      "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "24.0496px",
-        "letterSpacing": "normal",
-        "lineHeight": "29px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 446.88653564453125,
-        "width": 140.7734832763672,
-        "height": 41.81708908081055
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, -0.120248px);",
-      "width": "389.663px",
-      "height": "116px",
-      "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "24.0496px",
-        "letterSpacing": "normal",
-        "lineHeight": "29px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": -0.120248
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 446.84307861328125,
-        "width": 140.7734832763672,
-        "height": 41.90737533569336
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-      "width": "389.663px",
-      "height": "116px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "24.0496px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "29px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 418.8105163574219,
-        "y": 446.84307861328125,
-        "width": 140.7734832763672,
-        "height": 41.90737533569336
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "24.0496px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "29px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 418.8104553222656,
-        "y": 445.68701171875,
-        "width": 138.2265625,
-        "height": 43.85820388793945
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "Warner & Spencer",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Warner & Spencer",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "13.8904px",
-        "letterSpacing": "normal",
-        "lineHeight": "14px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 156.38px; height: 16.1171px; transform: translate(119.565px, 479.465px);",
-      "width": "156.375px",
-      "height": "16.1125px",
-      "text": "Warner & Spencer",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Warner & Spencer",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "13.8904px",
-        "letterSpacing": "normal",
-        "lineHeight": "14px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 119.566,
-        "y": 479.465
-      },
-      "position": {
-        "x": 435.92681884765625,
-        "y": 357.1692810058594,
-        "width": 66.58882141113281,
-        "height": 6.861133098602295
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 153.359px; height: 15.8058px; transform: scale(1.0197, 1.0197); transform-origin: 0px 0px;",
-      "width": "153.35px",
-      "height": "15.8px",
-      "text": "Warner & Spencer",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Warner & Spencer",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "13.8904px",
-        "letterSpacing": "normal",
-        "lineHeight": "14px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 435.92681884765625,
-        "y": 357.1692810058594,
-        "width": 66.5870590209961,
-        "height": 6.860595703125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 0.902876px);",
-      "width": "153.35px",
-      "height": "14px",
-      "text": "Warner & Spencer",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Warner & Spencer",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "700",
-        "fontSize": "13.8904px",
-        "letterSpacing": "normal",
-        "lineHeight": "14px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0.902876
-      },
-      "position": {
-        "x": 435.92681884765625,
-        "y": 357.56134033203125,
-        "width": 66.5870590209961,
-        "height": 6.079003810882568
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "Warner & Spencer",
-      "width": "153.35px",
-      "height": "14px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "13.8904px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "14px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 435.92681884765625,
-        "y": 357.56134033203125,
-        "width": 66.5870590209961,
-        "height": 6.079003810882568
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "Warner & Spencer",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "13.8904px",
-      "fontWeight": "700",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "14px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 435.92681884765625,
-        "y": 356.1718444824219,
-        "width": 60.87710189819336,
-        "height": 8.336962699890137
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "793.7px",
-      "height": "0px",
-      "text": "Company",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Company",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "13.8904px",
-        "letterSpacing": "normal",
-        "lineHeight": "14px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9794616699219,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 156.38px; height: 16.1171px; transform: translate(119.565px, 496.179px);",
-      "width": "156.375px",
-      "height": "16.1125px",
-      "text": "Company",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Company",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "13.8904px",
-        "letterSpacing": "normal",
-        "lineHeight": "14px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 119.566,
-        "y": 496.179
-      },
-      "position": {
-        "x": 435.92681884765625,
-        "y": 364.2869567871094,
-        "width": 66.58882141113281,
-        "height": 6.861133098602295
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "writing-mode: horizontal-tb; width: 153.359px; height: 15.8058px; transform: scale(1.0197, 1.0197); transform-origin: 0px 0px;",
-      "width": "153.35px",
-      "height": "15.8px",
-      "text": "Company",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Company",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "13.8904px",
-        "letterSpacing": "normal",
-        "lineHeight": "14px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 435.92681884765625,
-        "y": 364.2869567871094,
-        "width": 66.5870590209961,
-        "height": 6.860595703125
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "transform: translate(0px, 0.902876px);",
-      "width": "153.35px",
-      "height": "14px",
-      "text": "Company",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "Company",
-        "width": "auto",
-        "height": "auto",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "400",
-        "fontSize": "13.8904px",
-        "letterSpacing": "normal",
-        "lineHeight": "14px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0.902876
-      },
-      "position": {
-        "x": 435.92681884765625,
-        "y": 364.67901611328125,
-        "width": 66.5870590209961,
-        "height": 6.079028606414795
-      }
-    },
-    {
-      "tagName": "p",
-      "text": "Company",
-      "width": "153.35px",
-      "height": "14px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "13.8904px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "14px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 435.92681884765625,
-        "y": 364.67901611328125,
-        "width": 66.5870590209961,
-        "height": 6.079028606414795
-      }
-    },
-    {
-      "tagName": "span",
-      "text": "Company",
-      "width": "auto",
-      "height": "auto",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "13.8904px",
-      "fontWeight": "400",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "14px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 435.92681884765625,
-        "y": 363.2895202636719,
-        "width": 29.906641006469727,
-        "height": 8.336962699890137
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 41.037px; height: 41.037px; transform: translate(79.3701px, 866.282px);",
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/ae689f5d-b319-4f69-bb4c-d63f4c32a13a",
-      "textAlt": "Telephone Call Icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 79.3701,
-        "y": 866.282
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 521.88671875,
-        "width": 17.469579696655273,
-        "height": 17.469532012939453
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/ae689f5d-b319-4f69-bb4c-d63f4c32a13a",
-      "textAlt": "Telephone Call Icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 521.88671875,
-        "width": 17.469579696655273,
-        "height": 17.469532012939453
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/ae689f5d-b319-4f69-bb4c-d63f4c32a13a",
-      "textAlt": "Telephone Call Icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 521.88671875,
-        "width": 17.469579696655273,
-        "height": 17.469532012939453
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/ae689f5d-b319-4f69-bb4c-d63f4c32a13a",
-      "textAlt": "Telephone Call Icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 521.88671875,
-        "width": 17.469579696655273,
-        "height": 17.469532012939453
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/ae689f5d-b319-4f69-bb4c-d63f4c32a13a",
-      "textAlt": "Telephone Call Icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 521.88671875,
-        "width": 17.469579696655273,
-        "height": 17.469532012939453
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 41.037px; height: 41.037px; transform: translate(0px, 0px) rotate(0deg);",
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/ae689f5d-b319-4f69-bb4c-d63f4c32a13a",
-      "textAlt": "Telephone Call Icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 521.88671875,
-        "width": 17.469579696655273,
-        "height": 17.469532012939453
-      }
-    },
-    {
-      "tagName": "img",
-      "src": "blob:https://www.canva.com/ae689f5d-b319-4f69-bb4c-d63f4c32a13a",
-      "name": "Telephone Call Icon",
-      "borderRadius": "0px",
-      "width": "41.025px",
-      "height": "41.025px",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "borderWidth": "0px",
-      "position": {
-        "x": 418.8105163574219,
-        "y": 521.88671875,
-        "width": 17.469579696655273,
-        "height": 17.469532012939453
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 41.037px; width: 41.037px; pointer-events: none; transform: scale(1);",
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 521.88671875,
-        "width": 17.469579696655273,
-        "height": 17.469532012939453
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "touch-action: pan-x pan-y pinch-zoom; width: 41.037px; height: 41.037px; transform: translate(79.3701px, 923.482px);",
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/afbb5aef-83bd-4814-82bc-3080c0a73c86",
-      "textAlt": "web icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 79.3701,
-        "y": 923.482
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 546.2440795898438,
-        "width": 17.469579696655273,
-        "height": 17.469579696655273
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/afbb5aef-83bd-4814-82bc-3080c0a73c86",
-      "textAlt": "web icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 546.2440795898438,
-        "width": 17.469579696655273,
-        "height": 17.469579696655273
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/afbb5aef-83bd-4814-82bc-3080c0a73c86",
-      "textAlt": "web icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 546.2440795898438,
-        "width": 17.469579696655273,
-        "height": 17.469579696655273
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/afbb5aef-83bd-4814-82bc-3080c0a73c86",
-      "textAlt": "web icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 546.2440795898438,
-        "width": 17.469579696655273,
-        "height": 17.469579696655273
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/afbb5aef-83bd-4814-82bc-3080c0a73c86",
-      "textAlt": "web icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 546.2440795898438,
-        "width": 17.469579696655273,
-        "height": 17.469579696655273
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 41.037px; height: 41.037px; transform: translate(0px, 0px) rotate(0deg);",
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": "blob:https://www.canva.com/afbb5aef-83bd-4814-82bc-3080c0a73c86",
-      "textAlt": "web icon",
-      "spanStyle": null,
-      "imgStyle": {
-        "width": "41.025px",
-        "height": "41.025px",
-        "borderRadius": "0px",
-        "borderWidth": "0px",
-        "borderColor": "rgb(255, 255, 255)"
-      },
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 546.2440795898438,
-        "width": 17.469579696655273,
-        "height": 17.469579696655273
-      }
-    },
-    {
-      "tagName": "img",
-      "src": "blob:https://www.canva.com/afbb5aef-83bd-4814-82bc-3080c0a73c86",
-      "name": "web icon",
-      "borderRadius": "0px",
-      "width": "41.025px",
-      "height": "41.025px",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "borderWidth": "0px",
-      "position": {
-        "x": 418.8105163574219,
-        "y": 546.2440795898438,
-        "width": 17.469579696655273,
-        "height": 17.469579696655273
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px; height: 41.037px; width: 41.037px; pointer-events: none; transform: scale(1);",
-      "width": "41.025px",
-      "height": "41.025px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 0,
-        "y": 0
-      },
-      "position": {
-        "x": 418.8105163574219,
-        "y": 546.2440795898438,
-        "width": 17.469579696655273,
-        "height": 17.469579696655273
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 337.98px; height: 478px; margin: 0px;",
-      "width": "337.975px",
-      "height": "478px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9750061035156,
-        "height": 478
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "0px",
-      "height": "0px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 0,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "width: 337.98px; height: 478px; margin: 0px;",
-      "width": "337.975px",
-      "height": "478px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9750061035156,
-        "height": 478
-      }
-    },
-    {
-      "tagName": "div",
-      "style": "height: 69.8067px; width: 157.419px; transform: translate(27.1891px, 220.514px) rotate(0deg);",
-      "width": "157.413px",
-      "height": "69.8px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": 27.1891,
-        "y": 220.514
-      },
-      "position": {
-        "x": 411.2015686035156,
-        "y": 372.51416015625,
-        "width": 159.41250610351562,
-        "height": 71.80000305175781
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "337.975px",
-      "height": "478px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9750061035156,
-        "height": 478
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "337.975px",
-      "height": "0px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9750061035156,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "337.975px",
-      "height": "0px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 337.9750061035156,
-        "height": 0
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "0px",
-      "height": "36px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 0,
-        "height": 36
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "0px",
-      "height": "36px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 0,
-        "height": 36
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "0px",
-      "height": "36px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 0,
-        "height": 36
-      }
-    },
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "0px",
-      "height": "36px",
-      "text": null,
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": null,
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 153,
-        "width": 0,
-        "height": 36
-      }
+      "background": "rgb(248, 252, 255)"
     }
-  ],
-  [
-    {
-      "tagName": "div",
-      "style": null,
-      "width": "337.975px",
-      "height": "40px",
-      "text": "+ Add page",
-      "imageSrc": null,
-      "textAlt": null,
-      "spanStyle": {
-        "text": "+ Add page",
-        "width": "306.375px",
-        "height": "22px",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "color": "rgb(255, 255, 255)",
-        "fontStyle": "normal",
-        "fontWeight": "600",
-        "fontSize": "14px",
-        "letterSpacing": "normal",
-        "lineHeight": "22px"
-      },
-      "imgStyle": null,
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "position": {
-        "x": 385.01251220703125,
-        "y": 655,
-        "width": 337.9750061035156,
-        "height": 40
-      }
+  },
+  {
+    "tagName": "div",
+    "width": "253.887px",
+    "height": "253.887px",
+    "shadow": null,
+    "coordinates": {
+      "x": 516.763,
+      "y": 458.738
     },
-    {
-      "tagName": "span",
-      "text": "+ Add page",
-      "width": "306.375px",
-      "height": "22px",
-      "color": "rgb(255, 255, 255)",
-      "coordinates": {
-        "x": null,
-        "y": null
-      },
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "fontStyle": "normal",
-      "letterSpacing": "normal",
-      "lineHeight": "22px",
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "position": {
-        "x": 400.8125,
-        "y": 664,
-        "width": 306.375,
-        "height": 22
-      }
+    "src": "https://media-public.canva.com/_zhms/MAEWmI_zhms/1/s.jpg",
+    "text": null,
+    "type": "image",
+    "altName": "A Man in Black Jacket Cleaning the Seat of a Car",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
+      "width": "256px",
+      "height": "256px",
+      "background": "rgba(0, 0, 0, 0)"
     }
-  ]
+  },
+  {
+    "tagName": "div",
+    "width": "253.887px",
+    "height": "253.887px",
+    "shadow": null,
+    "coordinates": {
+      "x": 516.763,
+      "y": 749.2
+    },
+    "src": "https://media-public.canva.com/dNNzY/MAEWmEdNNzY/1/s.jpg",
+    "text": null,
+    "type": "image",
+    "altName": "Person Wiping the Black Car Using Gray Fabric",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
+      "width": "256px",
+      "height": "256px",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "558.3px",
+    "height": "558.3px",
+    "shadow": null,
+    "coordinates": {
+      "x": 344.016,
+      "y": -117.107
+    },
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
+      "width": "256px",
+      "height": "256px",
+      "background": "rgb(248, 252, 255)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "504.6px",
+    "height": "504.6px",
+    "shadow": null,
+    "coordinates": {
+      "x": 351.922,
+      "y": -105.248
+    },
+    "src": "https://media-public.canva.com/fGnjk/MAEWmOfGnjk/1/s.jpg",
+    "text": null,
+    "type": "image",
+    "altName": "A Man Cleaning a Car using a Sponge",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
+      "width": "256px",
+      "height": "256px",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "159.962px",
+    "height": "43.375px",
+    "shadow": null,
+    "coordinates": {
+      "x": 79.3701,
+      "y": 536.586
+    },
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M127.99999996184097,0L815.9031086372711,0C849.8508193238758,0 882.4081201731774,13.485675564020996 906.4127766041343,37.4903319949778C930.417433035091,61.49498842593461 943.903108599112,94.05228927523619 943.903108599112,127.99999996184097C943.903108599112,161.94771064844574 930.417433035091,194.5050114977473 906.4127766041343,218.509668076189C882.4081201731774,242.5143245071458 849.8508193238758,256.0000000711668 815.9031086372711,256.0000000711668L127.99999996184097,256.0000000711668C94.05228927523619,256.0000000711668 61.49498842593461,242.5143245071458 37.4903319949778,218.509668076189C13.485675564020996,194.5050114977473 0,161.94771064844574 0,127.99999996184097C0,94.05228927523619 13.485675564020996,61.49498842593461 37.4903319949778,37.4903319949778C61.49498842593461,13.485675564020996 94.05228927523619,0 127.99999996184097,0Z",
+      "width": "943.9px",
+      "height": "256px",
+      "background": "rgb(248, 252, 255)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "158.637px",
+    "height": "43.025px",
+    "shadow": null,
+    "coordinates": {
+      "x": 79.3701,
+      "y": 832.453
+    },
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M127.99999996184097,0L815.9031086372711,0C849.8508193238758,0 882.4081201731774,13.485675564020996 906.4127766041343,37.4903319949778C930.417433035091,61.49498842593461 943.903108599112,94.05228927523619 943.903108599112,127.99999996184097C943.903108599112,161.94771064844574 930.417433035091,194.5050114977473 906.4127766041343,218.509668076189C882.4081201731774,242.5143245071458 849.8508193238758,256.0000000711668 815.9031086372711,256.0000000711668L127.99999996184097,256.0000000711668C94.05228927523619,256.0000000711668 61.49498842593461,242.5143245071458 37.4903319949778,218.509668076189C13.485675564020996,194.5050114977473 0,161.94771064844574 0,127.99999996184097C0,94.05228927523619 13.485675564020996,61.49498842593461 37.4903319949778,37.4903319949778C61.49498842593461,13.485675564020996 94.05228927523619,0 127.99999996184097,0Z",
+      "width": "943.9px",
+      "height": "256px",
+      "background": "rgb(248, 252, 255)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "22.1375px",
+    "height": "22.1375px",
+    "shadow": null,
+    "coordinates": {
+      "x": 79.3701,
+      "y": 596.529
+    },
+    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
+    "text": null,
+    "type": "image",
+    "altName": "checklist duo tone icon",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "22.1375px",
+    "height": "22.1375px",
+    "shadow": null,
+    "coordinates": {
+      "x": 79.3701,
+      "y": 658.841
+    },
+    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
+    "text": null,
+    "type": "image",
+    "altName": "checklist duo tone icon",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "22.1375px",
+    "height": "22.1375px",
+    "shadow": null,
+    "coordinates": {
+      "x": 79.3701,
+      "y": 721.154
+    },
+    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
+    "text": null,
+    "type": "image",
+    "altName": "checklist duo tone icon",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "22.1375px",
+    "height": "22.1375px",
+    "shadow": null,
+    "coordinates": {
+      "x": 79.3701,
+      "y": 627.811
+    },
+    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
+    "text": null,
+    "type": "image",
+    "altName": "checklist duo tone icon",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "22.1375px",
+    "height": "22.1375px",
+    "shadow": null,
+    "coordinates": {
+      "x": 79.3701,
+      "y": 690.124
+    },
+    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
+    "text": null,
+    "type": "image",
+    "altName": "checklist duo tone icon",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "22.1375px",
+    "height": "22.1375px",
+    "shadow": null,
+    "coordinates": {
+      "x": 79.3701,
+      "y": 752.436
+    },
+    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
+    "text": null,
+    "type": "image",
+    "altName": "checklist duo tone icon",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "412.913px",
+    "height": "431.1px",
+    "shadow": null,
+    "coordinates": {
+      "x": -60.56,
+      "y": 946.884
+    },
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0C57.30755202165845,0 0,59.831971890742565 0,133.63844959073887C0,207.4449272907352 57.307552021658424,267.2768991814778 128,267.2768991814778C198.69244797834153,267.2768991814778 256,207.44492729073528 256,133.63844959073893C256,59.83197189074261 198.6924479783416,0 128,0Z",
+      "width": "256px",
+      "height": "267.275px",
+      "background": "rgb(248, 252, 255)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "71px",
+    "height": "52.3875px",
+    "shadow": null,
+    "coordinates": {
+      "x": 79.3701,
+      "y": 85.0394
+    },
+    "src": "blob:https://www.canva.com/14050b01-8aef-4052-a12f-9d1a33a44449",
+    "text": null,
+    "type": "image",
+    "altName": "luxury infinity logo element",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "268.475px",
+    "height": "268.475px",
+    "shadow": null,
+    "coordinates": {
+      "x": -29.1377,
+      "y": 965.073
+    },
+    "src": "https://media-public.canva.com/uVjDM/MAELP_uVjDM/1/s.jpg",
+    "text": null,
+    "type": "image",
+    "altName": "Man Power Washing a Car",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
+      "width": "256px",
+      "height": "256px",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "233.625px",
+    "height": "53.4625px",
+    "coordinates": {
+      "x": 79.3701,
+      "y": 203.996
+    },
+    "src": null,
+    "text": "premium",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "400",
+    "fontSize": "33.0977px",
+    "letterSpacing": "normal",
+    "lineHeight": "46px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "97.9125px",
+    "height": "22.1375px",
+    "coordinates": {
+      "x": 104.958,
+      "y": 596.529
+    },
+    "src": null,
+    "text": "Car Wash",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "21.8065px",
+    "letterSpacing": "normal",
+    "lineHeight": "30px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "152.2px",
+    "height": "22.1375px",
+    "coordinates": {
+      "x": 104.958,
+      "y": 658.841
+    },
+    "src": null,
+    "text": "Paint Detailing",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "21.8065px",
+    "letterSpacing": "normal",
+    "lineHeight": "30px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "152.2px",
+    "height": "22.1375px",
+    "coordinates": {
+      "x": 104.958,
+      "y": 721.154
+    },
+    "src": null,
+    "text": "Air Freshener",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "21.8065px",
+    "letterSpacing": "normal",
+    "lineHeight": "30px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "118.65px",
+    "height": "22.1375px",
+    "coordinates": {
+      "x": 104.958,
+      "y": 627.811
+    },
+    "src": null,
+    "text": "Vacuuming",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "21.8065px",
+    "letterSpacing": "normal",
+    "lineHeight": "30px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "166.413px",
+    "height": "22.1375px",
+    "coordinates": {
+      "x": 104.958,
+      "y": 690.124
+    },
+    "src": null,
+    "text": "Scratch Removal",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "21.8065px",
+    "letterSpacing": "normal",
+    "lineHeight": "30px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "166.413px",
+    "height": "22.1375px",
+    "coordinates": {
+      "x": 104.958,
+      "y": 752.436
+    },
+    "src": null,
+    "text": "Air Filter Change",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "21.8065px",
+    "letterSpacing": "normal",
+    "lineHeight": "30px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "145.65px",
+    "height": "27.4875px",
+    "coordinates": {
+      "x": 79.3701,
+      "y": 140.988
+    },
+    "src": null,
+    "text": "Larana, Inc.",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "21.8065px",
+    "letterSpacing": "normal",
+    "lineHeight": "30px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "220.725px",
+    "height": "20.1375px",
+    "coordinates": {
+      "x": 79.3701,
+      "y": 887.053
+    },
+    "src": null,
+    "text": "www.reallygreatsite.com",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "21.8065px",
+    "letterSpacing": "normal",
+    "lineHeight": "30px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "143.1px",
+    "height": "23.1875px",
+    "coordinates": {
+      "x": 87.8011,
+      "y": 546.608
+    },
+    "src": null,
+    "text": "our service",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "700",
+    "fontSize": "13.7209px",
+    "letterSpacing": "normal",
+    "lineHeight": "19px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "132.675px",
+    "height": "20.2125px",
+    "coordinates": {
+      "x": 92.3497,
+      "y": 843.783
+    },
+    "src": null,
+    "text": "more detail",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "700",
+    "fontSize": "13.7209px",
+    "letterSpacing": "normal",
+    "lineHeight": "19px",
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "292.2px",
+    "height": "230.387px",
+    "coordinates": {
+      "x": 79.3701,
+      "y": 253.463
+    },
+    "src": null,
+    "text": "car wash",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(17, 17, 18)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "400",
+    "fontSize": "48.901px",
+    "letterSpacing": "normal",
+    "lineHeight": "47px",
+    "clipPath": null
+  }
 ]

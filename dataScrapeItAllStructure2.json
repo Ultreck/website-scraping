@@ -3,957 +3,827 @@
     {
       "elements": [
         {
-          "config": {
-            "name": "",
-            "clipPath": "M14.996 7.78H5.039m9.957 0c.574 0 1.039.466 1.039 1.04m-1.04-1.04c.572 0 1.04.468 1.04 1.04M5.039 7.78A1.04 1.04 0 0 0 4 8.82m1.04-1.04C4.467 7.78 4 8.249 4 8.82m12.035 0v7.466m0 0a1.04 1.04 0 0 1-1.04 1.04m1.04-1.04c0 .572-.468 1.04-1.04 1.04m0 0H5.04m0 0A1.04 1.04 0 0 1 4 16.286m1.04 1.04c-.572 0-1.04-.468-1.04-1.04m0 0V8.82M10.02 11.7v3.074"
-          },
-          "height": "20",
-          "id": "7821b59b-98c3-4bb5-b5f1-5eb7150f8b47",
-          "rotate": 0,
+          "text": "Frame rectangle",
+          "type": "frame",
+          "width": "256px",
+          "height": "256px",
+          "children": [
+            null
+          ],
           "style": {
             "animationDuration": "1s",
             "animationName": "",
             "opacity": 1,
             "order": null,
-            "shadow": ""
+            "shadow": "",
+            "background": "rgb(248, 252, 255)"
           },
-          "text": "",
-          "tooltip": {},
-          "type": "frame",
-          "width": "20",
-          "background": "",
-          "x": 626.9874877929688,
-          "y": 125
-        },
-        {
           "config": {
-            "name": "",
-            "clipPath": "M4.167 2.5h6.666c.92 0 1.667.746 1.667 1.667v.416h-1.25v-.416a.417.417 0 0 0-.417-.417H4.167a.417.417 0 0 0-.417.417V12.5c0 .23.187.417.417.417H6.25v1.25H4.167c-.92 0-1.667-.746-1.667-1.667V4.167c0-.92.746-1.667 1.667-1.667Zm5 4.583a.417.417 0 0 0-.417.417v8.333c0 .23.187.417.417.417h6.666c.23 0 .417-.186.417-.417V7.5a.417.417 0 0 0-.417-.417H9.167Zm6.666-1.25H9.167c-.92 0-1.667.747-1.667 1.667v8.333c0 .92.746 1.667 1.667 1.667h6.666c.92 0 1.667-.746 1.667-1.667V7.5c0-.92-.746-1.667-1.667-1.667Z"
-          },
-          "height": "20",
-          "id": "834b0b62-8876-4577-9d90-e31da1de3e9e",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "opacity": 1,
-            "order": null,
-            "shadow": ""
-          },
-          "text": "",
-          "tooltip": {},
-          "type": "frame",
-          "width": "20",
-          "background": "",
-          "x": 662.9874877929688,
-          "y": 125
-        },
-        {
-          "config": {
-            "name": "",
-            "clipPath": "M11.875 10.208a.625.625 0 1 0 1.25 0v-3.75h3.75a.625.625 0 1 0 0-1.25h-3.75v-3.75a.625.625 0 1 0-1.25 0v3.75h-3.75a.625.625 0 0 0 0 1.25h3.75v3.75Z"
-          },
-          "height": "20",
-          "id": "8705591d-6aaf-4d31-833d-fd512be3b71c",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "opacity": 1,
-            "order": null,
-            "shadow": ""
-          },
-          "text": "",
-          "tooltip": {},
-          "type": "frame",
-          "width": "20",
-          "background": "",
-          "x": 698.9874877929688,
-          "y": 125
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg"
-          },
-          "height": "544.787pxpx",
-          "id": "a577272b-2f38-4796-8de7-68a723e4ad24",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "High Rise Buildings ",
-          "type": "image",
-          "width": "817.7pxpx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg"
-          },
-          "height": "544.787pxpx",
-          "id": "229327ea-7948-4b05-abd8-5eb01fe7a038",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "High Rise Buildings ",
-          "type": "image",
-          "width": "817.7pxpx",
-          "x": -12,
-          "y": -12
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg"
-          },
-          "height": "544.787pxpx",
-          "id": "38602eab-6546-4cff-991a-0a014a23cab7",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "High Rise Buildings ",
-          "type": "image",
-          "width": "817.7pxpx",
-          "x": 0,
-          "y": -102.574
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/b8d3560c-aa8d-4517-b0a1-71eef0f51ecc"
-          },
-          "height": "485.35pxpx",
-          "id": "a9fa3b92-f9b0-48b3-ace1-e965b05b28ee",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Abstract Wave Frame",
-          "type": "image",
-          "width": "875.213pxpx",
-          "x": -40.7613,
-          "y": 32.4972
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/b8d3560c-aa8d-4517-b0a1-71eef0f51ecc"
-          },
-          "height": "485.35pxpx",
-          "id": "0c685ae1-8cfd-47f7-a3ac-f82fa5d21fb1",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Abstract Wave Frame",
-          "type": "image",
-          "width": "875.213pxpx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg"
-          },
-          "height": "433.8pxpx",
-          "id": "bdbad798-eb61-49db-8623-2600e55cccae",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Person Using Macbook Pro",
-          "type": "image",
-          "width": "651.1pxpx",
-          "x": 372.869,
-          "y": 634.673
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg"
-          },
-          "height": "433.8pxpx",
-          "id": "b2d5ea6c-cf81-428a-b71a-8262721add71",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Person Using Macbook Pro",
-          "type": "image",
-          "width": "651.1pxpx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "name": "",
-            "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z"
-          },
-          "height": "0",
-          "id": "c320e297-e38b-4f8e-8bf4-982834309e83",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "opacity": 1,
-            "order": null,
-            "shadow": ""
-          },
-          "text": "",
-          "tooltip": {},
-          "type": "frame",
-          "width": "0",
-          "background": "",
-          "x": 543.7904663085938,
-          "y": 423.2614440917969
-        },
-        {
-          "config": {
-            "name": "",
-            "clipPath": "M250 33.1a216.9 216.9 0 1 0 0 433.8 216.9 216.9 0 1 0 0-433.8z"
-          },
-          "height": "0",
-          "id": "01ff35ca-e440-4ae8-b431-3d4c2ae94735",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "opacity": 1,
-            "order": null,
-            "shadow": ""
-          },
-          "text": "",
-          "tooltip": {},
-          "type": "frame",
-          "width": "0",
-          "background": "",
-          "x": 543.7904663085938,
-          "y": 423.2614440917969
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg"
-          },
-          "height": "433.8pxpx",
-          "id": "4b64927b-94ed-42ff-add2-fd94709fc4bc",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Person Using Macbook Pro",
-          "type": "image",
-          "width": "651.1pxpx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg"
-          },
-          "height": "433.8pxpx",
-          "id": "806e72fa-431e-449f-b79f-ca02220c6cfa",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Person Using Macbook Pro",
-          "type": "image",
-          "width": "651.1pxpx",
-          "x": -75.5535,
-          "y": 33.1
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg"
-          },
-          "height": "433.8pxpx",
-          "id": "cd747819-d599-4866-bd3b-5b92fcd4c33f",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Man in Black Suit Jacket While Using Smartphone",
-          "type": "image",
-          "width": "651.1pxpx",
-          "x": 490.994,
-          "y": 317.532
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg"
-          },
-          "height": "433.8pxpx",
-          "id": "721e7009-51f4-4484-9815-582a2dbd5b97",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Man in Black Suit Jacket While Using Smartphone",
-          "type": "image",
-          "width": "651.1pxpx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "name": "",
-            "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z"
-          },
-          "height": "0",
-          "id": "a2fc72e5-bf9a-497b-ba19-f87968470e94",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "opacity": 1,
-            "order": null,
-            "shadow": ""
-          },
-          "text": "",
-          "tooltip": {},
-          "type": "frame",
-          "width": "0",
-          "background": "",
-          "x": 594.09130859375,
-          "y": 288.2140808105469
-        },
-        {
-          "config": {
-            "name": "",
-            "clipPath": "M250 33.1a216.9 216.9 0 1 0 0 433.8 216.9 216.9 0 1 0 0-433.8z"
-          },
-          "height": "0",
-          "id": "1c9d4b74-5fd4-4f72-9697-d02ed7c385b2",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "opacity": 1,
-            "order": null,
-            "shadow": ""
-          },
-          "text": "",
-          "tooltip": {},
-          "type": "frame",
-          "width": "0",
-          "background": "",
-          "x": 594.09130859375,
-          "y": 288.2140808105469
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg"
-          },
-          "height": "433.8pxpx",
-          "id": "402202ee-42da-4416-9a19-3f8804e74062",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Man in Black Suit Jacket While Using Smartphone",
-          "type": "image",
-          "width": "651.1pxpx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "src": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg"
-          },
-          "height": "433.8pxpx",
-          "id": "a83f4d66-6c33-4d77-afea-ec3b4e6aee23",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Man in Black Suit Jacket While Using Smartphone",
-          "type": "image",
-          "width": "651.1pxpx",
-          "x": -160.126,
-          "y": 33.1
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/e44e0940-881c-403c-b9a2-2ac6dea64219"
-          },
-          "height": "48.6625pxpx",
-          "id": "469005b2-6894-485b-b901-cdacd8780690",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Letter CF logo and Initial FC logo design template.",
-          "type": "image",
-          "width": "34.7625pxpx",
-          "x": 79.3701,
-          "y": 470.42
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/e44e0940-881c-403c-b9a2-2ac6dea64219"
-          },
-          "height": "48.6625pxpx",
-          "id": "c612c6e2-c033-416f-9ec3-4552a7909b75",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Letter CF logo and Initial FC logo design template.",
-          "type": "image",
-          "width": "34.7625pxpx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "name": "",
+            "name": "shape-",
             "clipPath": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z"
           },
-          "height": "0",
-          "id": "2dbf414c-857d-476e-890a-85f34ec9e3f2",
+          "tooltip": {},
+          "x": 512.785,
+          "y": 452.771,
           "rotate": 0,
+          "id": "8d7be655-df1f-4f81-9747-f9a0e20b3587"
+        },
+        {
+          "text": "Frame rectangle",
+          "type": "frame",
+          "width": "256px",
+          "height": "256px",
+          "children": [
+            null
+          ],
           "style": {
             "animationDuration": "1s",
             "animationName": "",
             "opacity": 1,
             "order": null,
-            "shadow": ""
-          },
-          "text": "",
-          "tooltip": {},
-          "type": "frame",
-          "width": "0",
-          "background": "",
-          "x": 418.8105163574219,
-          "y": 499.095703125
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/66bd9b94-143d-4f58-b3d1-de55b2b748d1"
-          },
-          "height": "24.3625pxpx",
-          "id": "a3b20133-34b4-4537-b9b1-036119d9943c",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "time and date icon",
-          "type": "image",
-          "width": "25.8625pxpx",
-          "x": 86.9534,
-          "y": 821.096
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/66bd9b94-143d-4f58-b3d1-de55b2b748d1"
-          },
-          "height": "24.3625pxpx",
-          "id": "27e20c00-1b46-4c96-bc92-bc69e2821bca",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "time and date icon",
-          "type": "image",
-          "width": "25.8625pxpx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "name": "Business webinar"
-          },
-          "height": "autopx",
-          "id": "a04c8767-2001-4042-8925-003c53a23016",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "74.7447px",
-            "fontWeight": "700",
-            "letterSpacing": "normal",
-            "lineHeight": "79px",
-            "opacity": 1,
             "shadow": "",
-            "textAlign": "left"
+            "background": "rgb(248, 252, 255)"
           },
-          "text": "Business webinar",
-          "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
+          "config": {
+            "name": "shape-",
+            "clipPath": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z"
+          },
+          "tooltip": {},
+          "x": 512.785,
+          "y": 743.233,
+          "rotate": 0,
+          "id": "57bd4f4a-a008-409a-a8d7-f18ed43133c7"
         },
         {
-          "config": {
-            "name": "",
-            "clipPath": "M127.99999989034727,0L1292.6124477060307,0C1326.5601583420394,0 1359.117459195029,13.485675523231142 1383.1221155231024,37.49033207327548C1407.1267720731469,61.49498840134913 1420.612447596378,94.05228925433866 1420.612447596378,127.99999989034727C1420.612447596378,161.94771074832659 1407.1267720731469,194.50501160131608 1383.1221155231024,218.50966792938976C1359.117459195029,242.5143244794341 1326.5601583420394,256.0000000026653 1292.6124477060307,256.0000000026653L127.99999989034727,256.0000000026653C94.05228925433866,256.0000000026653 61.49498840134913,242.5143244794341 37.49033207327548,218.50966792938976C13.485675523231142,194.50501160131608 0,161.94771074832659 0,127.99999989034727C0,94.05228925433866 13.485675523231142,61.49498840134913 37.49033207327548,37.49033207327548C61.49498840134913,13.485675523231142 94.05228925433866,0 127.99999989034727,0Z"
-          },
-          "height": "0",
-          "id": "768f473f-0242-44a2-81ad-a896ee5ec197",
-          "rotate": 0,
+          "text": "Frame rectangle",
+          "type": "frame",
+          "width": "256px",
+          "height": "256px",
+          "children": [
+            {
+              "type": "image",
+              "text": "Image",
+              "width": "253.887px",
+              "height": "253.887px",
+              "style": {
+                "animationDuration": "1s",
+                "animationName": "",
+                "color": "#000000",
+                "borderRadius": 0,
+                "borderWidth": 0,
+                "opacity": 1,
+                "shadow": ""
+              },
+              "config": {
+                "src": "https://media-public.canva.com/_zhms/MAEWmI_zhms/1/s.jpg"
+              },
+              "x": 516.763,
+              "y": 458.738,
+              "rotate": 0,
+              "id": "acf8a337-06a7-4587-b225-93b12c20b14c",
+              "frame": 0
+            }
+          ],
           "style": {
             "animationDuration": "1s",
             "animationName": "",
             "opacity": 1,
             "order": null,
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-",
+            "clipPath": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z"
+          },
+          "tooltip": {},
+          "x": 516.763,
+          "y": 458.738,
+          "rotate": 0,
+          "id": "11190773-7607-4789-adb7-a8e5ec6713d9"
+        },
+        {
+          "text": "Frame rectangle",
+          "type": "frame",
+          "width": "256px",
+          "height": "256px",
+          "children": [
+            {
+              "type": "image",
+              "text": "Image",
+              "width": "253.887px",
+              "height": "253.887px",
+              "style": {
+                "animationDuration": "1s",
+                "animationName": "",
+                "color": "#000000",
+                "borderRadius": 0,
+                "borderWidth": 0,
+                "opacity": 1,
+                "shadow": ""
+              },
+              "config": {
+                "src": "https://media-public.canva.com/dNNzY/MAEWmEdNNzY/1/s.jpg"
+              },
+              "x": 516.763,
+              "y": 749.2,
+              "rotate": 0,
+              "id": "0ec5428d-e0a8-408d-9358-481f82a4ffc3",
+              "frame": 0
+            }
+          ],
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-",
+            "clipPath": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z"
+          },
+          "tooltip": {},
+          "x": 516.763,
+          "y": 749.2,
+          "rotate": 0,
+          "id": "c8344026-0b39-41e6-b851-4a2f1e4a1a97"
+        },
+        {
+          "text": "Frame rectangle",
+          "type": "frame",
+          "width": "256px",
+          "height": "256px",
+          "children": [
+            null
+          ],
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": "",
+            "background": "rgb(248, 252, 255)"
+          },
+          "config": {
+            "name": "shape-",
+            "clipPath": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z"
+          },
+          "tooltip": {},
+          "x": 344.016,
+          "y": -117.107,
+          "rotate": 0,
+          "id": "5d39f767-f7e8-4621-a2fe-0446b14ed027"
+        },
+        {
+          "text": "Frame rectangle",
+          "type": "frame",
+          "width": "256px",
+          "height": "256px",
+          "children": [
+            {
+              "type": "image",
+              "text": "Image",
+              "width": "504.6px",
+              "height": "504.6px",
+              "style": {
+                "animationDuration": "1s",
+                "animationName": "",
+                "color": "#000000",
+                "borderRadius": 0,
+                "borderWidth": 0,
+                "opacity": 1,
+                "shadow": ""
+              },
+              "config": {
+                "src": "https://media-public.canva.com/fGnjk/MAEWmOfGnjk/1/s.jpg"
+              },
+              "x": 351.922,
+              "y": -105.248,
+              "rotate": 0,
+              "id": "46e54ff8-e03f-42cd-97e3-9ea036702ad9",
+              "frame": 0
+            }
+          ],
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-",
+            "clipPath": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z"
+          },
+          "tooltip": {},
+          "x": 351.922,
+          "y": -105.248,
+          "rotate": 0,
+          "id": "56af940b-b15b-41a0-9fe9-fd949068ac44"
+        },
+        {
+          "text": "Frame rectangle",
+          "type": "frame",
+          "width": "943.9px",
+          "height": "256px",
+          "children": [
+            null
+          ],
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": "",
+            "background": "rgb(248, 252, 255)"
+          },
+          "config": {
+            "name": "shape-",
+            "clipPath": "M127.99999996184097,0L815.9031086372711,0C849.8508193238758,0 882.4081201731774,13.485675564020996 906.4127766041343,37.4903319949778C930.417433035091,61.49498842593461 943.903108599112,94.05228927523619 943.903108599112,127.99999996184097C943.903108599112,161.94771064844574 930.417433035091,194.5050114977473 906.4127766041343,218.509668076189C882.4081201731774,242.5143245071458 849.8508193238758,256.0000000711668 815.9031086372711,256.0000000711668L127.99999996184097,256.0000000711668C94.05228927523619,256.0000000711668 61.49498842593461,242.5143245071458 37.4903319949778,218.509668076189C13.485675564020996,194.5050114977473 0,161.94771064844574 0,127.99999996184097C0,94.05228927523619 13.485675564020996,61.49498842593461 37.4903319949778,37.4903319949778C61.49498842593461,13.485675564020996 94.05228927523619,0 127.99999996184097,0Z"
+          },
+          "tooltip": {},
+          "x": 79.3701,
+          "y": 536.586,
+          "rotate": 0,
+          "id": "95a04a68-3092-405e-94cf-93033decec90"
+        },
+        {
+          "text": "Frame rectangle",
+          "type": "frame",
+          "width": "943.9px",
+          "height": "256px",
+          "children": [
+            null
+          ],
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": "",
+            "background": "rgb(248, 252, 255)"
+          },
+          "config": {
+            "name": "shape-",
+            "clipPath": "M127.99999996184097,0L815.9031086372711,0C849.8508193238758,0 882.4081201731774,13.485675564020996 906.4127766041343,37.4903319949778C930.417433035091,61.49498842593461 943.903108599112,94.05228927523619 943.903108599112,127.99999996184097C943.903108599112,161.94771064844574 930.417433035091,194.5050114977473 906.4127766041343,218.509668076189C882.4081201731774,242.5143245071458 849.8508193238758,256.0000000711668 815.9031086372711,256.0000000711668L127.99999996184097,256.0000000711668C94.05228927523619,256.0000000711668 61.49498842593461,242.5143245071458 37.4903319949778,218.509668076189C13.485675564020996,194.5050114977473 0,161.94771064844574 0,127.99999996184097C0,94.05228927523619 13.485675564020996,61.49498842593461 37.4903319949778,37.4903319949778C61.49498842593461,13.485675564020996 94.05228927523619,0 127.99999996184097,0Z"
+          },
+          "tooltip": {},
+          "x": 79.3701,
+          "y": 832.453,
+          "rotate": 0,
+          "id": "f2e0412d-20cb-4d5f-8c59-770b5588f59b"
+        },
+        {
+          "type": "image",
+          "text": "Image",
+          "width": "22.1375px",
+          "height": "22.1375px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
             "shadow": ""
           },
-          "text": "",
-          "tooltip": {},
+          "config": {
+            "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c"
+          },
+          "x": 79.3701,
+          "y": 596.529,
+          "rotate": 0,
+          "id": "5f6a0662-747f-498f-98be-ff02f72e87e3"
+        },
+        {
+          "type": "image",
+          "text": "Image",
+          "width": "22.1375px",
+          "height": "22.1375px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "config": {
+            "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c"
+          },
+          "x": 79.3701,
+          "y": 658.841,
+          "rotate": 0,
+          "id": "d63343af-004b-4ee0-b7fd-ea0dde1c6308"
+        },
+        {
+          "type": "image",
+          "text": "Image",
+          "width": "22.1375px",
+          "height": "22.1375px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "config": {
+            "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c"
+          },
+          "x": 79.3701,
+          "y": 721.154,
+          "rotate": 0,
+          "id": "8358da45-ab2b-4ee7-b1c5-dc4884ba5bb5"
+        },
+        {
+          "type": "image",
+          "text": "Image",
+          "width": "22.1375px",
+          "height": "22.1375px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "config": {
+            "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c"
+          },
+          "x": 79.3701,
+          "y": 627.811,
+          "rotate": 0,
+          "id": "e86730cd-78ad-4371-ac34-e168c89cc016"
+        },
+        {
+          "type": "image",
+          "text": "Image",
+          "width": "22.1375px",
+          "height": "22.1375px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "config": {
+            "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c"
+          },
+          "x": 79.3701,
+          "y": 690.124,
+          "rotate": 0,
+          "id": "4252ce1e-71f8-4abb-97b6-17a523dae1f2"
+        },
+        {
+          "type": "image",
+          "text": "Image",
+          "width": "22.1375px",
+          "height": "22.1375px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "config": {
+            "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c"
+          },
+          "x": 79.3701,
+          "y": 752.436,
+          "rotate": 0,
+          "id": "b5b265a6-02d0-46e0-bab1-0813d261b13e"
+        },
+        {
+          "text": "Frame rectangle",
           "type": "frame",
-          "width": "0",
-          "background": "",
-          "x": 418.8105163574219,
-          "y": 572.6611328125
-        },
-        {
-          "config": {
-            "name": "Register Now"
-          },
-          "height": "autopx",
-          "id": "6c0ed4b6-043b-4e72-bb77-864dc005d6c9",
-          "rotate": 0,
+          "width": "256px",
+          "height": "267.275px",
+          "children": [
+            null
+          ],
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(17, 20, 35)",
-            "fontSize": "15.9736px",
-            "fontWeight": "700",
-            "letterSpacing": "normal",
-            "lineHeight": "17px",
             "opacity": 1,
+            "order": null,
             "shadow": "",
-            "textAlign": "left"
+            "background": "rgb(248, 252, 255)"
           },
-          "text": "Register Now",
-          "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
+          "config": {
+            "name": "shape-",
+            "clipPath": "M128,0C57.30755202165845,0 0,59.831971890742565 0,133.63844959073887C0,207.4449272907352 57.307552021658424,267.2768991814778 128,267.2768991814778C198.69244797834153,267.2768991814778 256,207.44492729073528 256,133.63844959073893C256,59.83197189074261 198.6924479783416,0 128,0Z"
+          },
+          "tooltip": {},
+          "x": -60.56,
+          "y": 946.884,
+          "rotate": 0,
+          "id": "8107ee79-3709-4a92-9c07-d6a10376af84"
+        },
+        {
+          "type": "image",
+          "text": "Image",
+          "width": "71px",
+          "height": "52.3875px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "config": {
+            "src": "blob:https://www.canva.com/14050b01-8aef-4052-a12f-9d1a33a44449"
+          },
+          "x": 79.3701,
+          "y": 85.0394,
+          "rotate": 0,
+          "id": "64474f2f-3f7b-4be1-933f-36d807d33b94"
+        },
+        {
+          "text": "Frame rectangle",
+          "type": "frame",
+          "width": "256px",
+          "height": "256px",
+          "children": [
+            {
+              "type": "image",
+              "text": "Image",
+              "width": "268.475px",
+              "height": "268.475px",
+              "style": {
+                "animationDuration": "1s",
+                "animationName": "",
+                "color": "#000000",
+                "borderRadius": 0,
+                "borderWidth": 0,
+                "opacity": 1,
+                "shadow": ""
+              },
+              "config": {
+                "src": "https://media-public.canva.com/uVjDM/MAELP_uVjDM/1/s.jpg"
+              },
+              "x": -29.1377,
+              "y": 965.073,
+              "rotate": 0,
+              "id": "44d711d9-02b3-4f46-9b7f-4c90c53d63d2",
+              "frame": 0
+            }
+          ],
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "opacity": 1,
+            "order": null,
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-",
+            "clipPath": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z"
+          },
+          "tooltip": {},
+          "x": -29.1377,
+          "y": 965.073,
+          "rotate": 0,
+          "id": "ad72aeb6-460a-4e73-b9d7-bd67d48ade51"
         },
         {
           "config": {
-            "name": "Contact us"
+            "name": "premium"
           },
-          "height": "autopx",
-          "id": "9809bf9b-ca16-4c76-b0b9-0283503d6d4a",
+          "height": "53.4625px",
+          "id": "d4dc34e1-fbd5-401b-9432-26550bd900e3",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "15.7718px",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "33.0977px",
             "fontWeight": "400",
             "letterSpacing": "normal",
-            "lineHeight": "16px",
+            "lineHeight": "46px",
             "opacity": 1,
             "shadow": "",
-            "textAlign": "left"
+            "textAlign": "left",
+            "textTransform": "uppercase"
           },
-          "text": "Contact us",
+          "text": "premium",
           "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
+          "width": "233.625px",
+          "x": 79.3701,
+          "y": 203.996
         },
         {
           "config": {
-            "name": "8:30am"
+            "name": "Car Wash"
           },
-          "height": "autopx",
-          "id": "05c674e8-fcd3-48c4-9f48-2f01d20b06ab",
+          "height": "22.1375px",
+          "id": "a0078b9d-da4a-44e5-96bd-39060b82b7e3",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "21.5077px",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "21.8065px",
             "fontWeight": "400",
             "letterSpacing": "normal",
-            "lineHeight": "23px",
+            "lineHeight": "30px",
             "opacity": 1,
             "shadow": "",
-            "textAlign": "left"
+            "textAlign": "left",
+            "textTransform": "none"
           },
-          "text": "8:30am",
+          "text": "Car Wash",
           "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
+          "width": "97.9125px",
+          "x": 104.958,
+          "y": 596.529
         },
         {
           "config": {
-            "name": "Visit our website"
+            "name": "Paint Detailing"
           },
-          "height": "autopx",
-          "id": "2787ca6d-782a-4dc0-9aef-0ed4f9326d6d",
+          "height": "22.1375px",
+          "id": "f809c196-3b93-4b4a-905c-c3515ccdb538",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "15.7718px",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "21.8065px",
             "fontWeight": "400",
             "letterSpacing": "normal",
-            "lineHeight": "16px",
+            "lineHeight": "30px",
             "opacity": 1,
             "shadow": "",
-            "textAlign": "left"
+            "textAlign": "left",
+            "textTransform": "none"
           },
-          "text": "Visit our website",
+          "text": "Paint Detailing",
           "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
+          "width": "152.2px",
+          "x": 104.958,
+          "y": 658.841
         },
         {
           "config": {
-            "name": "+123-456-7890"
+            "name": "Air Freshener"
           },
-          "height": "autopx",
-          "id": "5ca388c0-666b-4727-9cf3-699ae44f9e42",
+          "height": "22.1375px",
+          "id": "79405994-7671-4677-83aa-6adfb1d7638a",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "15.7718px",
-            "fontWeight": "700",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "21.8065px",
+            "fontWeight": "400",
             "letterSpacing": "normal",
-            "lineHeight": "16px",
+            "lineHeight": "30px",
             "opacity": 1,
             "shadow": "",
-            "textAlign": "left"
+            "textAlign": "left",
+            "textTransform": "none"
           },
-          "text": "+123-456-7890",
+          "text": "Air Freshener",
           "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
+          "width": "152.2px",
+          "x": 104.958,
+          "y": 721.154
         },
         {
           "config": {
-            "name": "02 February, 2024"
+            "name": "Vacuuming"
           },
-          "height": "autopx",
-          "id": "427767ee-819b-4dab-aae4-c171bb2c23c4",
+          "height": "22.1375px",
+          "id": "5fb81c5f-6d28-4453-9f27-a4d28424be50",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "15.7718px",
-            "fontWeight": "700",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "21.8065px",
+            "fontWeight": "400",
             "letterSpacing": "normal",
-            "lineHeight": "16px",
+            "lineHeight": "30px",
             "opacity": 1,
             "shadow": "",
-            "textAlign": "left"
+            "textAlign": "left",
+            "textTransform": "none"
           },
-          "text": "02 February, 2024",
+          "text": "Vacuuming",
           "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
+          "width": "118.65px",
+          "x": 104.958,
+          "y": 627.811
+        },
+        {
+          "config": {
+            "name": "Scratch Removal"
+          },
+          "height": "22.1375px",
+          "id": "e17b0ef9-0cca-460b-ab50-cff58bd1b8b9",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "21.8065px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "none"
+          },
+          "text": "Scratch Removal",
+          "type": "text",
+          "width": "166.413px",
+          "x": 104.958,
+          "y": 690.124
+        },
+        {
+          "config": {
+            "name": "Air Filter Change"
+          },
+          "height": "22.1375px",
+          "id": "abd4213c-0ba9-4396-921a-08db8ee5afb9",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "21.8065px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "none"
+          },
+          "text": "Air Filter Change",
+          "type": "text",
+          "width": "166.413px",
+          "x": 104.958,
+          "y": 752.436
+        },
+        {
+          "config": {
+            "name": "Larana, Inc."
+          },
+          "height": "27.4875px",
+          "id": "a780465e-9474-4741-bcbd-f314a165475a",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "21.8065px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "30px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "none"
+          },
+          "text": "Larana, Inc.",
+          "type": "text",
+          "width": "145.65px",
+          "x": 79.3701,
+          "y": 140.988
         },
         {
           "config": {
             "name": "www.reallygreatsite.com"
           },
-          "height": "autopx",
-          "id": "064668d6-b1a0-423b-8682-1e91a2b71577",
+          "height": "20.1375px",
+          "id": "4468bbc3-3e81-446c-8f05-db6526ea3821",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "15.7718px",
-            "fontWeight": "700",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "21.8065px",
+            "fontWeight": "400",
             "letterSpacing": "normal",
-            "lineHeight": "16px",
+            "lineHeight": "30px",
             "opacity": 1,
             "shadow": "",
-            "textAlign": "left"
+            "textAlign": "left",
+            "textTransform": "none"
           },
           "text": "www.reallygreatsite.com",
           "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
+          "width": "220.725px",
+          "x": 79.3701,
+          "y": 887.053
         },
         {
           "config": {
-            "name": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities"
+            "name": "our service"
           },
-          "height": "autopx",
-          "id": "2a422a9f-db3a-4207-9335-1612b07f70cb",
+          "height": "23.1875px",
+          "id": "ba7f38eb-305f-4db5-b3c7-b7dc440f9a3e",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "24.0496px",
-            "fontWeight": "400",
-            "letterSpacing": "normal",
-            "lineHeight": "29px",
-            "opacity": 1,
-            "shadow": "",
-            "textAlign": "left"
-          },
-          "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
-          "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "name": "Warner & Spencer"
-          },
-          "height": "autopx",
-          "id": "30620a9f-1a76-44d0-92ba-f61b56505545",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "13.8904px",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "13.7209px",
             "fontWeight": "700",
             "letterSpacing": "normal",
-            "lineHeight": "14px",
+            "lineHeight": "19px",
             "opacity": 1,
             "shadow": "",
-            "textAlign": "left"
+            "textAlign": "left",
+            "textTransform": "uppercase"
           },
-          "text": "Warner & Spencer",
+          "text": "our service",
           "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
+          "width": "143.1px",
+          "x": 87.8011,
+          "y": 546.608
         },
         {
           "config": {
-            "name": "Company"
+            "name": "more detail"
           },
-          "height": "autopx",
-          "id": "1db357de-c2fb-4e98-96c7-5fbe69c592fb",
+          "height": "20.2125px",
+          "id": "bbb8ec8f-d42d-4462-be7d-b71d6564a608",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "13.8904px",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "13.7209px",
+            "fontWeight": "700",
+            "letterSpacing": "normal",
+            "lineHeight": "19px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "uppercase"
+          },
+          "text": "more detail",
+          "type": "text",
+          "width": "132.675px",
+          "x": 92.3497,
+          "y": 843.783
+        },
+        {
+          "config": {
+            "name": "car wash"
+          },
+          "height": "230.387px",
+          "id": "9ff98f93-daea-46ac-b902-ac629f45f871",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(17, 17, 18)",
+            "fontSize": "48.901px",
             "fontWeight": "400",
             "letterSpacing": "normal",
-            "lineHeight": "14px",
+            "lineHeight": "47px",
             "opacity": 1,
             "shadow": "",
-            "textAlign": "left"
+            "textAlign": "left",
+            "textTransform": "uppercase"
           },
-          "text": "Company",
+          "text": "car wash",
           "type": "text",
-          "width": "autopx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/ae689f5d-b319-4f69-bb4c-d63f4c32a13a"
-          },
-          "height": "41.025pxpx",
-          "id": "a524c4b1-79a8-45b9-9396-da83eca17e6e",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Telephone Call Icon",
-          "type": "image",
-          "width": "41.025pxpx",
+          "width": "292.2px",
           "x": 79.3701,
-          "y": 866.282
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/ae689f5d-b319-4f69-bb4c-d63f4c32a13a"
-          },
-          "height": "41.025pxpx",
-          "id": "c48b6372-0ff5-4c51-96ef-6eed8a1f3f3c",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "Telephone Call Icon",
-          "type": "image",
-          "width": "41.025pxpx",
-          "x": 0,
-          "y": 0
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/afbb5aef-83bd-4814-82bc-3080c0a73c86"
-          },
-          "height": "41.025pxpx",
-          "id": "f04fa334-e238-4959-b609-0514550db7c8",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "web icon",
-          "type": "image",
-          "width": "41.025pxpx",
-          "x": 79.3701,
-          "y": 923.482
-        },
-        {
-          "config": {
-            "src": "blob:https://www.canva.com/afbb5aef-83bd-4814-82bc-3080c0a73c86"
-          },
-          "height": "41.025pxpx",
-          "id": "a60ab8ed-0cbe-4b1f-9a71-12f0d7837f30",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": "0px",
-            "borderWidth": "0px",
-            "opacity": 1,
-            "shadow": ""
-          },
-          "text": "web icon",
-          "type": "image",
-          "width": "41.025pxpx",
-          "x": 0,
-          "y": 0
+          "y": 253.463
         }
       ],
-      "height": "1122px",
-      "id": "a66de300-1a8b-4f5a-80ab-892e4214d9be",
+      "height": "1122.51px",
+      "width": "793.7px",
+      "id": "293a8960-b60a-40ce-ac25-981a610e199d",
+      "title": "Untitled",
       "style": {
-        "background": "#1b1b2a"
-      },
-      "title": "untitled",
-      "width": "793px"
+        "background": "rgb(185, 198, 214)"
+      }
     }
   ]
 }
