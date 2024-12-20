@@ -1,3 +1,5 @@
+const determineShape = require("./components/clipPathFunction");
+
 function createTextStructure(data) {
   return {
     config: { name: data?.text || "" },
@@ -101,23 +103,23 @@ function createImageStructure(data) {
 
 function createFrameStructure(data, children) {
   return {
-    text: "Frame rectangle",
     type: "frame",
-    width: `${data.clipPath.width}` || "",
-    height: `${data.clipPath.height}` || 300,
-    children: [
+    text: "Frame circle",
+    width: `${data.width}` || "",
+    height: `${data.height}` || 300,
+    children: children? [
       children
-    ],
+    ] : [],
     style: {
-      animationDuration: "1s",
-      animationName: "",
-      opacity: 1,
       order: null,
+      opacity: 1,
+      animationName: "",
+      animationDuration: "1s",
       shadow: data?.shadow ||"",
       background: data.clipPath.background || "",
     },
-    config: { name: data.clipPath.name || "shape-", clipPath: data.clipPath.path || "" },
-    tooltip: data.tooltip || {},
+    config: { name: `shape-${determineShape(data.clipPath.path)}`, clipPath: data.clipPath.path || "" },
+    tooltip: data.tooltip || { "enabled": false},
     x: data.coordinates.x || 0,
     y: data.coordinates.y || 0,
     rotate: data.rotate || 0,

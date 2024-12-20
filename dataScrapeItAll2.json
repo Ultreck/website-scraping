@@ -1,12 +1,12 @@
 [
   {
     "tagName": "div",
-    "width": "280.913px",
-    "height": "280.913px",
+    "width": "427.9px",
+    "height": "497.913px",
     "shadow": null,
     "coordinates": {
-      "x": 512.785,
-      "y": 452.771
+      "x": -31.0528,
+      "y": -123.854
     },
     "src": null,
     "text": null,
@@ -19,23 +19,24 @@
     "fontSize": null,
     "letterSpacing": null,
     "lineHeight": null,
+    "imgStyle": null,
     "clipPath": {
       "type": "frame",
       "text": "",
-      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
+      "path": "M128,0L256,74.47272727272727L256,223.4181818181818L128,297.8909090909091L0,223.4181818181818L0,74.47272727272727L128,0Z",
       "width": "256px",
-      "height": "256px",
-      "background": "rgb(248, 252, 255)"
+      "height": "297.888px",
+      "background": "rgb(244, 0, 5)"
     }
   },
   {
     "tagName": "div",
-    "width": "280.913px",
-    "height": "280.913px",
+    "width": "427.9px",
+    "height": "497.913px",
     "shadow": null,
     "coordinates": {
-      "x": 512.785,
-      "y": 743.233
+      "x": -233.447,
+      "y": 278.422
     },
     "src": null,
     "text": null,
@@ -48,28 +49,59 @@
     "fontSize": null,
     "letterSpacing": null,
     "lineHeight": null,
+    "imgStyle": null,
     "clipPath": {
       "type": "frame",
       "text": "",
-      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
+      "path": "M128,0L256,74.47272727272727L256,223.4181818181818L128,297.8909090909091L0,223.4181818181818L0,74.47272727272727L128,0Z",
       "width": "256px",
-      "height": "256px",
-      "background": "rgb(248, 252, 255)"
+      "height": "297.888px",
+      "background": "rgb(244, 0, 5)"
     }
   },
   {
     "tagName": "div",
-    "width": "253.887px",
-    "height": "253.887px",
+    "width": "317.85px",
+    "height": "369.862px",
     "shadow": null,
     "coordinates": {
-      "x": 516.763,
-      "y": 458.738
+      "x": 211.374,
+      "y": 291.871
     },
-    "src": "https://media-public.canva.com/_zhms/MAEWmI_zhms/1/s.jpg",
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0L256,74.47272727272727L256,223.4181818181818L128,297.8909090909091L0,223.4181818181818L0,74.47272727272727L128,0Z",
+      "width": "256px",
+      "height": "297.888px",
+      "background": "rgb(244, 0, 5)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "404.775px",
+    "height": "471.025px",
+    "shadow": null,
+    "coordinates": {
+      "x": -19.4949,
+      "y": -110.405
+    },
+    "src": "https://media-public.canva.com/qbYw0/MAEWmHqbYw0/1/s.jpg",
     "text": null,
     "type": "image",
-    "altName": "A Man in Black Jacket Cleaning the Seat of a Car",
+    "altName": "A Man in Black Hoodie Cleaning the Car",
     "color": null,
     "fontStyle": null,
     "textTransform": null,
@@ -77,6 +109,142 @@
     "fontSize": null,
     "letterSpacing": null,
     "lineHeight": null,
+    "imgStyle": {
+      "type": "image",
+      "src": "https://media-public.canva.com/qbYw0/MAEWmHqbYw0/1/s.jpg",
+      "width": "256px",
+      "height": "383.513px"
+    },
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0L256,74.47272727272727L256,223.4181818181818L128,297.8909090909091L0,223.4181818181818L0,74.47272727272727L128,0Z",
+      "width": "256px",
+      "height": "297.888px",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "404.775px",
+    "height": "471.025px",
+    "shadow": null,
+    "coordinates": {
+      "x": -221.889,
+      "y": 291.871
+    },
+    "src": "https://media-public.canva.com/gLWX0/MAEWmCgLWX0/1/s.jpg",
+    "text": null,
+    "type": "image",
+    "altName": "A Close-Up Shot of a Person Brushing a Car",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": {
+      "type": "image",
+      "src": "https://media-public.canva.com/gLWX0/MAEWmCgLWX0/1/s.jpg",
+      "width": "447.112px",
+      "height": "297.888px"
+    },
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0L256,74.47272727272727L256,223.4181818181818L128,297.8909090909091L0,223.4181818181818L0,74.47272727272727L128,0Z",
+      "width": "256px",
+      "height": "297.888px",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "300.688px",
+    "height": "349.888px",
+    "shadow": null,
+    "coordinates": {
+      "x": 219.96,
+      "y": 301.862
+    },
+    "src": "https://media-public.canva.com/W-bhA/MAFk74W-bhA/1/s.jpg",
+    "text": null,
+    "type": "image",
+    "altName": "Car polishing and detailing",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": {
+      "type": "image",
+      "src": "https://media-public.canva.com/W-bhA/MAFk74W-bhA/1/s.jpg",
+      "width": "447.112px",
+      "height": "297.888px"
+    },
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0L256,74.47272727272727L256,223.4181818181818L128,297.8909090909091L0,223.4181818181818L0,74.47272727272727L128,0Z",
+      "width": "256px",
+      "height": "297.888px",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "238.1px",
+    "height": "238.1px",
+    "shadow": null,
+    "coordinates": {
+      "x": 476.22,
+      "y": 357.752
+    },
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M134.2088,5.2516C137.95533272,8.42053624 143.25841488,8.97675996 147.58093752,6.65416176L147.60405456,6.64174044C151.73398392000001,4.42262732 156.86272888,5.5117724400000006 159.7344,9.217752C162.7360706,13.09149984 167.80218828,14.73428916 172.50590908,13.35916752L172.56097144,13.34307016C177.05487472000002,12.0292882 181.83980884000002,14.1578344 183.8732,18.37524C185.99868876,22.78366292 190.60805024,25.439629880000002 195.48797256,25.06780512L195.56575396,25.06187856C200.22876064,24.70658164 204.46311176,27.780279880000002 205.57,32.32392C206.72712336,37.07376912 210.68080676,40.626541440000004 215.52688468,41.27115752L215.61110648000002,41.28236056C220.24288608,41.898471040000004 223.74390596,45.78330768 223.8766,50.454C224.0153366,55.33738408 227.14242860000002,59.63288716 231.74703408,61.26515432L231.82054908,61.29121436C236.22301284,62.85182512 238.83941872,67.37960592 237.9932,71.9732C237.1082886,76.77683252 239.27297448000002,81.62938012000001 243.43857184,84.18001776L243.48723108000002,84.20981232C247.4715318,86.6494402 249.08945348,91.62470124000001 247.3022,95.9412C245.43292948,100.45578288 246.5403442,105.65548196 250.08695712,109.01660788000001L250.10610880000002,109.03475792C253.49963888,112.25080716000001 254.0474424,117.45840896 251.3974,121.31020000000001C248.62535304,125.3393226 248.62535304,130.6606774 251.3974,134.6898C254.0474424,138.54159104000001 253.49963888,143.74919284 250.10610880000002,146.96524208L250.08695712,146.98339212C246.5403442,150.34451804 245.43292948,155.54421712 247.3022,160.0588C249.08945348,164.37529876 247.4715318,169.3505598 243.48723108000002,171.79018768L243.43857184,171.81998224C239.27297448000002,174.37061988 237.1082886,179.22316748 237.9932,184.0268C238.83941872,188.62039408 236.22301284,193.14817488 231.82054908,194.70878564L231.74703408,194.73484568C227.14242860000002,196.36711284 224.0153366,200.66261592 223.8766,205.546C223.74390596,210.21669232 220.24288608,214.10152896 215.61110648000002,214.71763944L215.52680764000002,214.72885272C210.68077404000002,215.37346288 206.72712388,218.92619704 205.57,223.676C204.46311048,228.21959924 200.22879816,231.29326964 195.56582996,230.93798712L195.48811776,230.93206604C190.60811344,230.56024704 185.99868632,233.2162856 183.8732,237.6248C181.83981880000002,241.84227732 177.05480556,243.97084948 172.56085992,242.65699764000001L172.5058458,242.64091368C167.80217032000002,241.26574516 162.73606604,242.908487 159.7344,246.78220000000002C156.8627228,250.48815968 151.73399836000002,251.57730464 147.604068,249.35821868L147.58095752,249.34580104C143.25841864,247.023223 137.95533636,247.57946068 134.2088,250.7484C130.624681,253.77996156 125.375319,253.77996156 121.7912,250.7484C118.04466364,247.57946068 112.74158136,247.023223 108.41904248,249.34580104L108.395932,249.35821868C104.26600164,251.57730464 99.1372772,250.48815968 96.2656,246.78220000000002C93.26393396,242.908487 88.19782968,241.26574516 83.4941542,242.64091368L83.43914008,242.65699764000001C78.94519444000001,243.97084948 74.1601812,241.84227732 72.1268,237.6248C70.00131368,233.2162856 65.39188656,230.56024704 60.51188224,230.93206604L60.43417004,230.93798712C55.77120184,231.29326964 51.53688952,228.21959924 50.43,223.676C49.27287628,218.9261976 45.31922508,215.37346488 40.47319164,214.72885792L40.38881536,214.7176344C35.75702988,214.10152616 32.25599724,210.21669716 32.12328,205.546C31.984519000000002,200.66260540000002 28.857428000000002,196.36709628 24.25282264,194.73479516L24.17957948,194.70883096C19.77711652,193.14818796 17.16070404,188.6204122 18.00688,184.0268C18.89174372,179.22316452 16.7270222,174.37064208 12.56141336,171.82003416L12.51262872,171.79016328C8.52831076,169.35056 6.91039664,164.37528008 8.6977,160.0588C10.567026760000001,155.5442268 9.45963716,150.34450036 5.91301508,146.9833658L5.89389944,146.96524988000002C2.50036628,143.74919772 1.9525674,138.54158916 4.60262,134.6898C7.37467688,130.66068048 7.37467688,125.33931952 4.60262,121.31020000000001C1.9525674,117.45841084 2.50036628,112.25080228 5.89389944,109.03475012L5.91301508,109.0166342C9.45963716,105.65549964 10.567026760000001,100.4557732 8.6977,95.9412C6.91039664,91.62471992 8.52831076,86.64944 12.51262872,84.20983672L12.56141336,84.17996584000001C16.7270222,81.62935792 18.89174372,76.77683548 18.00688,71.9732C17.16070404,67.3795878 19.77711652,62.85181204 24.17957948,61.29116904L24.25282264,61.26520484C28.857428000000002,59.63290372 31.984519000000002,55.3373946 32.12328,50.454C32.25599724,45.78330284 35.75702988,41.89847384 40.38881536,41.2823656L40.4731146,41.27115232C45.3191924,40.62653948 49.27287676,37.07376856 50.43,32.32392C51.53688824,27.780279880000002 55.77123936,24.70658164 60.43424604,25.06187856L60.512027440000004,25.06780512C65.39194976,25.439629880000002 70.00131124,22.78366292 72.1268,18.37524C74.16019116,14.1578344 78.94512528,12.0292882 83.43902856,13.34307016L83.49409092,13.35916752C88.19781172,14.73428916 93.2639294,13.09149984 96.2656,9.217752C99.13727112000001,5.5117724400000006 104.26601608,4.42262732 108.39594544,6.64174044L108.41906248000001,6.65416176C112.74158512,8.97675996 118.04466728,8.42053624 121.7912,5.2516C125.375319,2.22003844 130.624681,2.22003844 134.2088,5.2516Z",
+      "width": "256px",
+      "height": "256px",
+      "background": "rgb(255, 255, 255)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "80.1875px",
+    "height": "80.1875px",
+    "shadow": null,
+    "coordinates": {
+      "x": 416.504,
+      "y": 696.844
+    },
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": null,
     "clipPath": {
       "type": "frame",
       "text": "",
@@ -88,17 +256,17 @@
   },
   {
     "tagName": "div",
-    "width": "253.887px",
-    "height": "253.887px",
+    "width": "80.1875px",
+    "height": "80.1875px",
     "shadow": null,
     "coordinates": {
-      "x": 516.763,
-      "y": 749.2
+      "x": 416.504,
+      "y": 783.656
     },
-    "src": "https://media-public.canva.com/dNNzY/MAEWmEdNNzY/1/s.jpg",
+    "src": null,
     "text": null,
-    "type": "image",
-    "altName": "Person Wiping the Black Car Using Gray Fabric",
+    "type": "frame",
+    "altName": null,
     "color": null,
     "fontStyle": null,
     "textTransform": null,
@@ -106,6 +274,7 @@
     "fontSize": null,
     "letterSpacing": null,
     "lineHeight": null,
+    "imgStyle": null,
     "clipPath": {
       "type": "frame",
       "text": "",
@@ -117,12 +286,12 @@
   },
   {
     "tagName": "div",
-    "width": "558.3px",
-    "height": "558.3px",
+    "width": "281.862px",
+    "height": "48.9625px",
     "shadow": null,
     "coordinates": {
-      "x": 344.016,
-      "y": -117.107
+      "x": 432.464,
+      "y": 712.458
     },
     "src": null,
     "text": null,
@@ -135,52 +304,24 @@
     "fontSize": null,
     "letterSpacing": null,
     "lineHeight": null,
+    "imgStyle": null,
     "clipPath": {
       "type": "frame",
       "text": "",
-      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
-      "width": "256px",
+      "path": "M127.9999999638845,0L1345.5103584103604,0C1379.4580692217314,0 1412.015370006059,13.48567548994421 1436.0200264451796,37.490331929065185C1460.0246828843005,61.49498836818616 1473.5103585687395,94.05228934700813 1473.5103585687395,127.9999999638845C1473.5103585687395,161.94771077525556 1460.0246828843005,194.50501155958284 1436.0200264451796,218.5096679987038C1412.015370006059,242.5143244378248 1379.4580692217314,255.999999927769 1345.5103584103604,255.999999927769L127.9999999638845,255.999999927769C94.05228934700813,255.999999927769 61.49498836818616,242.5143244378248 37.490331929065185,218.5096679987038C13.48567548994421,194.50501155958284 0,161.94771077525556 0,127.9999999638845C0,94.05228934700813 13.48567548994421,61.49498836818616 37.490331929065185,37.490331929065185C61.49498836818616,13.48567548994421 94.05228934700813,0 127.9999999638845,0Z",
+      "width": "1473.5px",
       "height": "256px",
-      "background": "rgb(248, 252, 255)"
+      "background": "rgb(0, 0, 0)"
     }
   },
   {
     "tagName": "div",
-    "width": "504.6px",
-    "height": "504.6px",
-    "shadow": null,
-    "coordinates": {
-      "x": 351.922,
-      "y": -105.248
-    },
-    "src": "https://media-public.canva.com/fGnjk/MAEWmOfGnjk/1/s.jpg",
-    "text": null,
-    "type": "image",
-    "altName": "A Man Cleaning a Car using a Sponge",
-    "color": null,
-    "fontStyle": null,
-    "textTransform": null,
-    "fontWeight": null,
-    "fontSize": null,
-    "letterSpacing": null,
-    "lineHeight": null,
-    "clipPath": {
-      "type": "frame",
-      "text": "",
-      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
-      "width": "256px",
-      "height": "256px",
-      "background": "rgba(0, 0, 0, 0)"
-    }
-  },
-  {
-    "tagName": "div",
-    "width": "159.962px",
-    "height": "43.375px",
+    "width": "206.325px",
+    "height": "69.1125px",
     "shadow": null,
     "coordinates": {
       "x": 79.3701,
-      "y": 536.586
+      "y": 795.762
     },
     "src": null,
     "text": null,
@@ -193,23 +334,24 @@
     "fontSize": null,
     "letterSpacing": null,
     "lineHeight": null,
+    "imgStyle": null,
     "clipPath": {
       "type": "frame",
       "text": "",
-      "path": "M127.99999996184097,0L815.9031086372711,0C849.8508193238758,0 882.4081201731774,13.485675564020996 906.4127766041343,37.4903319949778C930.417433035091,61.49498842593461 943.903108599112,94.05228927523619 943.903108599112,127.99999996184097C943.903108599112,161.94771064844574 930.417433035091,194.5050114977473 906.4127766041343,218.509668076189C882.4081201731774,242.5143245071458 849.8508193238758,256.0000000711668 815.9031086372711,256.0000000711668L127.99999996184097,256.0000000711668C94.05228927523619,256.0000000711668 61.49498842593461,242.5143245071458 37.4903319949778,218.509668076189C13.485675564020996,194.5050114977473 0,161.94771064844574 0,127.99999996184097C0,94.05228927523619 13.485675564020996,61.49498842593461 37.4903319949778,37.4903319949778C61.49498842593461,13.485675564020996 94.05228927523619,0 127.99999996184097,0Z",
-      "width": "943.9px",
+      "path": "M128.00000002216862,0L636.2714612446213,0C706.9639091172955,0 764.2714611289797,57.30755201168413 764.2714611289797,128.00000002216862C764.2714611289797,198.6924480326531 706.9639091172955,256.00000004433724 636.2714612446213,256.00000004433724L128.00000002216862,256.00000004433724C57.30755201168413,256.00000004433724 0,198.6924480326531 0,128.00000002216862C0,57.30755201168413 57.30755201168413,0 128.00000002216862,0Z",
+      "width": "764.263px",
       "height": "256px",
-      "background": "rgb(248, 252, 255)"
+      "background": "rgb(244, 0, 5)"
     }
   },
   {
     "tagName": "div",
-    "width": "158.637px",
-    "height": "43.025px",
+    "width": "281.862px",
+    "height": "48.9625px",
     "shadow": null,
     "coordinates": {
-      "x": 79.3701,
-      "y": 832.453
+      "x": 432.464,
+      "y": 799.271
     },
     "src": null,
     "text": null,
@@ -222,155 +364,24 @@
     "fontSize": null,
     "letterSpacing": null,
     "lineHeight": null,
+    "imgStyle": null,
     "clipPath": {
       "type": "frame",
       "text": "",
-      "path": "M127.99999996184097,0L815.9031086372711,0C849.8508193238758,0 882.4081201731774,13.485675564020996 906.4127766041343,37.4903319949778C930.417433035091,61.49498842593461 943.903108599112,94.05228927523619 943.903108599112,127.99999996184097C943.903108599112,161.94771064844574 930.417433035091,194.5050114977473 906.4127766041343,218.509668076189C882.4081201731774,242.5143245071458 849.8508193238758,256.0000000711668 815.9031086372711,256.0000000711668L127.99999996184097,256.0000000711668C94.05228927523619,256.0000000711668 61.49498842593461,242.5143245071458 37.4903319949778,218.509668076189C13.485675564020996,194.5050114977473 0,161.94771064844574 0,127.99999996184097C0,94.05228927523619 13.485675564020996,61.49498842593461 37.4903319949778,37.4903319949778C61.49498842593461,13.485675564020996 94.05228927523619,0 127.99999996184097,0Z",
-      "width": "943.9px",
+      "path": "M127.9999999638845,0L1345.5103584103604,0C1379.4580692217314,0 1412.015370006059,13.48567548994421 1436.0200264451796,37.490331929065185C1460.0246828843005,61.49498836818616 1473.5103585687395,94.05228934700813 1473.5103585687395,127.9999999638845C1473.5103585687395,161.94771077525556 1460.0246828843005,194.50501155958284 1436.0200264451796,218.5096679987038C1412.015370006059,242.5143244378248 1379.4580692217314,255.999999927769 1345.5103584103604,255.999999927769L127.9999999638845,255.999999927769C94.05228934700813,255.999999927769 61.49498836818616,242.5143244378248 37.490331929065185,218.5096679987038C13.48567548994421,194.50501155958284 0,161.94771077525556 0,127.9999999638845C0,94.05228934700813 13.48567548994421,61.49498836818616 37.490331929065185,37.490331929065185C61.49498836818616,13.48567548994421 94.05228934700813,0 127.9999999638845,0Z",
+      "width": "1473.5px",
       "height": "256px",
-      "background": "rgb(248, 252, 255)"
+      "background": "rgb(0, 0, 0)"
     }
   },
   {
     "tagName": "div",
-    "width": "22.1375px",
-    "height": "22.1375px",
+    "width": "80.1875px",
+    "height": "80.1875px",
     "shadow": null,
     "coordinates": {
-      "x": 79.3701,
-      "y": 596.529
-    },
-    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
-    "text": null,
-    "type": "image",
-    "altName": "checklist duo tone icon",
-    "color": null,
-    "fontStyle": null,
-    "textTransform": null,
-    "fontWeight": null,
-    "fontSize": null,
-    "letterSpacing": null,
-    "lineHeight": null,
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "22.1375px",
-    "height": "22.1375px",
-    "shadow": null,
-    "coordinates": {
-      "x": 79.3701,
-      "y": 658.841
-    },
-    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
-    "text": null,
-    "type": "image",
-    "altName": "checklist duo tone icon",
-    "color": null,
-    "fontStyle": null,
-    "textTransform": null,
-    "fontWeight": null,
-    "fontSize": null,
-    "letterSpacing": null,
-    "lineHeight": null,
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "22.1375px",
-    "height": "22.1375px",
-    "shadow": null,
-    "coordinates": {
-      "x": 79.3701,
-      "y": 721.154
-    },
-    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
-    "text": null,
-    "type": "image",
-    "altName": "checklist duo tone icon",
-    "color": null,
-    "fontStyle": null,
-    "textTransform": null,
-    "fontWeight": null,
-    "fontSize": null,
-    "letterSpacing": null,
-    "lineHeight": null,
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "22.1375px",
-    "height": "22.1375px",
-    "shadow": null,
-    "coordinates": {
-      "x": 79.3701,
-      "y": 627.811
-    },
-    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
-    "text": null,
-    "type": "image",
-    "altName": "checklist duo tone icon",
-    "color": null,
-    "fontStyle": null,
-    "textTransform": null,
-    "fontWeight": null,
-    "fontSize": null,
-    "letterSpacing": null,
-    "lineHeight": null,
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "22.1375px",
-    "height": "22.1375px",
-    "shadow": null,
-    "coordinates": {
-      "x": 79.3701,
-      "y": 690.124
-    },
-    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
-    "text": null,
-    "type": "image",
-    "altName": "checklist duo tone icon",
-    "color": null,
-    "fontStyle": null,
-    "textTransform": null,
-    "fontWeight": null,
-    "fontSize": null,
-    "letterSpacing": null,
-    "lineHeight": null,
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "22.1375px",
-    "height": "22.1375px",
-    "shadow": null,
-    "coordinates": {
-      "x": 79.3701,
-      "y": 752.436
-    },
-    "src": "blob:https://www.canva.com/48bf4a9d-6fae-4d35-a9f8-33f7124e685c",
-    "text": null,
-    "type": "image",
-    "altName": "checklist duo tone icon",
-    "color": null,
-    "fontStyle": null,
-    "textTransform": null,
-    "fontWeight": null,
-    "fontSize": null,
-    "letterSpacing": null,
-    "lineHeight": null,
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "412.913px",
-    "height": "431.1px",
-    "shadow": null,
-    "coordinates": {
-      "x": -60.56,
-      "y": 946.884
+      "x": 416.504,
+      "y": 870.469
     },
     "src": null,
     "text": null,
@@ -383,57 +394,7 @@
     "fontSize": null,
     "letterSpacing": null,
     "lineHeight": null,
-    "clipPath": {
-      "type": "frame",
-      "text": "",
-      "path": "M128,0C57.30755202165845,0 0,59.831971890742565 0,133.63844959073887C0,207.4449272907352 57.307552021658424,267.2768991814778 128,267.2768991814778C198.69244797834153,267.2768991814778 256,207.44492729073528 256,133.63844959073893C256,59.83197189074261 198.6924479783416,0 128,0Z",
-      "width": "256px",
-      "height": "267.275px",
-      "background": "rgb(248, 252, 255)"
-    }
-  },
-  {
-    "tagName": "div",
-    "width": "71px",
-    "height": "52.3875px",
-    "shadow": null,
-    "coordinates": {
-      "x": 79.3701,
-      "y": 85.0394
-    },
-    "src": "blob:https://www.canva.com/14050b01-8aef-4052-a12f-9d1a33a44449",
-    "text": null,
-    "type": "image",
-    "altName": "luxury infinity logo element",
-    "color": null,
-    "fontStyle": null,
-    "textTransform": null,
-    "fontWeight": null,
-    "fontSize": null,
-    "letterSpacing": null,
-    "lineHeight": null,
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "268.475px",
-    "height": "268.475px",
-    "shadow": null,
-    "coordinates": {
-      "x": -29.1377,
-      "y": 965.073
-    },
-    "src": "https://media-public.canva.com/uVjDM/MAELP_uVjDM/1/s.jpg",
-    "text": null,
-    "type": "image",
-    "altName": "Man Power Washing a Car",
-    "color": null,
-    "fontStyle": null,
-    "textTransform": null,
-    "fontWeight": null,
-    "fontSize": null,
-    "letterSpacing": null,
-    "lineHeight": null,
+    "imgStyle": null,
     "clipPath": {
       "type": "frame",
       "text": "",
@@ -445,254 +406,368 @@
   },
   {
     "tagName": "div",
-    "width": "233.625px",
-    "height": "53.4625px",
+    "width": "281.862px",
+    "height": "48.9625px",
+    "shadow": null,
     "coordinates": {
-      "x": 79.3701,
-      "y": 203.996
+      "x": 432.464,
+      "y": 886.083
     },
     "src": null,
-    "text": "premium",
-    "type": "text",
+    "text": null,
+    "type": "frame",
     "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "uppercase",
-    "fontWeight": "400",
-    "fontSize": "33.0977px",
-    "letterSpacing": "normal",
-    "lineHeight": "46px",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M127.9999999638845,0L1345.5103584103604,0C1379.4580692217314,0 1412.015370006059,13.48567548994421 1436.0200264451796,37.490331929065185C1460.0246828843005,61.49498836818616 1473.5103585687395,94.05228934700813 1473.5103585687395,127.9999999638845C1473.5103585687395,161.94771077525556 1460.0246828843005,194.50501155958284 1436.0200264451796,218.5096679987038C1412.015370006059,242.5143244378248 1379.4580692217314,255.999999927769 1345.5103584103604,255.999999927769L127.9999999638845,255.999999927769C94.05228934700813,255.999999927769 61.49498836818616,242.5143244378248 37.490331929065185,218.5096679987038C13.48567548994421,194.50501155958284 0,161.94771077525556 0,127.9999999638845C0,94.05228934700813 13.48567548994421,61.49498836818616 37.490331929065185,37.490331929065185C61.49498836818616,13.48567548994421 94.05228934700813,0 127.9999999638845,0Z",
+      "width": "1473.5px",
+      "height": "256px",
+      "background": "rgb(0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "80.1875px",
+    "height": "80.1875px",
+    "shadow": null,
+    "coordinates": {
+      "x": 416.504,
+      "y": 957.282
+    },
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z",
+      "width": "256px",
+      "height": "256px",
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "281.862px",
+    "height": "48.9625px",
+    "shadow": null,
+    "coordinates": {
+      "x": 432.464,
+      "y": 972.896
+    },
+    "src": null,
+    "text": null,
+    "type": "frame",
+    "altName": null,
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": null,
+    "clipPath": {
+      "type": "frame",
+      "text": "",
+      "path": "M127.9999999638845,0L1345.5103584103604,0C1379.4580692217314,0 1412.015370006059,13.48567548994421 1436.0200264451796,37.490331929065185C1460.0246828843005,61.49498836818616 1473.5103585687395,94.05228934700813 1473.5103585687395,127.9999999638845C1473.5103585687395,161.94771077525556 1460.0246828843005,194.50501155958284 1436.0200264451796,218.5096679987038C1412.015370006059,242.5143244378248 1379.4580692217314,255.999999927769 1345.5103584103604,255.999999927769L127.9999999638845,255.999999927769C94.05228934700813,255.999999927769 61.49498836818616,242.5143244378248 37.490331929065185,218.5096679987038C13.48567548994421,194.50501155958284 0,161.94771077525556 0,127.9999999638845C0,94.05228934700813 13.48567548994421,61.49498836818616 37.490331929065185,37.490331929065185C61.49498836818616,13.48567548994421 94.05228934700813,0 127.9999999638845,0Z",
+      "width": "1473.5px",
+      "height": "256px",
+      "background": "rgb(0, 0, 0)"
+    }
+  },
+  {
+    "tagName": "div",
+    "width": "317.475px",
+    "height": "50.2125px",
+    "shadow": null,
+    "coordinates": {
+      "x": 21.5288,
+      "y": 1014.62
+    },
+    "src": "https://media-public.canva.com/DNk5M/MAFGuuDNk5M/1/t.png",
+    "text": null,
+    "type": "image",
+    "altName": "Cyber Punk Decal Shapes",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": {
+      "type": "image",
+      "src": "https://media-public.canva.com/DNk5M/MAFGuuDNk5M/1/t.png",
+      "width": "317.475px",
+      "height": "50.2125px"
+    },
     "clipPath": null
   },
   {
     "tagName": "div",
-    "width": "97.9125px",
-    "height": "22.1375px",
+    "width": "317.475px",
+    "height": "50.2125px",
+    "shadow": null,
     "coordinates": {
-      "x": 104.958,
-      "y": 596.529
+      "x": 456.603,
+      "y": 26.9056
     },
-    "src": null,
-    "text": "Car Wash",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "none",
-    "fontWeight": "400",
-    "fontSize": "21.8065px",
-    "letterSpacing": "normal",
-    "lineHeight": "30px",
+    "src": "blob:https://www.canva.com/6eccfa3f-fd9d-43c3-a3e4-0430c3d5fb4e",
+    "text": null,
+    "type": "image",
+    "altName": "Cyber Punk Decal Shapes",
+    "color": null,
+    "fontStyle": null,
+    "textTransform": null,
+    "fontWeight": null,
+    "fontSize": null,
+    "letterSpacing": null,
+    "lineHeight": null,
+    "imgStyle": {
+      "type": "image",
+      "src": "blob:https://www.canva.com/6eccfa3f-fd9d-43c3-a3e4-0430c3d5fb4e",
+      "width": "317.475px",
+      "height": "50.2125px"
+    },
     "clipPath": null
   },
   {
     "tagName": "div",
-    "width": "152.2px",
-    "height": "22.1375px",
+    "width": "193.675px",
+    "height": "55.1px",
     "coordinates": {
-      "x": 104.958,
-      "y": 658.841
-    },
-    "src": null,
-    "text": "Paint Detailing",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "none",
-    "fontWeight": "400",
-    "fontSize": "21.8065px",
-    "letterSpacing": "normal",
-    "lineHeight": "30px",
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "152.2px",
-    "height": "22.1375px",
-    "coordinates": {
-      "x": 104.958,
-      "y": 721.154
-    },
-    "src": null,
-    "text": "Air Freshener",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "none",
-    "fontWeight": "400",
-    "fontSize": "21.8065px",
-    "letterSpacing": "normal",
-    "lineHeight": "30px",
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "118.65px",
-    "height": "22.1375px",
-    "coordinates": {
-      "x": 104.958,
-      "y": 627.811
-    },
-    "src": null,
-    "text": "Vacuuming",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "none",
-    "fontWeight": "400",
-    "fontSize": "21.8065px",
-    "letterSpacing": "normal",
-    "lineHeight": "30px",
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "166.413px",
-    "height": "22.1375px",
-    "coordinates": {
-      "x": 104.958,
-      "y": 690.124
-    },
-    "src": null,
-    "text": "Scratch Removal",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "none",
-    "fontWeight": "400",
-    "fontSize": "21.8065px",
-    "letterSpacing": "normal",
-    "lineHeight": "30px",
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "166.413px",
-    "height": "22.1375px",
-    "coordinates": {
-      "x": 104.958,
-      "y": 752.436
-    },
-    "src": null,
-    "text": "Air Filter Change",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "none",
-    "fontWeight": "400",
-    "fontSize": "21.8065px",
-    "letterSpacing": "normal",
-    "lineHeight": "30px",
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "145.65px",
-    "height": "27.4875px",
-    "coordinates": {
-      "x": 79.3701,
-      "y": 140.988
-    },
-    "src": null,
-    "text": "Larana, Inc.",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "none",
-    "fontWeight": "400",
-    "fontSize": "21.8065px",
-    "letterSpacing": "normal",
-    "lineHeight": "30px",
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "220.725px",
-    "height": "20.1375px",
-    "coordinates": {
-      "x": 79.3701,
-      "y": 887.053
-    },
-    "src": null,
-    "text": "www.reallygreatsite.com",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "none",
-    "fontWeight": "400",
-    "fontSize": "21.8065px",
-    "letterSpacing": "normal",
-    "lineHeight": "30px",
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "143.1px",
-    "height": "23.1875px",
-    "coordinates": {
-      "x": 87.8011,
-      "y": 546.608
-    },
-    "src": null,
-    "text": "our service",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "uppercase",
-    "fontWeight": "700",
-    "fontSize": "13.7209px",
-    "letterSpacing": "normal",
-    "lineHeight": "19px",
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "132.675px",
-    "height": "20.2125px",
-    "coordinates": {
-      "x": 92.3497,
-      "y": 843.783
-    },
-    "src": null,
-    "text": "more detail",
-    "type": "text",
-    "altName": null,
-    "color": "rgb(17, 17, 18)",
-    "fontStyle": "normal",
-    "textTransform": "uppercase",
-    "fontWeight": "700",
-    "fontSize": "13.7209px",
-    "letterSpacing": "normal",
-    "lineHeight": "19px",
-    "clipPath": null
-  },
-  {
-    "tagName": "div",
-    "width": "292.2px",
-    "height": "230.387px",
-    "coordinates": {
-      "x": 79.3701,
-      "y": 253.463
+      "x": 520.648,
+      "y": 133.346
     },
     "src": null,
     "text": "car wash",
     "type": "text",
     "altName": null,
-    "color": "rgb(17, 17, 18)",
+    "color": "rgb(255, 255, 255)",
     "fontStyle": "normal",
     "textTransform": "uppercase",
     "fontWeight": "400",
-    "fontSize": "48.901px",
+    "fontSize": "32.8128px",
     "letterSpacing": "normal",
-    "lineHeight": "47px",
+    "lineHeight": "45px",
+    "imgStyle": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "297.825px",
+    "height": "113.4px",
+    "coordinates": {
+      "x": 416.504,
+      "y": 188.455
+    },
+    "src": null,
+    "text": "service",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(244, 0, 5)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "400",
+    "fontSize": "32.8128px",
+    "letterSpacing": "normal",
+    "lineHeight": "45px",
+    "imgStyle": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "162.288px",
+    "height": "120.012px",
+    "coordinates": {
+      "x": 514.129,
+      "y": 416.798
+    },
+    "src": null,
+    "text": "50 % off",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(244, 0, 5)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "400",
+    "fontSize": "38.7984px",
+    "letterSpacing": "normal",
+    "lineHeight": "42px",
+    "imgStyle": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "259.638px",
+    "height": "26.375px",
+    "coordinates": {
+      "x": 443.578,
+      "y": 723.752
+    },
+    "src": null,
+    "text": "Standard Car Wash",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "400",
+    "fontSize": "32px",
+    "letterSpacing": "normal",
+    "lineHeight": "44px",
+    "imgStyle": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "259.638px",
+    "height": "26.375px",
+    "coordinates": {
+      "x": 443.578,
+      "y": 810.565
+    },
+    "src": null,
+    "text": "Interior Cleaning",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "400",
+    "fontSize": "32px",
+    "letterSpacing": "normal",
+    "lineHeight": "44px",
+    "imgStyle": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "191.312px",
+    "height": "36.85px",
+    "coordinates": {
+      "x": 87.2367,
+      "y": 811.888
+    },
+    "src": null,
+    "text": "book now",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(0, 0, 0)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "700",
+    "fontSize": "13.5782px",
+    "letterSpacing": "normal",
+    "lineHeight": "19px",
+    "imgStyle": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "259.638px",
+    "height": "26.375px",
+    "coordinates": {
+      "x": 443.578,
+      "y": 897.378
+    },
+    "src": null,
+    "text": "Engine Cleaning",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "400",
+    "fontSize": "32px",
+    "letterSpacing": "normal",
+    "lineHeight": "44px",
+    "imgStyle": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "259.638px",
+    "height": "26.925px",
+    "coordinates": {
+      "x": 79.3701,
+      "y": 883.102
+    },
+    "src": null,
+    "text": "123-456-7890",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "13.5782px",
+    "letterSpacing": "normal",
+    "lineHeight": "19px",
+    "imgStyle": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "298.237px",
+    "height": "26.925px",
+    "coordinates": {
+      "x": 79.3701,
+      "y": 918.249
+    },
+    "src": null,
+    "text": "www.reallygreatsite.com",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "textTransform": "none",
+    "fontWeight": "400",
+    "fontSize": "13.5782px",
+    "letterSpacing": "normal",
+    "lineHeight": "19px",
+    "imgStyle": null,
+    "clipPath": null
+  },
+  {
+    "tagName": "div",
+    "width": "259.638px",
+    "height": "26.375px",
+    "coordinates": {
+      "x": 443.578,
+      "y": 984.19
+    },
+    "src": null,
+    "text": "Wax and Polish",
+    "type": "text",
+    "altName": null,
+    "color": "rgb(255, 255, 255)",
+    "fontStyle": "normal",
+    "textTransform": "uppercase",
+    "fontWeight": "400",
+    "fontSize": "32px",
+    "letterSpacing": "normal",
+    "lineHeight": "44px",
+    "imgStyle": null,
     "clipPath": null
   }
 ]

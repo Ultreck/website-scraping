@@ -10,11 +10,12 @@ const {
 } = require("../pageStructure");
 const { text } = require("stream/consumers");
 const { stringify } = require("querystring");
+const determineShape = require("./clipPathFunction");
 
 const getTemplateData = async (page) => {
   await page.waitForNavigation({ waitUntil: "networkidle2" });
   await page.goto(
-    "https://www.canva.com/design/DAGZufWlamQ/JTZHVLwc2wAiDNiTpH9h1Q/edit"
+    "https://www.canva.com/design/DAGZyvHTDvw/pHGijKYji94qIaKEl8Z1CA/edit"
   );
 
   const productElements = await page.$$(".DF_utQ");
@@ -180,10 +181,23 @@ const getTemplateData = async (page) => {
       return null;
     });
 
+    elementObject.imgStyle = await child.evaluate((el) => {
+      const img = el.querySelector("img");
+      if (img) {
+        const width = window.getComputedStyle(img).width;
+        const height = window.getComputedStyle(img).height;
+        return {
+          type: "image",
+          src: img.src,
+          width: width,
+          height: height,
+        };
+      }
+      return null;
+    })
+
     elementObject.clipPath = await child.evaluate((el) => {
       const textContent = el.textContent;
-      // const img = el.querySelector('img').src;
-      const transform = window.getComputedStyle(el).transform;
       const path = el.querySelector("path")?.getAttribute("d");
       const svg = el.querySelector("svg");
       const svgDiv = el.querySelector("svg + div");
@@ -209,35 +223,36 @@ const getTemplateData = async (page) => {
   }
 
   elementsData.forEach((item) => {
+    item.clipPath && console.log(determineShape(item.clipPath.path));
+    
     if (item.type === "text" && item.clipPath?.type === "frame") {
       return data.pages[0].elements.push(
         createFrameStructure(item, createTextStructure(item.clipPath))
       );
     } else if (item.type === "image" && item.clipPath?.type === "frame") {
-        const children = {
-            type: "image",
-            text: item.text || "Image",
-            width: `${item.width}` || "",
-            height: `${item.height}` || "",
-            style: {
-              animationDuration: "1s",
-              animationName: "",
-              color: "#000000",
-              borderRadius: item.borderRadius || 0,
-              borderWidth: item.borderWidth || 0,
-              opacity: 1,
-              shadow: item?.shadow || "",
-            },
-            config: { src: item.src || "" },
-            x: item.coordinates.x || 0,
-            y: item.coordinates.y || 0,
-            rotate: 0,
-            id: crypto.randomUUID(),
-            frame: 0,
-          }
-      return data.pages[0].elements.push(
-        createFrameStructure(item, children)
-      );
+      const children = {
+        type: "image",
+        text: item.altName || "Image",
+        width: "100%",
+        height: "100%",
+        style: {
+          order: null,
+          opacity: 1,
+          animationName: "",
+          animationDuration: "1s",
+          shadow: item?.shadow || "",
+          borderWidth: item.borderWidth || 0,
+          borderColor: "#000000",
+          borderRadius: item.borderRadius || 0,
+        },
+        config: { src: item.src || "" },
+        x: 0,
+        y: 0,
+        rotate: 0,
+        id: crypto.randomUUID(),
+        frame: 0,
+      };
+      return data.pages[0].elements.push(createFrameStructure(item, children));
     } else if (item.type === "text" && !item.clipPath) {
       return data.pages[0].elements.push(createTextStructure(item));
     } else if (item.type === "image" && !item.clipPath) {
