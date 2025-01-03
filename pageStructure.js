@@ -2,7 +2,7 @@ const determineShape = require("./components/clipPathFunction");
 
 function createTextStructure(data) {
   return {
-    config: { name: data?.text || "" },
+    config: {name: data?.text || "" },
     height: `${data.height}` || "",
     id: crypto.randomUUID(),
     rotate: 0,
@@ -18,6 +18,7 @@ function createTextStructure(data) {
       shadow: data?.shadow || "",
       textAlign: "left",
       textTransform: data.textTransform || "uppercase",
+      listStyleType: data.listStyleType || "none",
     },
     text: data.text || "",
     type: data.type || "text",
@@ -27,58 +28,40 @@ function createTextStructure(data) {
   };
 }
 
-// function createChartStructure() {
-//   return {
-//     config: {
-//       backgroundColor: "#000",
-//       backgroundImage: null,
-//       config: {
-//         bars: 5,
-//         color: [
-//           "#E66B5B",
-//           "#1D9085",
-//           "#264A5A",
-//           "#E8C22C",
-//           "#F6881F",
-//           "#E66B5B",
-//           "#1D9085",
-//           "#264A5A",
-//           "#E8C22C",
-//           "#F6881F",
-//         ],
-//         data: [],
-//         gradientColor: "#FFFFFF",
-//         keys: { x: "name", y: "value" },
-//         name: "",
-//         showLegend: false,
-//         useGradient: false,
-//         styles: {
-//           fontFamily: "Roboto",
-//           fontSize: "14px",
-//           fontWeight: "normal",
-//           padding: "5px",
-//           textAlign: "left",
-//         },
-//       },
-//       fontWeight: "normal",
-//       textAlign: "left",
-//       textDecoration: "none",
-//       textTransform: "none",
-//     },
-//     height: "",
-//     id: crypto.randomUUID(),
-//     rotate: 0,
-//     style: {},
-//     text: "",
-//     type: "chart",
-//     width: "",
-//     x: 0,
-//     y: 0,
-//   };
-// }
+function createListStructure(data) {
+    return {
+    config: {
+      name: "list",
+      texts: data?.listItems,
+      type: "text",
+    },
+    height: data.height || "",
+    id: crypto.randomUUID(),
+    rotate: data.rotate || 0,
+    style: {
+      animationDuration: "1s",
+      animationName: "",
+      color: data.color || "#000000",
+      fontSize: data.fontSize || "",
+      fontWeight: data.fontWeight || 400,
+      letterSpacing: data.letterSpacing || "0px",
+      lineHeight: data.lineHeight || "1",
+      opacity: 1,
+      oder: null,
+      shadow: data?.shadow || "",
+      textAlign: "left",
+      textTransform: data.textTransform || "none",
+      listStyleType: data.listStyleType || "none",
+    },
+    text: "List",
+    type: "text",
+    width: data.width ||"",
+    x: data.coordinates.x || 0,
+    y: data.coordinates.y || 0,
+  };
+}
 
 function createImageStructure(data) {
-  console.log(data);
   return {
     type: "image",
     text: "Image",
@@ -96,7 +79,7 @@ function createImageStructure(data) {
     config: { src: data.src || "" },
     x: data.coordinates.x || 0,
     y: data.coordinates.y || 0,
-    rotate: 0,
+    rotate: data.rotate || 0,
     id: crypto.randomUUID(),
   };
 }
@@ -104,8 +87,8 @@ function createImageStructure(data) {
 function createFrameStructure(data, children) {
   return {
     type: "frame",
-    text: "Frame circle",
-    width: `${data.width}` || "",
+    text: `Frame ${determineShape(data.clipPath.path).split("-")[1]}`,
+    width: `${data.width}` || 300,
     height: `${data.height}` || 300,
     children: children? [
       children
@@ -156,6 +139,5 @@ module.exports = {
   createTextStructure,
   createImageStructure,
   createFrameStructure,
-  // createChartStructure,
-  // createShapeStructure,
+  createListStructure
 };

@@ -7,6 +7,7 @@ const {
   createFrameStructure,
   createShapeStructure,
   createChartStructure,
+  createListStructure,
 } = require("../pageStructure");
 const { text } = require("stream/consumers");
 const { stringify } = require("querystring");
@@ -15,7 +16,7 @@ const determineShape = require("./clipPathFunction");
 const getTemplateData = async (page) => {
   await page.waitForNavigation({ waitUntil: "networkidle2" });
   await page.goto(
-    "https://www.canva.com/design/DAGZyvHTDvw/pHGijKYji94qIaKEl8Z1CA/edit"
+    "https://www.canva.com/design/DAGYR0LWqfs/I9v7ndmTiRe5N08LZOZbaQ/edit"
   );
 
   const productElements = await page.$$(".DF_utQ");
@@ -37,7 +38,6 @@ const getTemplateData = async (page) => {
   };
 
   const elementsData = [];
-  console.log(`Found the length of the elements ${productElements.length}`);
   data.pages[0].height = await parentStyles.evaluate((el) => {
     return window.getComputedStyle(el).height || null;
   });
@@ -89,6 +89,24 @@ const getTemplateData = async (page) => {
       return { x: null, y: null };
     });
 
+    elementObject.rotate = await child.evaluate((el) => {
+      const transform = window.getComputedStyle(el).transform;
+      if (transform && transform.includes("matrix")) {
+        const match = transform.match(
+          /matrix\(([^,]+),\s*([^\s,]+),\s*([^\s,]+),\s*([^\s,]+),/
+        );
+        if (match) {
+          const a = parseFloat(match[1]);
+          const b = parseFloat(match[2]);
+          const c = parseFloat(match[3]);
+          const d = parseFloat(match[4]);
+          const angleInRadians = Math.atan2(b, a);
+          const angleInDegrees = angleInRadians * (180 / Math.PI);
+          return angleInDegrees;
+        }
+      }
+      return null;
+    });
     elementObject.src = await child.evaluate((el) => {
       const img = el.querySelector("img");
       if (img) {
@@ -104,6 +122,13 @@ const getTemplateData = async (page) => {
       }
       return null;
     });
+
+    elementObject.list = await child.evaluate((el) => {
+      const ul = el.querySelector("ul");
+      return ul? true : false;
+    });
+    
+
     elementObject.type = await child.evaluate((el) => {
       const textContent = el.textContent;
       const img = el.querySelector("img")?.src || null;
@@ -180,6 +205,14 @@ const getTemplateData = async (page) => {
       }
       return null;
     });
+    elementObject.listStyleType = await child.evaluate((el) => {
+      const list = el.querySelector("li");
+      if (list) {
+        const listStyleType = window.getComputedStyle(list).listStyleType;
+        return listStyleType;
+      }
+      return null;
+    });
 
     elementObject.imgStyle = await child.evaluate((el) => {
       const img = el.querySelector("img");
@@ -194,7 +227,7 @@ const getTemplateData = async (page) => {
         };
       }
       return null;
-    })
+    });
 
     elementObject.clipPath = await child.evaluate((el) => {
       const textContent = el.textContent;
@@ -221,10 +254,22 @@ const getTemplateData = async (page) => {
 
     elementsData.push(elementObject);
   }
+  
+  const listFound = elementsData.find((listIstrue) => listIstrue.list);
+  const listData = elementsData.filter((list) => list.list).map((mappedList) => {
+    return mappedList.text || [];
+  });
+  listFound.listItems = listData;
 
+  // console.log(elementsData);
+  
+  
   elementsData.forEach((item) => {
-    item.clipPath && console.log(determineShape(item.clipPath.path));
-    
+
+    if (item.listItems){
+      return data.pages[0].elements.push(createListStructure(listFound));
+    }
+
     if (item.type === "text" && item.clipPath?.type === "frame") {
       return data.pages[0].elements.push(
         createFrameStructure(item, createTextStructure(item.clipPath))
@@ -248,19 +293,28 @@ const getTemplateData = async (page) => {
         config: { src: item.src || "" },
         x: 0,
         y: 0,
-        rotate: 0,
+        rotate: item.rotate || 0,
         id: crypto.randomUUID(),
         frame: 0,
       };
       return data.pages[0].elements.push(createFrameStructure(item, children));
-    } else if (item.type === "text" && !item.clipPath) {
+    } else if (item.type === "text" && item.list === false && !item.clipPath) {
       return data.pages[0].elements.push(createTextStructure(item));
     } else if (item.type === "image" && !item.clipPath) {
       return data.pages[0].elements.push(createImageStructure(item));
     } else if (item.type === "frame" && item.clipPath?.type === "frame") {
       return data.pages[0].elements.push(createFrameStructure(item));
     }
+
+
   });
+
+  // const listItem = elementsData.find((item) => item.list === true);
+  // if (listItem) {
+  //   data.pages[0].elements.push(createListStructure(listItem, listData));
+  // };
+
+
   fs.writeFileSync(
     "dataScrapeItAllStructure2.json",
     JSON.stringify(data, null, 2)

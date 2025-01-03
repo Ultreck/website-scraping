@@ -47,12 +47,12 @@ const getFirstTemplate = async () => {
 
 
   await page.waitForSelector('input[name="email"]');
-  // await page.type('input[name="email"]', "atayeseemmanuel0@gmail.com", {
-  //   delay: 100,
-  // });
-  await page.type('input[name="email"]', "oluwatayeseemmanuel@gmail.com", {
+  await page.type('input[name="email"]', "atayeseemmanuel0@gmail.com", {
     delay: 100,
   });
+  // await page.type('input[name="email"]', "oluwatayeseemmanuel@gmail.com", {
+  //   delay: 100,
+  // });
   await page.waitForSelector(
     "#root > div > main > div._mbIcQ.TEiAng > div > section > div > div > div > div > div > div > div > div._0lSjcQ > form > div:nth-child(2) > button"
   );
@@ -62,8 +62,8 @@ const getFirstTemplate = async () => {
   );
 
   await page.waitForSelector('input[name="password"]');
-  // await page.type('input[name="password"]', "atayesee2024", { delay: 100 });
-  await page.type('input[name="password"]', "oluwatayeseemma2024", { delay: 100 });
+  await page.type('input[name="password"]', "atayesee2024", { delay: 100 });
+  // await page.type('input[name="password"]', "oluwatayeseemma2024", { delay: 100 });
   await page.waitForSelector(
     "#root > div > main > div._mbIcQ.TEiAng > div > section > div > div > div > div > div > div > div > div > div.FRDSwg > form > button"
   );
@@ -76,13 +76,6 @@ const getFirstTemplate = async () => {
   // const data =  await scrapeTemplate(page);
   // fs.writeFileSync("scrape1.json", JSON.stringify(data, null, 2));
   // console.log(JSON.stringify(data, null, 2));
-
-
-  // const firstTemplateData = await template1(page);
-  // pages.push(...firstTemplateData);
-
-  // const secondTemplateData = await template2(page);
-  // pages.push(...secondTemplateData);
 
   // const thirdTemplateData = await template3(page);
   // pages.push(...thirdTemplateData);
