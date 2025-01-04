@@ -64,7 +64,7 @@ function createListStructure(data) {
 function createImageStructure(data) {
   return {
     type: "image",
-    text: "Image",
+    text: data.altName || "Image",
     width: `${data.width}` || "",
     height: `${data.height}` || "",
     style: {
@@ -85,9 +85,11 @@ function createImageStructure(data) {
 }
 
 function createFrameStructure(data, children) {
+  console.log(determineShape(data.imgClipPath.path));
+  
   return {
     type: "frame",
-    text: `Frame ${determineShape(data.clipPath.path).split("-")[1]}`,
+    text: `Frame ${determineShape(data.imgClipPath.path).split("-")[1] || determineShape(data.imgClipPath.path)}`,
     width: `${data.width}` || 300,
     height: `${data.height}` || 300,
     children: children? [
@@ -99,9 +101,9 @@ function createFrameStructure(data, children) {
       animationName: "",
       animationDuration: "1s",
       shadow: data?.shadow ||"",
-      background: data.clipPath.background || "",
+      background: data.imgClipPath.background || "",
     },
-    config: { name: `shape-${determineShape(data.clipPath.path)}`, clipPath: data.clipPath.path || "" },
+    config: { name: `shape-${determineShape(data.imgClipPath.path)}`, clipPath: data.imgClipPath.path || "" },
     tooltip: data.tooltip || { "enabled": false},
     x: data.coordinates.x || 0,
     y: data.coordinates.y || 0,

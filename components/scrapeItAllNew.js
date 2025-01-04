@@ -16,7 +16,7 @@ const determineShape = require("./clipPathFunction");
 const getTemplateData = async (page) => {
   await page.waitForNavigation({ waitUntil: "networkidle2" });
   await page.goto(
-    "https://www.canva.com/design/DAGYR0LWqfs/I9v7ndmTiRe5N08LZOZbaQ/edit"
+    "https://www.canva.com/design/DAGYNzHB7dQ/K-luEnlRMTijE7fjTn4Zgw/edit"
   );
 
   const productElements = await page.$$(".DF_utQ");
@@ -125,9 +125,8 @@ const getTemplateData = async (page) => {
 
     elementObject.list = await child.evaluate((el) => {
       const ul = el.querySelector("ul");
-      return ul? true : false;
+      return ul ? true : false;
     });
-    
 
     elementObject.type = await child.evaluate((el) => {
       const textContent = el.textContent;
@@ -229,8 +228,31 @@ const getTemplateData = async (page) => {
       return null;
     });
 
-    elementObject.clipPath = await child.evaluate((el) => {
+    elementObject.imgClipPath = await child.evaluate((el) => {
       const textContent = el.textContent;
+      const imgPath =
+        el
+          .querySelector("svg + div + svg > defs > clipPath > path")
+          ?.getAttribute("d") || null;
+      const svg2 = el.querySelector("svg + div + svg");
+      const svgDiv2 = el.querySelector("svg + div + svg + div");
+      if (svgDiv2 && svg2) {
+        const svgWidth2 = window.getComputedStyle(svgDiv2).width || null;
+        const svgHeight2 = window.getComputedStyle(svgDiv2).height || null;
+        const svgBackground2 =
+          window.getComputedStyle(svgDiv2).backgroundColor || null;
+        return {
+          type: "frame",
+          text: textContent,
+          path: imgPath,
+          width: svgWidth2,
+          height: svgHeight2,
+          background: svgBackground2,
+        };
+      }
+      return null;
+    });
+    elementObject.firstClipPath = await child.evaluate((el) => {
       const path = el.querySelector("path")?.getAttribute("d");
       const svg = el.querySelector("svg");
       const svgDiv = el.querySelector("svg + div");
@@ -238,43 +260,43 @@ const getTemplateData = async (page) => {
         const svgWidth = window.getComputedStyle(svgDiv).width || null;
         const svgHeight = window.getComputedStyle(svgDiv).height || null;
         const svgBackground =
-          window.getComputedStyle(svgDiv).backgroundColor || null;
+        window.getComputedStyle(svgDiv).backgroundColor || null;
         return {
-          type: "frame",
-          text: textContent,
+          // type: "frame",
           path: path,
           width: svgWidth,
           height: svgHeight,
           background: svgBackground,
         };
       }
-
       return null;
     });
 
     elementsData.push(elementObject);
   }
-  
+
   const listFound = elementsData.find((listIstrue) => listIstrue.list);
-  const listData = elementsData.filter((list) => list.list).map((mappedList) => {
-    return mappedList.text || [];
-  });
-  listFound.listItems = listData;
+  const listData = elementsData
+    .filter((list) => list.list)
+    .map((mappedList) => {
+      return mappedList.text || [];
+    });
+  if (listFound) {
+    listFound.listItems = listData;
+  }
 
-  // console.log(elementsData);
-  
-  
+  // co
+
   elementsData.forEach((item) => {
-
-    if (item.listItems){
+    if (item.listItems) {
       return data.pages[0].elements.push(createListStructure(listFound));
     }
 
-    if (item.type === "text" && item.clipPath?.type === "frame") {
+    if (item.type === "text" && item.imgClipPath?.type === "frame") {
       return data.pages[0].elements.push(
-        createFrameStructure(item, createTextStructure(item.clipPath))
+        createFrameStructure(item, createTextStructure(item.imgClipPath))
       );
-    } else if (item.type === "image" && item.clipPath?.type === "frame") {
+    } else if (item.type === "image" && item.imgClipPath?.type === "frame") {
       const children = {
         type: "image",
         text: item.altName || "Image",
@@ -302,18 +324,17 @@ const getTemplateData = async (page) => {
       return data.pages[0].elements.push(createTextStructure(item));
     } else if (item.type === "image" && !item.clipPath) {
       return data.pages[0].elements.push(createImageStructure(item));
-    } else if (item.type === "frame" && item.clipPath?.type === "frame") {
+    } else if (item.type === "frame" && item.firstClipPath?.type === "frame") {
       return data.pages[0].elements.push(createFrameStructure(item));
+    }else if(item.type === "frame" && item.firstClipPath.type === "frame" && item.imgClipPath.type === "frame"){
+      return data.pages[0].elements.push(createFrameStructure(item)); 
     }
-
-
   });
 
   // const listItem = elementsData.find((item) => item.list === true);
   // if (listItem) {
   //   data.pages[0].elements.push(createListStructure(listItem, listData));
   // };
-
 
   fs.writeFileSync(
     "dataScrapeItAllStructure2.json",

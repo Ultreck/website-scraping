@@ -15,7 +15,7 @@ const getFirstTemplate = async () => {
   const pages = [];
 
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
     defaultViewport: null,
   });
 
@@ -30,7 +30,7 @@ const getFirstTemplate = async () => {
   //   "main > div._mbIcQ.TEiAng > div > section > div > div > div > div > div > div > div > div._k_QMg > button._5KtATA.LQzFZw.xwTbNA._8ERLTg.MCgm0w.Z3nT2A.LQzFZw.xwTbNA._4_iekA.j34Zww.aqbYPg._3FvZZg.COAWQQ._7IvJg")
 
   await page.click(
-    "main > div._mbIcQ.TEiAng > div > section > div > div > div > div > div > div > div > div._k_QMg > button._5KtATA.LQzFZw.xwTbNA._8ERLTg.MCgm0w.Z3nT2A.LQzFZw.xwTbNA._4_iekA.j34Zww.aqbYPg._3FvZZg.COAWQQ._7IvJg")
+    "main > div._mbIcQ.TEiAng > div > section > div > div > div > div > div > div > div > div._k_QMg > button._5KtATA.LQzFZw.VgvqkQ._8ERLTg.MCgm0w.Z3nT2A.LQzFZw.VgvqkQ._4_iekA.j34Zww.aqbYPg._3FvZZg.COAWQQ._7IvJg > span.khPe7Q")
 
 
 
@@ -40,7 +40,7 @@ const getFirstTemplate = async () => {
   // );
 
   await page.click(
-"body > div:nth-child(2) > div > div > div > div > div._07T50w > button._5KtATA.LQzFZw.xwTbNA._8ERLTg.Z3nT2A.LQzFZw.xwTbNA._4_iekA.j34Zww.aqbYPg._3FvZZg._9Ix54Q"
+"body > div:nth-child(2) > div > div > div > div > div._07T50w > button._5KtATA.LQzFZw.VgvqkQ._8ERLTg.Z3nT2A.LQzFZw.VgvqkQ._4_iekA.j34Zww.aqbYPg._3FvZZg._9Ix54Q"
   );
   
 

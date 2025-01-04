@@ -3,40 +3,58 @@
     {
       "elements": [
         {
-          "type": "frame",
-          "text": "Frame undefined",
-          "width": "1061.71px",
-          "height": "790.487px",
-          "children": [],
+          "type": "image",
+          "text": "High Rise Buildings",
+          "width": "817.7px",
+          "height": "339.638px",
           "style": {
-            "order": null,
-            "opacity": 1,
-            "animationName": "",
             "animationDuration": "1s",
-            "shadow": "",
-            "background": "rgb(176, 224, 94)"
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
           },
           "config": {
-            "name": "shape-rectangle",
-            "clipPath": "M0,0L343.83498277892903,0L343.83498277892903,256L0,256Z"
+            "src": "https://media-public.canva.com/MADGv4lAsVM/7/screen.jpg"
           },
-          "tooltip": {
-            "enabled": false
+          "x": -12,
+          "y": -12,
+          "rotate": 0,
+          "id": "17a803bf-8b0a-4cf4-8cb2-eccf972d3d8b"
+        },
+        {
+          "type": "image",
+          "text": "Abstract Wave Frame",
+          "width": "875.213px",
+          "height": "485.35px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
           },
-          "x": -217.782,
-          "y": 492.832,
-          "rotate": 21.356884184909326,
-          "id": "73c90d27-13a8-4b53-8d66-84197fe5db5d"
+          "config": {
+            "src": "blob:https://www.canva.com/81de4c31-a576-46af-88fe-a7732c2ba3ec"
+          },
+          "x": -40.7613,
+          "y": 32.4972,
+          "rotate": 0,
+          "id": "afa21c48-0934-4947-baf6-fb18553bd525"
         },
         {
           "type": "frame",
-          "text": "Frame undefined",
-          "width": "416.763px",
-          "height": "416.75px",
+          "text": "Frame circle",
+          "width": "540.35px",
+          "height": "540.35px",
           "children": [
             {
               "type": "image",
-              "text": "Image",
+              "text": "Person Using Macbook Pro",
               "width": "100%",
               "height": "100%",
               "style": {
@@ -50,12 +68,12 @@
                 "borderRadius": 0
               },
               "config": {
-                "src": "https://media-public.canva.com/sRXDI/MAEH-esRXDI/1/s.jpg"
+                "src": "https://media-public.canva.com/MADGx_twNCg/4/screen.jpg"
               },
               "x": 0,
               "y": 0,
-              "rotate": 1.7763582409779452e-15,
-              "id": "b0d80744-4615-4a8c-8900-d527e196bfbd",
+              "rotate": 0,
+              "id": "92b9fafc-82a0-4224-a9f1-d508571132c8",
               "frame": 0
             }
           ],
@@ -69,47 +87,25 @@
           },
           "config": {
             "name": "shape-circle",
-            "clipPath": "M500.002000008,250.00300001200003C500.002000008,388.0685522742091 388.0705522822091,500 250.001000004,500C111.92944771779086,500 0,388.0685522742091 0,250.00300001200003C0,111.93044772179088 111.92944771779086,0 250.001000004,0C388.07255229020916,0 500.002000008,111.93044772179088 500.002000008,250.00300001200003Z"
+            "clipPath": "M250 33.1a216.9 216.9 0 1 0 0 433.8 216.9 216.9 0 1 0 0-433.8z"
           },
           "tooltip": {
             "enabled": false
           },
-          "x": -17.188,
-          "y": 205.569,
-          "rotate": 1.7763582409779452e-15,
-          "id": "2afa8d8e-39be-4bc7-8f7f-84632f08f31c"
-        },
-        {
-          "type": "image",
-          "text": "Image",
-          "width": "493.538px",
-          "height": "444.175px",
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": 0,
-            "borderWidth": 0,
-            "opacity": 1,
-            "shadow": ""
-          },
-          "config": {
-            "src": "blob:https://www.canva.com/07813c82-1c4d-46ac-9c56-5c418e3125fc"
-          },
-          "x": -133.084,
-          "y": 330.94,
+          "x": 372.869,
+          "y": 634.673,
           "rotate": 0,
-          "id": "b1291a10-b161-4356-85f5-ec195c13574c"
+          "id": "bd89988a-0fcb-4a9d-9f8f-32c48827e967"
         },
         {
           "type": "frame",
-          "text": "Frame undefined",
-          "width": "346.25px",
-          "height": "346.25px",
+          "text": "Frame circle",
+          "width": "400.625px",
+          "height": "400.625px",
           "children": [
             {
               "type": "image",
-              "text": "Happy mother washing baby clothes in machine",
+              "text": "Man in Black Suit Jacket While Using Smartphone",
               "width": "100%",
               "height": "100%",
               "style": {
@@ -123,12 +119,12 @@
                 "borderRadius": 0
               },
               "config": {
-                "src": "https://media-public.canva.com/Wrk-Q/MAEZ-7Wrk-Q/1/s.jpg"
+                "src": "https://media-public.canva.com/j8_6Y/MAD1vWj8_6Y/1/s.jpg"
               },
               "x": 0,
               "y": 0,
-              "rotate": 1.7763582409779452e-15,
-              "id": "a1c4480c-77ec-4a11-95a0-2d61a026724c",
+              "rotate": 0,
+              "id": "c033831d-fb0d-4caf-862b-5d1f9fb45ec8",
               "frame": 0
             }
           ],
@@ -142,21 +138,21 @@
           },
           "config": {
             "name": "shape-circle",
-            "clipPath": "M500.002000008,250.00300001200003C500.002000008,388.0685522742091 388.0705522822091,500 250.001000004,500C111.92944771779086,500 0,388.0685522742091 0,250.00300001200003C0,111.93044772179088 111.92944771779086,0 250.001000004,0C388.07255229020916,0 500.002000008,111.93044772179088 500.002000008,250.00300001200003Z"
+            "clipPath": "M250 33.1a216.9 216.9 0 1 0 0 433.8 216.9 216.9 0 1 0 0-433.8z"
           },
           "tooltip": {
             "enabled": false
           },
-          "x": 264.836,
-          "y": 352.626,
-          "rotate": 1.7763582409779452e-15,
-          "id": "b0f1a5fd-4f7d-4385-aaf1-822cd7ebcde3"
+          "x": 490.994,
+          "y": 317.532,
+          "rotate": 0,
+          "id": "6b684392-fc8f-45c6-b461-5e09c9602618"
         },
         {
           "type": "image",
-          "text": "Image",
-          "width": "384.725px",
-          "height": "346.25px",
+          "text": "Letter CF logo and Initial FC logo design template.",
+          "width": "34.7625px",
+          "height": "48.6625px",
           "style": {
             "animationDuration": "1s",
             "animationName": "",
@@ -167,170 +163,18 @@
             "shadow": ""
           },
           "config": {
-            "src": "blob:https://www.canva.com/07813c82-1c4d-46ac-9c56-5c418e3125fc"
+            "src": "blob:https://www.canva.com/e6ef55c3-1871-4cee-98ff-9722ec08a128"
           },
-          "x": 259.562,
-          "y": 348.06,
-          "rotate": 0,
-          "id": "42109395-1c3a-4c03-a7af-5f34c3dfdfdd"
-        },
-        {
-          "type": "frame",
-          "text": "Frame undefined",
-          "width": "284.812px",
-          "height": "284.812px",
-          "children": [
-            {
-              "type": "image",
-              "text": "People Inside Laundry Facility",
-              "width": "100%",
-              "height": "100%",
-              "style": {
-                "order": null,
-                "opacity": 1,
-                "animationName": "",
-                "animationDuration": "1s",
-                "shadow": "",
-                "borderWidth": 0,
-                "borderColor": "#000000",
-                "borderRadius": 0
-              },
-              "config": {
-                "src": "https://media-public.canva.com/Z6YqA/MAE7afZ6YqA/1/s.jpg"
-              },
-              "x": 0,
-              "y": 0,
-              "rotate": 1.7763582409779452e-15,
-              "id": "683fa8d7-ef81-4ad6-ba9a-b7c723d0153b",
-              "frame": 0
-            }
-          ],
-          "style": {
-            "order": null,
-            "opacity": 1,
-            "animationName": "",
-            "animationDuration": "1s",
-            "shadow": "",
-            "background": "rgba(0, 0, 0, 0)"
-          },
-          "config": {
-            "name": "shape-circle",
-            "clipPath": "M500.002000008,250.00300001200003C500.002000008,388.0685522742091 388.0705522822091,500 250.001000004,500C111.92944771779086,500 0,388.0685522742091 0,250.00300001200003C0,111.93044772179088 111.92944771779086,0 250.001000004,0C388.07255229020916,0 500.002000008,111.93044772179088 500.002000008,250.00300001200003Z"
-          },
-          "tooltip": {
-            "enabled": false
-          },
-          "x": 508.326,
-          "y": 504.477,
-          "rotate": 1.7763582409779452e-15,
-          "id": "253e657b-2a4a-4dab-a181-1f302c33d79f"
-        },
-        {
-          "type": "image",
-          "text": "Image",
-          "width": "340.5px",
-          "height": "306.45px",
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": 0,
-            "borderWidth": 0,
-            "opacity": 1,
-            "shadow": ""
-          },
-          "config": {
-            "src": "blob:https://www.canva.com/07813c82-1c4d-46ac-9c56-5c418e3125fc"
-          },
-          "x": 488.836,
-          "y": 493.658,
-          "rotate": 0,
-          "id": "49885dca-1951-48f1-a9b8-ede9bbbb4f92"
-        },
-        {
-          "type": "frame",
-          "text": "Frame rectangle",
-          "width": "433.35px",
-          "height": "92.6875px",
-          "children": [],
-          "style": {
-            "order": null,
-            "opacity": 1,
-            "animationName": "",
-            "animationDuration": "1s",
-            "shadow": "",
-            "background": "rgb(27, 27, 42)"
-          },
-          "config": {
-            "name": "shape-round-rectangle",
-            "clipPath": "M1044.4806402814215,0C1128.577692091308,0 1196.7518225576875,57.30755202165845 1196.7518225576875,128C1196.7518225576875,198.69244797834153 1128.577692091308,256 1044.4806402814215,256L152.27118227626588,256C68.17413046637924,256 0,198.6924479783416 0,128C0,57.30755202165848 68.17413046637921,0 152.27118227626588,0Z"
-          },
-          "tooltip": {
-            "enabled": false
-          },
-          "x": -72.8957,
-          "y": 675.339,
-          "rotate": 0,
-          "id": "55340b5a-290f-43ac-8354-e935e8f5c939"
-        },
-        {
-          "type": "frame",
-          "text": "Frame rectangle",
-          "width": "664.525px",
-          "height": "48.5px",
-          "children": [],
-          "style": {
-            "order": null,
-            "opacity": 1,
-            "animationName": "",
-            "animationDuration": "1s",
-            "shadow": "",
-            "background": "rgb(27, 27, 42)"
-          },
-          "config": {
-            "name": "shape-round-rectangle",
-            "clipPath": "M128.00000007195032,0L3378.841595979914,0C3449.5340438567964,0 3506.8415958555283,57.30755199873203 3506.8415958555283,128.00000007195032C3506.8415958555283,198.69244794883264 3449.5340438567964,255.99999994756465 3378.841595979914,255.99999994756465L128.00000007195032,255.99999994756465C57.30755199873203,255.99999994756465 0,198.69244794883264 0,128.00000007195032C0,57.30755199873203 57.30755199873203,0 128.00000007195032,0Z"
-          },
-          "tooltip": {
-            "enabled": false
-          },
-          "x": 64.5856,
-          "y": 993.134,
-          "rotate": 0,
-          "id": "0e1c1aee-a54c-4a16-9886-ed11e23705a8"
-        },
-        {
-          "config": {
-            "name": "123-456-7890123 Anywhere St., Any City"
-          },
-          "height": "40.175px",
-          "id": "8d723b27-dc4f-49c1-a063-ae4ccb89adb1",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "16.3532px",
-            "fontWeight": "400",
-            "letterSpacing": "normal",
-            "lineHeight": "22px",
-            "opacity": 1,
-            "shadow": "",
-            "textAlign": "left",
-            "textTransform": "none",
-            "listStyleType": "none"
-          },
-          "text": "123-456-7890123 Anywhere St., Any City",
-          "type": "text",
-          "width": "634.95px",
           "x": 79.3701,
-          "y": 997.298
+          "y": 470.42,
+          "rotate": 0,
+          "id": "5c86e8d9-b8a1-4e52-96f2-d95d000058e7"
         },
         {
           "type": "image",
-          "text": "Image",
-          "width": "26.1px",
-          "height": "26.1px",
+          "text": "time and date icon",
+          "width": "25.8625px",
+          "height": "24.3625px",
           "style": {
             "animationDuration": "1s",
             "animationName": "",
@@ -341,283 +185,388 @@
             "shadow": ""
           },
           "config": {
-            "src": "blob:https://www.canva.com/8e9bf359-1af4-48ed-9b38-dbcc7a8b2838"
+            "src": "blob:https://www.canva.com/bce99403-a1ea-436e-b00f-6d8716bb1d10"
           },
-          "x": 2.84217e-14,
-          "y": 7.10543e-15,
+          "x": 86.9534,
+          "y": 821.096,
           "rotate": 0,
-          "id": "fd1df323-9e40-4eb5-b5e5-94657c061e7a"
+          "id": "52a20745-8e8f-4b40-86c9-bc7dd900262d"
         },
         {
           "config": {
-            "name": "123-456-7890"
+            "name": "Businesswebinar"
           },
-          "height": "18.725px",
-          "id": "3769db87-ee69-42c2-bee5-30b71cf88940",
+          "height": "163.925px",
+          "id": "2c701fbf-ec72-481a-bf31-aa3c0253fd02",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
             "color": "rgb(255, 255, 255)",
-            "fontSize": "16.3532px",
-            "fontWeight": "400",
+            "fontSize": "74.7447px",
+            "fontWeight": "700",
             "letterSpacing": "normal",
-            "lineHeight": "22px",
-            "opacity": 1,
-            "shadow": "",
-            "textAlign": "left",
-            "textTransform": "none",
-            "listStyleType": "none"
-          },
-          "text": "123-456-7890",
-          "type": "text",
-          "width": "113.025px",
-          "x": 33.1679,
-          "y": 3.68789
-        },
-        {
-          "type": "image",
-          "text": "Image",
-          "width": "26.1px",
-          "height": "26.1px",
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": 0,
-            "borderWidth": 0,
-            "opacity": 1,
-            "shadow": ""
-          },
-          "config": {
-            "src": "blob:https://www.canva.com/d03f76e6-b036-417f-b0f9-7785f4bc039a"
-          },
-          "x": 164.484,
-          "y": -3.19744e-14,
-          "rotate": 0,
-          "id": "b3558c08-a2bd-45aa-a8c2-d75758eb4ee1"
-        },
-        {
-          "config": {
-            "name": "123 Anywhere St., Any City"
-          },
-          "height": "18.725px",
-          "id": "b6033bd7-1053-4946-89e4-62b4932b7723",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "16.3532px",
-            "fontWeight": "400",
-            "letterSpacing": "normal",
-            "lineHeight": "22px",
-            "opacity": 1,
-            "shadow": "",
-            "textAlign": "left",
-            "textTransform": "none",
-            "listStyleType": "none"
-          },
-          "text": "123 Anywhere St., Any City",
-          "type": "text",
-          "width": "214.85px",
-          "x": 197.652,
-          "y": 3.68789
-        },
-        {
-          "type": "image",
-          "text": "Image",
-          "width": "167.275px",
-          "height": "123.787px",
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": 0,
-            "borderWidth": 0,
-            "opacity": 1,
-            "shadow": ""
-          },
-          "config": {
-            "src": "https://media-public.canva.com/_Il3A/MADWDV_Il3A/2/t.png"
-          },
-          "x": 463.911,
-          "y": 804.715,
-          "rotate": 34.81735219459758,
-          "id": "d854108b-d19f-4c1c-8a7c-893f09423f46"
-        },
-        {
-          "type": "image",
-          "text": "Image",
-          "width": "164.387px",
-          "height": "41.0875px",
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": 0,
-            "borderWidth": 0,
-            "opacity": 1,
-            "shadow": ""
-          },
-          "config": {
-            "src": "blob:https://www.canva.com/72b9b840-007f-4980-ac13-1a78656571ef"
-          },
-          "x": 22.6116,
-          "y": 43.9396,
-          "rotate": 0,
-          "id": "0309cdb1-629a-4769-8a5b-8aaeb1294389"
-        },
-        {
-          "config": {
-            "name": "laundry"
-          },
-          "height": "91.9px",
-          "id": "1aca39b2-6116-497a-86d2-8ee8d01e6c89",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "rgb(176, 224, 94)",
-            "fontSize": "47.1006px",
-            "fontWeight": "800",
-            "letterSpacing": "1.13041px",
-            "lineHeight": "65px",
+            "lineHeight": "79px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
             "textTransform": "uppercase",
             "listStyleType": "none"
           },
-          "text": "laundry",
+          "text": "Businesswebinar",
           "type": "text",
-          "width": "450.987px",
-          "x": 263.341,
-          "y": 76.7717
+          "width": "369.675px",
+          "x": 63.8499,
+          "y": 517.848
         },
         {
           "config": {
-            "name": "service"
+            "name": "Register Now"
           },
-          "height": "92.1125px",
-          "id": "f0e779bb-0f19-47cc-9df0-5589455d8216",
+          "height": "40.225px",
+          "id": "5cca13c1-4940-43d4-9c28-64e065a25f43",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(176, 224, 94)",
-            "fontSize": "42.6667px",
-            "fontWeight": "800",
+            "color": "rgb(17, 20, 35)",
+            "fontSize": "15.9736px",
+            "fontWeight": "700",
             "letterSpacing": "normal",
-            "lineHeight": "59px",
+            "lineHeight": "17px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
             "textTransform": "uppercase",
             "listStyleType": "none"
           },
-          "text": "service",
+          "text": "Register Now",
           "type": "text",
-          "width": "374.987px",
-          "x": 339.34,
-          "y": 145.315
+          "width": "223.212px",
+          "x": 79.3701,
+          "y": 985.519
         },
         {
           "config": {
-            "name": "list",
-            "texts": [
-              "Wash, Fold and Press",
-              "Leather Cleaning",
-              "Steam Cleaning",
-              "Stain Removal"
-            ],
-            "type": "text"
+            "name": "Register Now"
           },
-          "height": "33.975px",
-          "id": "24df64a6-b3a5-4388-936c-2210e02e67b4",
+          "height": "25.675px",
+          "id": "af515291-7693-4896-9653-498aca492234",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(27, 27, 42)",
-            "fontSize": "17.2446px",
-            "fontWeight": "500",
+            "color": "rgb(17, 20, 35)",
+            "fontSize": "15.9736px",
+            "fontWeight": "700",
             "letterSpacing": "normal",
-            "lineHeight": "24px",
-            "opacity": 1,
-            "oder": null,
-            "shadow": "",
-            "textAlign": "left",
-            "textTransform": "none",
-            "listStyleType": "disc"
-          },
-          "text": "List",
-          "type": "text",
-          "width": "360.4px",
-          "x": 83.1375,
-          "y": 783.127
-        },
-        {
-          "config": {
-            "name": "Our Services"
-          },
-          "height": "47.1875px",
-          "id": "bc7c65b5-85a8-4bf5-b443-ac38d319f5d9",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "rgb(176, 224, 94)",
-            "fontSize": "25.9486px",
-            "fontWeight": "500",
-            "letterSpacing": "normal",
-            "lineHeight": "36px",
+            "lineHeight": "17px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
-            "textTransform": "none",
+            "textTransform": "uppercase",
             "listStyleType": "none"
           },
-          "text": "Our Services",
+          "text": "Register Now",
           "type": "text",
-          "width": "263.8px",
-          "x": 90.454,
-          "y": 698.094
+          "width": "199.312px",
+          "x": 11.9554,
+          "y": 7.27001
         },
         {
           "config": {
-            "name": "Get Disc Up To 30% Off"
+            "name": "Contact us"
           },
-          "height": "32.575px",
-          "id": "50ba45ab-28b7-4c80-99c7-dbf6d4058f4b",
+          "height": "18.05px",
+          "id": "3c10283b-db16-4298-b9ea-0cec994e44a3",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
             "color": "rgb(255, 255, 255)",
-            "fontSize": "17.4609px",
+            "fontSize": "15.7718px",
             "fontWeight": "400",
-            "letterSpacing": "0.261913px",
-            "lineHeight": "24px",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "none",
+            "listStyleType": "none"
+          },
+          "text": "Contact us",
+          "type": "text",
+          "width": "157.5px",
+          "x": 124.509,
+          "y": 867.884
+        },
+        {
+          "config": {
+            "name": "8:30am"
+          },
+          "height": "18.9125px",
+          "id": "586b92a6-59c2-4ec7-b0a7-87d1172d221d",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "21.5077px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "23px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "none",
+            "listStyleType": "none"
+          },
+          "text": "8:30am",
+          "type": "text",
+          "width": "157.5px",
+          "x": 124.509,
+          "y": 814.795
+        },
+        {
+          "config": {
+            "name": "Visit our website"
+          },
+          "height": "18.05px",
+          "id": "3a48d36d-3bc2-4e99-965c-9395f3f7801c",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "15.7718px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "none",
+            "listStyleType": "none"
+          },
+          "text": "Visit our website",
+          "type": "text",
+          "width": "157.5px",
+          "x": 124.509,
+          "y": 925.517
+        },
+        {
+          "config": {
+            "name": "+123-456-7890"
+          },
+          "height": "18.05px",
+          "id": "660667e9-2f49-41c8-a570-607ef9c48f04",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "15.7718px",
+            "fontWeight": "700",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
             "textTransform": "uppercase",
             "listStyleType": "none"
           },
-          "text": "Get Disc Up To 30% Off",
+          "text": "+123-456-7890",
           "type": "text",
-          "width": "366.15px",
-          "x": 348.187,
-          "y": 223.599
+          "width": "157.5px",
+          "x": 124.509,
+          "y": 886.8
+        },
+        {
+          "config": {
+            "name": "02 February, 2024"
+          },
+          "height": "18.05px",
+          "id": "c90b22c8-a7d9-4b2a-8d36-ac300b9be539",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "15.7718px",
+            "fontWeight": "700",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "uppercase",
+            "listStyleType": "none"
+          },
+          "text": "02 February, 2024",
+          "type": "text",
+          "width": "229.975px",
+          "x": 124.509,
+          "y": 833.712
+        },
+        {
+          "config": {
+            "name": "www.reallygreatsite.com"
+          },
+          "height": "18.05px",
+          "id": "f738273d-ed78-40e6-99a3-4151d1e6fde3",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "15.7718px",
+            "fontWeight": "700",
+            "letterSpacing": "normal",
+            "lineHeight": "16px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "uppercase",
+            "listStyleType": "none"
+          },
+          "text": "www.reallygreatsite.com",
+          "type": "text",
+          "width": "248.35px",
+          "x": 124.509,
+          "y": 944.433
+        },
+        {
+          "config": {
+            "name": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities"
+          },
+          "height": "98.2px",
+          "id": "897b6a95-e31b-4403-b8b6-74d366de09ab",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "24.0496px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "29px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "none",
+            "listStyleType": "none"
+          },
+          "text": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities",
+          "type": "text",
+          "width": "330.587px",
+          "x": 79.3701,
+          "y": 690.154
+        },
+        {
+          "config": {
+            "name": "Warner & Spencer"
+          },
+          "height": "16.1125px",
+          "id": "3843f0be-5714-4e61-b8c7-4cae174aa029",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "13.8904px",
+            "fontWeight": "700",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "uppercase",
+            "listStyleType": "none"
+          },
+          "text": "Warner & Spencer",
+          "type": "text",
+          "width": "156.375px",
+          "x": 119.566,
+          "y": 479.465
+        },
+        {
+          "config": {
+            "name": "Company"
+          },
+          "height": "16.1125px",
+          "id": "c0366083-5478-4914-8873-ff453e1481a5",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "13.8904px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "14px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "uppercase",
+            "listStyleType": "none"
+          },
+          "text": "Company",
+          "type": "text",
+          "width": "156.375px",
+          "x": 119.566,
+          "y": 496.179
+        },
+        {
+          "type": "image",
+          "text": "Telephone Call Icon",
+          "width": "41.025px",
+          "height": "41.025px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "config": {
+            "src": "blob:https://www.canva.com/2c68cfdb-e14f-47c4-8c01-569c5b611540"
+          },
+          "x": 79.3701,
+          "y": 866.282,
+          "rotate": 0,
+          "id": "c516e5fb-c52c-4469-ab67-f7cc865abbc8"
+        },
+        {
+          "type": "image",
+          "text": "web icon",
+          "width": "41.025px",
+          "height": "41.025px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "config": {
+            "src": "blob:https://www.canva.com/9f0da5b9-f8ac-4370-91ae-d20838c17cad"
+          },
+          "x": 79.3701,
+          "y": 923.482,
+          "rotate": 0,
+          "id": "36d7ddda-b309-44fd-a025-3de2a5084d7b"
         }
       ],
       "height": "1122.51px",
       "width": "793.7px",
-      "id": "3731b701-a900-4509-b09d-33c6e2b43514",
+      "id": "6d03d462-3f6b-4e1c-824c-95bc0ea06f88",
       "title": "Untitled",
       "style": {
-        "background": "rgb(27, 27, 42)"
+        "background": "rgb(17, 20, 35)"
       }
     }
   ]
