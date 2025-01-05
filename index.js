@@ -15,7 +15,7 @@ const getFirstTemplate = async () => {
   const pages = [];
 
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
     defaultViewport: null,
   });
 

@@ -84,12 +84,57 @@ function createImageStructure(data) {
   };
 }
 
+// function createFrameStructure(data, children, path) {
+//   // Determine which path to use or combine both
+//   const clipPath =
+//     data.firstClipPath?.path && data.imgClipPath?.path
+//       ? `${data.firstClipPath.path}, ${data.imgClipPath.path}` // Combine paths if both exist
+//       : data.firstClipPath?.path || data.imgClipPath?.path; // Fallback to one if only one exists
+
+//   const background =
+//     data.firstClipPath?.background || data.imgClipPath?.background || "";
+
+//   return {
+//     type: "frame",
+//     text: `Frame ${
+//       determineShape(data.imgClipPath?.path)?.split("-")[1] ||
+//       determineShape(data.firstClipPath?.path)?.split("-")[1] ||
+//       determineShape(data.imgClipPath?.path)
+//     }`,
+//     width: `${data.width}` || 300,
+//     height: `${data.height}` || 300,
+//     children: children ? [children] : [],
+//     style: {
+//       order: null,
+//       opacity: 1,
+//       animationName: "",
+//       animationDuration: "1s",
+//       shadow: data?.shadow || "",
+//       background: background,
+//     },
+//     config: {
+//       name: `shape-${
+//         determineShape(data.imgClipPath?.path) ||
+//         determineShape(data.imgClipPath?.path)?.split("-")[1] ||
+//         determineShape(data.firstClipPath?.path)?.split("-")[1]
+//       }`,
+//       clipPath: clipPath,
+//     },
+//     tooltip: data.tooltip || { enabled: false },
+//     x: data.coordinates?.x || 0,
+//     y: data.coordinates?.y || 0,
+//     rotate: data.rotate || 0,
+//     id: data.id || crypto.randomUUID(),
+//   };
+// }
+
+
 function createFrameStructure(data, children) {
-  console.log(determineShape(data.imgClipPath.path));
+  console.log(data.imgClipPath);
   
   return {
     type: "frame",
-    text: `Frame ${determineShape(data.imgClipPath.path).split("-")[1] || determineShape(data.imgClipPath.path)}`,
+    text: `Frame ${determineShape(data.imgClipPath?.path).split("-")[1] || determineShape(data.firstClipPath?.path).split("-")[1] || determineShape(data.imgClipPath?.path)}`,
     width: `${data.width}` || 300,
     height: `${data.height}` || 300,
     children: children? [
@@ -101,9 +146,9 @@ function createFrameStructure(data, children) {
       animationName: "",
       animationDuration: "1s",
       shadow: data?.shadow ||"",
-      background: data.imgClipPath.background || "",
+      background: data.imgClipPath?.background || data.firstClipPath?.background || "",
     },
-    config: { name: `shape-${determineShape(data.imgClipPath.path)}`, clipPath: data.imgClipPath.path || "" },
+    config: { name: `shape-${determineShape(data.imgClipPath?.path) || determineShape(data.imgClipPath?.path).split("-")[1] || determineShape(data.firstClipPath?.path).split("-")[1]}`, clipPath: data.firstClipPath?.path || data.imgClipPath?.path },
     tooltip: data.tooltip || { "enabled": false},
     x: data.coordinates.x || 0,
     y: data.coordinates.y || 0,

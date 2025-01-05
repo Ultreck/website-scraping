@@ -22,7 +22,7 @@
           "x": -12,
           "y": -12,
           "rotate": 0,
-          "id": "17a803bf-8b0a-4cf4-8cb2-eccf972d3d8b"
+          "id": "b1af09ba-5002-4704-a736-cc269fc4fb62"
         },
         {
           "type": "image",
@@ -39,12 +39,64 @@
             "shadow": ""
           },
           "config": {
-            "src": "blob:https://www.canva.com/81de4c31-a576-46af-88fe-a7732c2ba3ec"
+            "src": "blob:https://www.canva.com/226d098b-665c-4cb5-84b0-6e6f55ce5f13"
           },
           "x": -40.7613,
           "y": 32.4972,
           "rotate": 0,
-          "id": "afa21c48-0934-4947-baf6-fb18553bd525"
+          "id": "d40a8596-6974-467e-80f5-e65bdf315060"
+        },
+        {
+          "type": "frame",
+          "text": "Frame circle",
+          "width": "540.35px",
+          "height": "540.35px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-circle",
+            "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 372.869,
+          "y": 634.673,
+          "rotate": 0,
+          "id": "02d1c943-ccc1-49e9-96a7-d3a92f30fab0"
+        },
+        {
+          "type": "frame",
+          "text": "Frame circle",
+          "width": "540.35px",
+          "height": "540.35px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-circle",
+            "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 372.869,
+          "y": 634.673,
+          "rotate": 0,
+          "id": "6569eb95-e6ce-4f6a-b53d-13e662b5cdb6"
         },
         {
           "type": "frame",
@@ -73,7 +125,7 @@
               "x": 0,
               "y": 0,
               "rotate": 0,
-              "id": "92b9fafc-82a0-4224-a9f1-d508571132c8",
+              "id": "77ea834c-8726-4737-85b3-e782e8a8f7a1",
               "frame": 0
             }
           ],
@@ -87,7 +139,7 @@
           },
           "config": {
             "name": "shape-circle",
-            "clipPath": "M250 33.1a216.9 216.9 0 1 0 0 433.8 216.9 216.9 0 1 0 0-433.8z"
+            "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z"
           },
           "tooltip": {
             "enabled": false
@@ -95,7 +147,59 @@
           "x": 372.869,
           "y": 634.673,
           "rotate": 0,
-          "id": "bd89988a-0fcb-4a9d-9f8f-32c48827e967"
+          "id": "83126e81-fc51-4013-b7fd-72694e83d248"
+        },
+        {
+          "type": "frame",
+          "text": "Frame circle",
+          "width": "400.625px",
+          "height": "400.625px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-circle",
+            "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 490.994,
+          "y": 317.532,
+          "rotate": 0,
+          "id": "2d96798f-2bca-4b0e-be5b-b239cd4a6498"
+        },
+        {
+          "type": "frame",
+          "text": "Frame circle",
+          "width": "400.625px",
+          "height": "400.625px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-circle",
+            "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 490.994,
+          "y": 317.532,
+          "rotate": 0,
+          "id": "32415be6-be5a-44ea-ad35-7965c3c24d39"
         },
         {
           "type": "frame",
@@ -124,7 +228,7 @@
               "x": 0,
               "y": 0,
               "rotate": 0,
-              "id": "c033831d-fb0d-4caf-862b-5d1f9fb45ec8",
+              "id": "4d037af8-02b4-47c0-b663-9aff7d961db7",
               "frame": 0
             }
           ],
@@ -138,7 +242,7 @@
           },
           "config": {
             "name": "shape-circle",
-            "clipPath": "M250 33.1a216.9 216.9 0 1 0 0 433.8 216.9 216.9 0 1 0 0-433.8z"
+            "clipPath": "M250 0a250 250 0 1 0 0 500 250 250 0 1 0 0-500z"
           },
           "tooltip": {
             "enabled": false
@@ -146,7 +250,7 @@
           "x": 490.994,
           "y": 317.532,
           "rotate": 0,
-          "id": "6b684392-fc8f-45c6-b461-5e09c9602618"
+          "id": "f3cfd5fd-504d-4252-83fc-cbc655d06b27"
         },
         {
           "type": "image",
@@ -163,12 +267,38 @@
             "shadow": ""
           },
           "config": {
-            "src": "blob:https://www.canva.com/e6ef55c3-1871-4cee-98ff-9722ec08a128"
+            "src": "blob:https://www.canva.com/67957987-7795-4cb3-bef5-b194dd18a055"
           },
           "x": 79.3701,
           "y": 470.42,
           "rotate": 0,
-          "id": "5c86e8d9-b8a1-4e52-96f2-d95d000058e7"
+          "id": "6500b17d-1834-4b54-89ff-ca8c1bd903af"
+        },
+        {
+          "type": "frame",
+          "text": "Frame rectangle",
+          "width": "41.025px",
+          "height": "41.025px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgb(242, 241, 242)"
+          },
+          "config": {
+            "name": "shape-unknown",
+            "clipPath": "M128,0C57.30755202165845,0 0,57.30755202165844 0,128C0,198.69244797834153 57.307552021658424,256 128,256C198.69244797834153,256 256,198.6924479783416 256,128C256,57.30755202165848 198.6924479783416,0 128,0Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 79.3701,
+          "y": 812.76,
+          "rotate": 0,
+          "id": "b4c2e328-fa7c-4d00-9419-ed432baf7767"
         },
         {
           "type": "image",
@@ -185,19 +315,19 @@
             "shadow": ""
           },
           "config": {
-            "src": "blob:https://www.canva.com/bce99403-a1ea-436e-b00f-6d8716bb1d10"
+            "src": "blob:https://www.canva.com/5847be80-8b6d-4c72-bd8c-68e02c7cacdc"
           },
           "x": 86.9534,
           "y": 821.096,
           "rotate": 0,
-          "id": "52a20745-8e8f-4b40-86c9-bc7dd900262d"
+          "id": "29077ebc-83a6-4d2f-9712-24f56f9376dc"
         },
         {
           "config": {
             "name": "Businesswebinar"
           },
           "height": "163.925px",
-          "id": "2c701fbf-ec72-481a-bf31-aa3c0253fd02",
+          "id": "43ba498e-01bc-4c9f-b5dc-a8dda60f83f9",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -220,11 +350,37 @@
           "y": 517.848
         },
         {
+          "type": "frame",
+          "text": "Frame rectangle",
+          "width": "223.212px",
+          "height": "40.225px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgb(242, 241, 242)"
+          },
+          "config": {
+            "name": "shape-unknown",
+            "clipPath": "M127.99999989034727,0L1292.6124477060307,0C1326.5601583420394,0 1359.117459195029,13.485675523231142 1383.1221155231024,37.49033207327548C1407.1267720731469,61.49498840134913 1420.612447596378,94.05228925433866 1420.612447596378,127.99999989034727C1420.612447596378,161.94771074832659 1407.1267720731469,194.50501160131608 1383.1221155231024,218.50966792938976C1359.117459195029,242.5143244794341 1326.5601583420394,256.0000000026653 1292.6124477060307,256.0000000026653L127.99999989034727,256.0000000026653C94.05228925433866,256.0000000026653 61.49498840134913,242.5143244794341 37.49033207327548,218.50966792938976C13.485675523231142,194.50501160131608 0,161.94771074832659 0,127.99999989034727C0,94.05228925433866 13.485675523231142,61.49498840134913 37.49033207327548,37.49033207327548C61.49498840134913,13.485675523231142 94.05228925433866,0 127.99999989034727,0Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 79.3701,
+          "y": 985.519,
+          "rotate": 0,
+          "id": "e922417a-65a8-47af-9905-405e73119429"
+        },
+        {
           "config": {
             "name": "Register Now"
           },
           "height": "40.225px",
-          "id": "5cca13c1-4940-43d4-9c28-64e065a25f43",
+          "id": "f4beaf08-88b2-4b51-b225-3ce004a28838",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -247,11 +403,37 @@
           "y": 985.519
         },
         {
+          "type": "frame",
+          "text": "Frame rectangle",
+          "width": "223.212px",
+          "height": "40.225px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgb(242, 241, 242)"
+          },
+          "config": {
+            "name": "shape-unknown",
+            "clipPath": "M127.99999989034727,0L1292.6124477060307,0C1326.5601583420394,0 1359.117459195029,13.485675523231142 1383.1221155231024,37.49033207327548C1407.1267720731469,61.49498840134913 1420.612447596378,94.05228925433866 1420.612447596378,127.99999989034727C1420.612447596378,161.94771074832659 1407.1267720731469,194.50501160131608 1383.1221155231024,218.50966792938976C1359.117459195029,242.5143244794341 1326.5601583420394,256.0000000026653 1292.6124477060307,256.0000000026653L127.99999989034727,256.0000000026653C94.05228925433866,256.0000000026653 61.49498840134913,242.5143244794341 37.49033207327548,218.50966792938976C13.485675523231142,194.50501160131608 0,161.94771074832659 0,127.99999989034727C0,94.05228925433866 13.485675523231142,61.49498840134913 37.49033207327548,37.49033207327548C61.49498840134913,13.485675523231142 94.05228925433866,0 127.99999989034727,0Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": -1.42109e-14,
+          "y": 1.63425e-13,
+          "rotate": 0,
+          "id": "88862f69-7371-4600-833c-14b93cf52aa6"
+        },
+        {
           "config": {
             "name": "Register Now"
           },
           "height": "25.675px",
-          "id": "af515291-7693-4896-9653-498aca492234",
+          "id": "30a7ef17-62c5-40df-be84-b8a91587dfb7",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -278,7 +460,7 @@
             "name": "Contact us"
           },
           "height": "18.05px",
-          "id": "3c10283b-db16-4298-b9ea-0cec994e44a3",
+          "id": "03d1076c-c78a-40f6-b871-83269b0dc9a9",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -305,7 +487,7 @@
             "name": "8:30am"
           },
           "height": "18.9125px",
-          "id": "586b92a6-59c2-4ec7-b0a7-87d1172d221d",
+          "id": "7de5ca83-1d0c-448b-af1c-8a4dc88af652",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -332,7 +514,7 @@
             "name": "Visit our website"
           },
           "height": "18.05px",
-          "id": "3a48d36d-3bc2-4e99-965c-9395f3f7801c",
+          "id": "8b0623fb-c9e8-4c12-926f-7667043c85f5",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -359,7 +541,7 @@
             "name": "+123-456-7890"
           },
           "height": "18.05px",
-          "id": "660667e9-2f49-41c8-a570-607ef9c48f04",
+          "id": "4cc3da65-b311-4651-8fd4-b7dfc88b31da",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -386,7 +568,7 @@
             "name": "02 February, 2024"
           },
           "height": "18.05px",
-          "id": "c90b22c8-a7d9-4b2a-8d36-ac300b9be539",
+          "id": "958cc726-5719-4314-abb9-086a75dcd2f2",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -413,7 +595,7 @@
             "name": "www.reallygreatsite.com"
           },
           "height": "18.05px",
-          "id": "f738273d-ed78-40e6-99a3-4151d1e6fde3",
+          "id": "ef584163-d529-4d52-807c-c2b32f092c21",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -440,7 +622,7 @@
             "name": "join us for upcoming business webinars, featuring expert speakers, valuable insights, and even greater opportunities"
           },
           "height": "98.2px",
-          "id": "897b6a95-e31b-4403-b8b6-74d366de09ab",
+          "id": "5b50c94e-7f07-48e1-bdb5-473925411290",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -467,7 +649,7 @@
             "name": "Warner & Spencer"
           },
           "height": "16.1125px",
-          "id": "3843f0be-5714-4e61-b8c7-4cae174aa029",
+          "id": "eca09650-f2a1-4110-8044-206214f15b30",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -494,7 +676,7 @@
             "name": "Company"
           },
           "height": "16.1125px",
-          "id": "c0366083-5478-4914-8873-ff453e1481a5",
+          "id": "9f6c67e9-1307-4d22-be8c-f143ee64bc97",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
@@ -531,12 +713,12 @@
             "shadow": ""
           },
           "config": {
-            "src": "blob:https://www.canva.com/2c68cfdb-e14f-47c4-8c01-569c5b611540"
+            "src": "blob:https://www.canva.com/9ac89129-5724-4dd3-9a62-1045f5901861"
           },
           "x": 79.3701,
           "y": 866.282,
           "rotate": 0,
-          "id": "c516e5fb-c52c-4469-ab67-f7cc865abbc8"
+          "id": "232b1f42-efb0-4636-9672-20c5eddd38c7"
         },
         {
           "type": "image",
@@ -553,17 +735,17 @@
             "shadow": ""
           },
           "config": {
-            "src": "blob:https://www.canva.com/9f0da5b9-f8ac-4370-91ae-d20838c17cad"
+            "src": "blob:https://www.canva.com/146d142f-6c2f-4fd2-80ce-02f44a981c1c"
           },
           "x": 79.3701,
           "y": 923.482,
           "rotate": 0,
-          "id": "36d7ddda-b309-44fd-a025-3de2a5084d7b"
+          "id": "ccc07234-71b9-4fb1-aa5e-177a0d21c5ae"
         }
       ],
       "height": "1122.51px",
       "width": "793.7px",
-      "id": "6d03d462-3f6b-4e1c-824c-95bc0ea06f88",
+      "id": "58fdc701-b3e2-408a-83e3-8a83776c5e2d",
       "title": "Untitled",
       "style": {
         "background": "rgb(17, 20, 35)"

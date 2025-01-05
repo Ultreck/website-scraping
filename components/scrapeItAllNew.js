@@ -262,7 +262,7 @@ const getTemplateData = async (page) => {
         const svgBackground =
         window.getComputedStyle(svgDiv).backgroundColor || null;
         return {
-          // type: "frame",
+          type: "frame",
           path: path,
           width: svgWidth,
           height: svgHeight,
@@ -285,12 +285,18 @@ const getTemplateData = async (page) => {
     listFound.listItems = listData;
   }
 
-  // co
-
   elementsData.forEach((item) => {
     if (item.listItems) {
       return data.pages[0].elements.push(createListStructure(listFound));
     }
+
+  if (item.firstClipPath) {
+    data.pages[0].elements.push(createFrameStructure(item));
+  }
+
+  if (item.imgClipPath) {
+    data.pages[0].elements.push(createFrameStructure(item));
+  }
 
     if (item.type === "text" && item.imgClipPath?.type === "frame") {
       return data.pages[0].elements.push(
@@ -322,19 +328,12 @@ const getTemplateData = async (page) => {
       return data.pages[0].elements.push(createFrameStructure(item, children));
     } else if (item.type === "text" && item.list === false && !item.clipPath) {
       return data.pages[0].elements.push(createTextStructure(item));
-    } else if (item.type === "image" && !item.clipPath) {
+    } else if (item.type === "image" && !item.firstClipPath) {
       return data.pages[0].elements.push(createImageStructure(item));
-    } else if (item.type === "frame" && item.firstClipPath?.type === "frame") {
-      return data.pages[0].elements.push(createFrameStructure(item));
-    }else if(item.type === "frame" && item.firstClipPath.type === "frame" && item.imgClipPath.type === "frame"){
-      return data.pages[0].elements.push(createFrameStructure(item)); 
-    }
+    } 
   });
 
-  // const listItem = elementsData.find((item) => item.list === true);
-  // if (listItem) {
-  //   data.pages[0].elements.push(createListStructure(listItem, listData));
-  // };
+  
 
   fs.writeFileSync(
     "dataScrapeItAllStructure2.json",
