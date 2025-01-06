@@ -16,7 +16,7 @@ const determineShape = require("./clipPathFunction");
 const getTemplateData = async (page) => {
   await page.waitForNavigation({ waitUntil: "networkidle2" });
   await page.goto(
-    "https://www.canva.com/design/DAGYR0LWqfs/I9v7ndmTiRe5N08LZOZbaQ/edit"
+    "https://www.canva.com/design/DAGbaZ6H9wA/NHzkeDRhGwXqx2OXU98Dvw/edit"
   );
 
   const productElements = await page.$$(".DF_utQ");
@@ -44,7 +44,7 @@ const getTemplateData = async (page) => {
   data.pages[0].width = await parentStyles.evaluate((el) => {
     return window.getComputedStyle(el).width || null;
   });
-  data.pages[0].style.background = await parentBackgroundColor.evaluate(
+  data.pages[0].style.background = await parentBackgroundColor?.evaluate(
     (el) => {
       return window.getComputedStyle(el).backgroundColor || null;
     }
@@ -125,9 +125,8 @@ const getTemplateData = async (page) => {
 
     elementObject.list = await child.evaluate((el) => {
       const ul = el.querySelector("ul");
-      return ul? true : false;
+      return ul ? true : false;
     });
-    
 
     elementObject.type = await child.evaluate((el) => {
       const textContent = el.textContent;
@@ -254,19 +253,22 @@ const getTemplateData = async (page) => {
 
     elementsData.push(elementObject);
   }
-  
+
   const listFound = elementsData.find((listIstrue) => listIstrue.list);
-  const listData = elementsData.filter((list) => list.list).map((mappedList) => {
-    return mappedList.text || [];
-  });
-  listFound.listItems = listData;
+  const listData = elementsData
+    .filter((list) => list.list)
+    .map((mappedList) => {
+      return (mappedList.text || "").split(/(?=[A-Z])/).join(' ').toLowerCase();
+    });
 
-  // console.log(elementsData);
-  
-  
+console.log(listData);
+
+  if (listFound) {
+    listFound.listItems = listData;
+  }
+
   elementsData.forEach((item) => {
-
-    if (item.listItems){
+    if (item.listItems) {
       return data.pages[0].elements.push(createListStructure(listFound));
     }
 
@@ -305,15 +307,12 @@ const getTemplateData = async (page) => {
     } else if (item.type === "frame" && item.clipPath?.type === "frame") {
       return data.pages[0].elements.push(createFrameStructure(item));
     }
-
-
   });
 
   // const listItem = elementsData.find((item) => item.list === true);
   // if (listItem) {
   //   data.pages[0].elements.push(createListStructure(listItem, listData));
   // };
-
 
   fs.writeFileSync(
     "dataScrapeItAllStructure2.json",

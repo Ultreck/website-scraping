@@ -4,254 +4,60 @@
       "elements": [
         {
           "type": "frame",
-          "text": "Frame undefined",
-          "width": "1061.71px",
-          "height": "790.487px",
-          "children": [],
+          "text": "Frame rectangle",
+          "width": "895.562px",
+          "height": "339.95px",
+          "children": [
+            {
+              "type": "image",
+              "text": "Japanese Style Interior Design of Living Room",
+              "width": "100%",
+              "height": "100%",
+              "style": {
+                "order": null,
+                "opacity": 1,
+                "animationName": "",
+                "animationDuration": "1s",
+                "shadow": "",
+                "borderWidth": 0,
+                "borderColor": "#000000",
+                "borderRadius": 0
+              },
+              "config": {
+                "src": "https://media-public.canva.com/GSOu4/MAEEjsGSOu4/1/s.jpg"
+              },
+              "x": 0,
+              "y": 0,
+              "rotate": 0,
+              "id": "bf65d712-ed5d-4b3a-9717-3f8cb4d8ba7d",
+              "frame": 0
+            }
+          ],
           "style": {
             "order": null,
             "opacity": 1,
             "animationName": "",
             "animationDuration": "1s",
             "shadow": "",
-            "background": "rgb(176, 224, 94)"
+            "background": "rgba(0, 0, 0, 0)"
           },
           "config": {
             "name": "shape-rectangle",
-            "clipPath": "M0,0L343.83498277892903,0L343.83498277892903,256L0,256Z"
+            "clipPath": "M0,0L674.3940990516332,0L674.3940990516332,256L0,256Z"
           },
           "tooltip": {
             "enabled": false
           },
-          "x": -217.782,
-          "y": 492.832,
-          "rotate": 21.356884184909326,
-          "id": "73c90d27-13a8-4b53-8d66-84197fe5db5d"
-        },
-        {
-          "type": "frame",
-          "text": "Frame undefined",
-          "width": "416.763px",
-          "height": "416.75px",
-          "children": [
-            {
-              "type": "image",
-              "text": "Image",
-              "width": "100%",
-              "height": "100%",
-              "style": {
-                "order": null,
-                "opacity": 1,
-                "animationName": "",
-                "animationDuration": "1s",
-                "shadow": "",
-                "borderWidth": 0,
-                "borderColor": "#000000",
-                "borderRadius": 0
-              },
-              "config": {
-                "src": "https://media-public.canva.com/sRXDI/MAEH-esRXDI/1/s.jpg"
-              },
-              "x": 0,
-              "y": 0,
-              "rotate": 1.7763582409779452e-15,
-              "id": "b0d80744-4615-4a8c-8900-d527e196bfbd",
-              "frame": 0
-            }
-          ],
-          "style": {
-            "order": null,
-            "opacity": 1,
-            "animationName": "",
-            "animationDuration": "1s",
-            "shadow": "",
-            "background": "rgba(0, 0, 0, 0)"
-          },
-          "config": {
-            "name": "shape-circle",
-            "clipPath": "M500.002000008,250.00300001200003C500.002000008,388.0685522742091 388.0705522822091,500 250.001000004,500C111.92944771779086,500 0,388.0685522742091 0,250.00300001200003C0,111.93044772179088 111.92944771779086,0 250.001000004,0C388.07255229020916,0 500.002000008,111.93044772179088 500.002000008,250.00300001200003Z"
-          },
-          "tooltip": {
-            "enabled": false
-          },
-          "x": -17.188,
-          "y": 205.569,
-          "rotate": 1.7763582409779452e-15,
-          "id": "2afa8d8e-39be-4bc7-8f7f-84632f08f31c"
-        },
-        {
-          "type": "image",
-          "text": "Image",
-          "width": "493.538px",
-          "height": "444.175px",
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": 0,
-            "borderWidth": 0,
-            "opacity": 1,
-            "shadow": ""
-          },
-          "config": {
-            "src": "blob:https://www.canva.com/07813c82-1c4d-46ac-9c56-5c418e3125fc"
-          },
-          "x": -133.084,
-          "y": 330.94,
+          "x": -50.9337,
+          "y": -96.888,
           "rotate": 0,
-          "id": "b1291a10-b161-4356-85f5-ec195c13574c"
-        },
-        {
-          "type": "frame",
-          "text": "Frame undefined",
-          "width": "346.25px",
-          "height": "346.25px",
-          "children": [
-            {
-              "type": "image",
-              "text": "Happy mother washing baby clothes in machine",
-              "width": "100%",
-              "height": "100%",
-              "style": {
-                "order": null,
-                "opacity": 1,
-                "animationName": "",
-                "animationDuration": "1s",
-                "shadow": "",
-                "borderWidth": 0,
-                "borderColor": "#000000",
-                "borderRadius": 0
-              },
-              "config": {
-                "src": "https://media-public.canva.com/Wrk-Q/MAEZ-7Wrk-Q/1/s.jpg"
-              },
-              "x": 0,
-              "y": 0,
-              "rotate": 1.7763582409779452e-15,
-              "id": "a1c4480c-77ec-4a11-95a0-2d61a026724c",
-              "frame": 0
-            }
-          ],
-          "style": {
-            "order": null,
-            "opacity": 1,
-            "animationName": "",
-            "animationDuration": "1s",
-            "shadow": "",
-            "background": "rgba(0, 0, 0, 0)"
-          },
-          "config": {
-            "name": "shape-circle",
-            "clipPath": "M500.002000008,250.00300001200003C500.002000008,388.0685522742091 388.0705522822091,500 250.001000004,500C111.92944771779086,500 0,388.0685522742091 0,250.00300001200003C0,111.93044772179088 111.92944771779086,0 250.001000004,0C388.07255229020916,0 500.002000008,111.93044772179088 500.002000008,250.00300001200003Z"
-          },
-          "tooltip": {
-            "enabled": false
-          },
-          "x": 264.836,
-          "y": 352.626,
-          "rotate": 1.7763582409779452e-15,
-          "id": "b0f1a5fd-4f7d-4385-aaf1-822cd7ebcde3"
-        },
-        {
-          "type": "image",
-          "text": "Image",
-          "width": "384.725px",
-          "height": "346.25px",
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": 0,
-            "borderWidth": 0,
-            "opacity": 1,
-            "shadow": ""
-          },
-          "config": {
-            "src": "blob:https://www.canva.com/07813c82-1c4d-46ac-9c56-5c418e3125fc"
-          },
-          "x": 259.562,
-          "y": 348.06,
-          "rotate": 0,
-          "id": "42109395-1c3a-4c03-a7af-5f34c3dfdfdd"
-        },
-        {
-          "type": "frame",
-          "text": "Frame undefined",
-          "width": "284.812px",
-          "height": "284.812px",
-          "children": [
-            {
-              "type": "image",
-              "text": "People Inside Laundry Facility",
-              "width": "100%",
-              "height": "100%",
-              "style": {
-                "order": null,
-                "opacity": 1,
-                "animationName": "",
-                "animationDuration": "1s",
-                "shadow": "",
-                "borderWidth": 0,
-                "borderColor": "#000000",
-                "borderRadius": 0
-              },
-              "config": {
-                "src": "https://media-public.canva.com/Z6YqA/MAE7afZ6YqA/1/s.jpg"
-              },
-              "x": 0,
-              "y": 0,
-              "rotate": 1.7763582409779452e-15,
-              "id": "683fa8d7-ef81-4ad6-ba9a-b7c723d0153b",
-              "frame": 0
-            }
-          ],
-          "style": {
-            "order": null,
-            "opacity": 1,
-            "animationName": "",
-            "animationDuration": "1s",
-            "shadow": "",
-            "background": "rgba(0, 0, 0, 0)"
-          },
-          "config": {
-            "name": "shape-circle",
-            "clipPath": "M500.002000008,250.00300001200003C500.002000008,388.0685522742091 388.0705522822091,500 250.001000004,500C111.92944771779086,500 0,388.0685522742091 0,250.00300001200003C0,111.93044772179088 111.92944771779086,0 250.001000004,0C388.07255229020916,0 500.002000008,111.93044772179088 500.002000008,250.00300001200003Z"
-          },
-          "tooltip": {
-            "enabled": false
-          },
-          "x": 508.326,
-          "y": 504.477,
-          "rotate": 1.7763582409779452e-15,
-          "id": "253e657b-2a4a-4dab-a181-1f302c33d79f"
-        },
-        {
-          "type": "image",
-          "text": "Image",
-          "width": "340.5px",
-          "height": "306.45px",
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": 0,
-            "borderWidth": 0,
-            "opacity": 1,
-            "shadow": ""
-          },
-          "config": {
-            "src": "blob:https://www.canva.com/07813c82-1c4d-46ac-9c56-5c418e3125fc"
-          },
-          "x": 488.836,
-          "y": 493.658,
-          "rotate": 0,
-          "id": "49885dca-1951-48f1-a9b8-ede9bbbb4f92"
+          "id": "331845d4-7d7e-482c-b4d3-457cd8e6aa5b"
         },
         {
           "type": "frame",
           "text": "Frame rectangle",
-          "width": "433.35px",
-          "height": "92.6875px",
+          "width": "841.825px",
+          "height": "67.325px",
           "children": [],
           "style": {
             "order": null,
@@ -259,25 +65,25 @@
             "animationName": "",
             "animationDuration": "1s",
             "shadow": "",
-            "background": "rgb(27, 27, 42)"
+            "background": "rgb(141, 110, 80)"
           },
           "config": {
-            "name": "shape-round-rectangle",
-            "clipPath": "M1044.4806402814215,0C1128.577692091308,0 1196.7518225576875,57.30755202165845 1196.7518225576875,128C1196.7518225576875,198.69244797834153 1128.577692091308,256 1044.4806402814215,256L152.27118227626588,256C68.17413046637924,256 0,198.6924479783416 0,128C0,57.30755202165848 68.17413046637921,0 152.27118227626588,0Z"
+            "name": "shape-rectangle",
+            "clipPath": "M0,0L3200.4850612310097,0L3200.4850612310097,256L0,256Z"
           },
           "tooltip": {
             "enabled": false
           },
-          "x": -72.8957,
-          "y": 675.339,
+          "x": -24.067,
+          "y": 190.067,
           "rotate": 0,
-          "id": "55340b5a-290f-43ac-8354-e935e8f5c939"
+          "id": "2be98bb2-58eb-47cd-a92a-a62a928a916c"
         },
         {
           "type": "frame",
-          "text": "Frame rectangle",
-          "width": "664.525px",
-          "height": "48.5px",
+          "text": "Frame hexagon",
+          "width": "395.987px",
+          "height": "340.3px",
           "children": [],
           "style": {
             "order": null,
@@ -285,52 +91,335 @@
             "animationName": "",
             "animationDuration": "1s",
             "shadow": "",
-            "background": "rgb(27, 27, 42)"
+            "background": "rgb(141, 110, 80)"
           },
           "config": {
-            "name": "shape-round-rectangle",
-            "clipPath": "M128.00000007195032,0L3378.841595979914,0C3449.5340438567964,0 3506.8415958555283,57.30755199873203 3506.8415958555283,128.00000007195032C3506.8415958555283,198.69244794883264 3449.5340438567964,255.99999994756465 3378.841595979914,255.99999994756465L128.00000007195032,255.99999994756465C57.30755199873203,255.99999994756465 0,198.69244794883264 0,128.00000007195032C0,57.30755199873203 57.30755199873203,0 128.00000007195032,0Z"
+            "name": "shape-hexagon",
+            "clipPath": "M297.8909090909091,128L223.4181818181818,256L74.47272727272727,256L0,128L74.47272727272727,0L223.4181818181818,0L297.8909090909091,128Z"
           },
           "tooltip": {
             "enabled": false
           },
-          "x": 64.5856,
-          "y": 993.134,
+          "x": 318.342,
+          "y": 49.8771,
           "rotate": 0,
-          "id": "0e1c1aee-a54c-4a16-9886-ed11e23705a8"
+          "id": "b0350531-6034-4d2d-9974-d4ce006a45a7"
         },
         {
-          "config": {
-            "name": "123-456-7890123 Anywhere St., Any City"
-          },
-          "height": "40.175px",
-          "id": "8d723b27-dc4f-49c1-a063-ae4ccb89adb1",
-          "rotate": 0,
+          "type": "frame",
+          "text": "Frame hexagon",
+          "width": "366.888px",
+          "height": "317.7px",
+          "children": [
+            {
+              "type": "image",
+              "text": "Living Room Interior with Wooden Floor",
+              "width": "100%",
+              "height": "100%",
+              "style": {
+                "order": null,
+                "opacity": 1,
+                "animationName": "",
+                "animationDuration": "1s",
+                "shadow": "",
+                "borderWidth": 0,
+                "borderColor": "#000000",
+                "borderRadius": 0
+              },
+              "config": {
+                "src": "https://media-public.canva.com/eCp0w/MAEGX7eCp0w/1/s.jpg"
+              },
+              "x": 0,
+              "y": 0,
+              "rotate": 0,
+              "id": "4b9ecaad-a421-474a-9a90-d565de95ac0e",
+              "frame": 0
+            }
+          ],
           "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "16.3532px",
-            "fontWeight": "400",
-            "letterSpacing": "normal",
-            "lineHeight": "22px",
+            "order": null,
             "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
             "shadow": "",
-            "textAlign": "left",
-            "textTransform": "none",
-            "listStyleType": "none"
+            "background": "rgba(0, 0, 0, 0)"
           },
-          "text": "123-456-7890123 Anywhere St., Any City",
-          "type": "text",
-          "width": "634.95px",
+          "config": {
+            "name": "shape-hexagon",
+            "clipPath": "M255,0L85,0L0,147.2123368920522L85,294.4246737841044L255,294.4246737841044L340,147.2123368920522Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 332.892,
+          "y": 61.1736,
+          "rotate": 0,
+          "id": "7c5b0548-77b2-4bf5-8016-45230eac4c5c"
+        },
+        {
+          "type": "frame",
+          "text": "Frame hexagon",
+          "width": "395.987px",
+          "height": "340.3px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgb(141, 110, 80)"
+          },
+          "config": {
+            "name": "shape-hexagon",
+            "clipPath": "M297.8909090909091,128L223.4181818181818,256L74.47272727272727,256L0,128L74.47272727272727,0L223.4181818181818,0L297.8909090909091,128Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 549.631,
+          "y": 393.886,
+          "rotate": 0,
+          "id": "b5352cc8-4bb2-4b2a-a1e2-9201e2e2ed20"
+        },
+        {
+          "type": "frame",
+          "text": "Frame hexagon",
+          "width": "366.888px",
+          "height": "317.7px",
+          "children": [
+            {
+              "type": "image",
+              "text": "Minimalist Cafe Interior Design",
+              "width": "100%",
+              "height": "100%",
+              "style": {
+                "order": null,
+                "opacity": 1,
+                "animationName": "",
+                "animationDuration": "1s",
+                "shadow": "",
+                "borderWidth": 0,
+                "borderColor": "#000000",
+                "borderRadius": 0
+              },
+              "config": {
+                "src": "https://media-public.canva.com/WLuJ0/MAEay_WLuJ0/1/s.jpg"
+              },
+              "x": 0,
+              "y": 0,
+              "rotate": 0,
+              "id": "0d6c4170-1bb4-4fa4-bdd5-52c33cf7d961",
+              "frame": 0
+            }
+          ],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-hexagon",
+            "clipPath": "M255,0L85,0L0,147.2123368920522L85,294.4246737841044L255,294.4246737841044L340,147.2123368920522Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 564.181,
+          "y": 405.183,
+          "rotate": 0,
+          "id": "529c2f07-aa84-4d0d-b49c-6cabcae7dd68"
+        },
+        {
+          "type": "frame",
+          "text": "Frame circle",
+          "width": "387.65px",
+          "height": "93.5625px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgb(141, 110, 80)"
+          },
+          "config": {
+            "name": "shape-circle",
+            "clipPath": "M127.99999997727666,0L932.6046003365617,0C966.5523110354848,0 999.1096118479807,13.485675526333738 1023.114268368637,37.49033204699008C1047.1189247875045,61.49498846585765 1060.6046003138383,94.0522892783535 1060.6046003138383,127.99999997727666C1060.6046003138383,161.94771067619982 1047.1189247875045,194.50501159048443 1023.114268368637,218.509668009352C999.1096118479807,242.51432442821957 966.5523110354848,256.0000000563421 932.6046003365617,255.99999995455332L127.99999997727666,255.99999995455332C94.0522892783535,256.0000000563421 61.49498846585765,242.51432442821957 37.49033204699008,218.509668009352C13.485675526333738,194.50501159048443 0,161.94771067619982 0,127.99999997727666C0,94.0522892783535 13.485675526333738,61.49498846585765 37.49033204699008,37.49033204699008C61.49498846585765,13.485675526333738 94.0522892783535,0 127.99999997727666,0Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 430.107,
+          "y": 1055.18,
+          "rotate": 0,
+          "id": "253d4473-5687-4287-a05a-ea92fa4b0782"
+        },
+        {
+          "type": "frame",
+          "text": "Frame circle",
+          "width": "545.225px",
+          "height": "67.325px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgb(141, 110, 80)"
+          },
+          "config": {
+            "name": "shape-circle",
+            "clipPath": "M128.0000000145872,0L1944.8396337599656,0C2015.5320816248282,0 2072.839633633108,57.30755200827966 2072.8396337745526,128.0000000145872C2072.839633633108,198.6924480208947 2015.5320816248282,256.0000000291744 1944.8396337599656,256.0000000291744L128.0000000145872,256.0000000291744C57.30755200827966,256.0000000291744 0,198.6924480208947 0,128.0000000145872C0,57.30755200827966 57.30755200827966,0 128.0000000145872,0Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": -33.0535,
+          "y": 1081.42,
+          "rotate": 0,
+          "id": "3d6402f5-a9f6-49b4-a58d-5c060ec791e0"
+        },
+        {
+          "type": "frame",
+          "text": "Frame hexagon",
+          "width": "395.987px",
+          "height": "340.3px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgb(141, 110, 80)"
+          },
+          "config": {
+            "name": "shape-hexagon",
+            "clipPath": "M297.8909090909091,128L223.4181818181818,256L74.47272727272727,256L0,128L74.47272727272727,0L223.4181818181818,0L297.8909090909091,128Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 549.631,
+          "y": 742.532,
+          "rotate": 0,
+          "id": "d0eef7e7-e74f-4fba-b1b8-dccaeb005694"
+        },
+        {
+          "type": "frame",
+          "text": "Frame hexagon",
+          "width": "366.888px",
+          "height": "317.7px",
+          "children": [
+            {
+              "type": "image",
+              "text": "Minimalist Interior ,Sofa Furniture and Plants, Modern Room Desi",
+              "width": "100%",
+              "height": "100%",
+              "style": {
+                "order": null,
+                "opacity": 1,
+                "animationName": "",
+                "animationDuration": "1s",
+                "shadow": "",
+                "borderWidth": 0,
+                "borderColor": "#000000",
+                "borderRadius": 0
+              },
+              "config": {
+                "src": "https://media-public.canva.com/nr1Ik/MAEuhGnr1Ik/1/s.jpg"
+              },
+              "x": 0,
+              "y": 0,
+              "rotate": 0,
+              "id": "0a935c85-657f-47a9-b28d-bf6af4e9b3c3",
+              "frame": 0
+            }
+          ],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgba(0, 0, 0, 0)"
+          },
+          "config": {
+            "name": "shape-hexagon",
+            "clipPath": "M255,0L85,0L0,147.2123368920522L85,294.4246737841044L255,294.4246737841044L340,147.2123368920522Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 564.181,
+          "y": 753.829,
+          "rotate": 0,
+          "id": "a56a4055-6d72-41bd-8542-0334d3c703b0"
+        },
+        {
+          "type": "frame",
+          "text": "Frame circle",
+          "width": "129.913px",
+          "height": "32.125px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgb(141, 110, 80)"
+          },
+          "config": {
+            "name": "shape-circle",
+            "clipPath": "M127.99999995010754,0L907.1567740401656,0C941.1044848939681,0 973.6617856942336,13.48567552266445 997.6664420809212,37.490331909352C1021.6710984676087,61.49498850004712 1035.1567741942806,94.05228930031255 1035.1567739902732,127.99999995010754C1035.1567741942806,161.94771080391007 1021.6710984676087,194.50501160417548 997.6664420809212,218.50966799086305C973.6617856942336,242.51432437755062 941.1044848939681,256.00000010422264 907.1567740401656,255.99999990021507L127.99999995010754,255.99999990021507C94.05228930031255,256.00000010422264 61.49498850004712,242.51432437755062 37.490331909352,218.50966799086305C13.48567552266445,194.50501160417548 0,161.94771080391007 0,127.99999995010754C0,94.05228930031255 13.48567552266445,61.49498850004712 37.490331909352,37.490331909352C61.49498850004712,13.48567552266445 94.05228930031255,0 127.99999995010754,0Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
           "x": 79.3701,
-          "y": 997.298
+          "y": 851.807,
+          "rotate": 0,
+          "id": "5a9ab075-284c-4703-9553-fb2a14ca3934"
+        },
+        {
+          "config": {
+            "name": "order now"
+          },
+          "height": "20.475px",
+          "id": "8ca11e10-886d-494a-983d-f4bca74eb250",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "24.9037px",
+            "fontWeight": "800",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "uppercase",
+            "listStyleType": "none"
+          },
+          "text": "order now",
+          "type": "text",
+          "width": "129.913px",
+          "x": 79.3701,
+          "y": 857.632
         },
         {
           "type": "image",
           "text": "Image",
-          "width": "26.1px",
-          "height": "26.1px",
+          "width": "25.45px",
+          "height": "25.45px",
           "style": {
             "animationDuration": "1s",
             "animationName": "",
@@ -341,45 +430,45 @@
             "shadow": ""
           },
           "config": {
-            "src": "blob:https://www.canva.com/8e9bf359-1af4-48ed-9b38-dbcc7a8b2838"
+            "src": "blob:https://www.canva.com/5608f57d-a96e-40de-ada6-bd351a70fc52"
           },
-          "x": 2.84217e-14,
-          "y": 7.10543e-15,
+          "x": 79.3701,
+          "y": 934.426,
           "rotate": 0,
-          "id": "fd1df323-9e40-4eb5-b5e5-94657c061e7a"
+          "id": "4515ad86-0b5b-49eb-9dac-4128bc821bdf"
         },
         {
           "config": {
-            "name": "123-456-7890"
+            "name": "www.reallygreatsite.com"
           },
-          "height": "18.725px",
-          "id": "3769db87-ee69-42c2-bee5-30b71cf88940",
+          "height": "25.45px",
+          "id": "9e3d3f30-1658-4f38-812b-831d436a4deb",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "16.3532px",
-            "fontWeight": "400",
+            "color": "rgb(22, 25, 10)",
+            "fontSize": "20.8345px",
+            "fontWeight": "500",
             "letterSpacing": "normal",
-            "lineHeight": "22px",
+            "lineHeight": "21px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
             "textTransform": "none",
             "listStyleType": "none"
           },
-          "text": "123-456-7890",
+          "text": "www.reallygreatsite.com",
           "type": "text",
-          "width": "113.025px",
-          "x": 33.1679,
-          "y": 3.68789
+          "width": "291.188px",
+          "x": 112.838,
+          "y": 934.426
         },
         {
           "type": "image",
           "text": "Image",
-          "width": "26.1px",
-          "height": "26.1px",
+          "width": "25.45px",
+          "height": "25.45px",
           "style": {
             "animationDuration": "1s",
             "animationName": "",
@@ -390,28 +479,28 @@
             "shadow": ""
           },
           "config": {
-            "src": "blob:https://www.canva.com/d03f76e6-b036-417f-b0f9-7785f4bc039a"
+            "src": "blob:https://www.canva.com/cfb01583-8431-4637-ba1b-c58ae577ede4"
           },
-          "x": 164.484,
-          "y": -3.19744e-14,
+          "x": 79.3701,
+          "y": 969.963,
           "rotate": 0,
-          "id": "b3558c08-a2bd-45aa-a8c2-d75758eb4ee1"
+          "id": "8dc3d850-f86d-4156-a2f9-5e85bc90e545"
         },
         {
           "config": {
             "name": "123 Anywhere St., Any City"
           },
-          "height": "18.725px",
-          "id": "b6033bd7-1053-4946-89e4-62b4932b7723",
+          "height": "25.45px",
+          "id": "213b91d0-ea39-48df-96d6-6401b11a25af",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(255, 255, 255)",
-            "fontSize": "16.3532px",
-            "fontWeight": "400",
+            "color": "rgb(22, 25, 10)",
+            "fontSize": "20.8345px",
+            "fontWeight": "500",
             "letterSpacing": "normal",
-            "lineHeight": "22px",
+            "lineHeight": "21px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
@@ -420,15 +509,15 @@
           },
           "text": "123 Anywhere St., Any City",
           "type": "text",
-          "width": "214.85px",
-          "x": 197.652,
-          "y": 3.68789
+          "width": "298.938px",
+          "x": 112.838,
+          "y": 969.963
         },
         {
           "type": "image",
           "text": "Image",
-          "width": "167.275px",
-          "height": "123.787px",
+          "width": "25.45px",
+          "height": "25.45px",
           "style": {
             "animationDuration": "1s",
             "animationName": "",
@@ -439,185 +528,230 @@
             "shadow": ""
           },
           "config": {
-            "src": "https://media-public.canva.com/_Il3A/MADWDV_Il3A/2/t.png"
+            "src": "blob:https://www.canva.com/454f59a5-ea7b-4591-ada1-be8bf3ba65fc"
           },
-          "x": 463.911,
-          "y": 804.715,
-          "rotate": 34.81735219459758,
-          "id": "d854108b-d19f-4c1c-8a7c-893f09423f46"
-        },
-        {
-          "type": "image",
-          "text": "Image",
-          "width": "164.387px",
-          "height": "41.0875px",
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "#000000",
-            "borderRadius": 0,
-            "borderWidth": 0,
-            "opacity": 1,
-            "shadow": ""
-          },
-          "config": {
-            "src": "blob:https://www.canva.com/72b9b840-007f-4980-ac13-1a78656571ef"
-          },
-          "x": 22.6116,
-          "y": 43.9396,
+          "x": 79.3701,
+          "y": 898.889,
           "rotate": 0,
-          "id": "0309cdb1-629a-4769-8a5b-8aaeb1294389"
+          "id": "e8724512-bdcb-4704-b0d3-c7dec6ffcafb"
         },
         {
           "config": {
-            "name": "laundry"
+            "name": "123-456-7890"
           },
-          "height": "91.9px",
-          "id": "1aca39b2-6116-497a-86d2-8ee8d01e6c89",
+          "height": "25.45px",
+          "id": "d5a352f5-1e00-4ae7-bc35-94e9811896cf",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(176, 224, 94)",
-            "fontSize": "47.1006px",
-            "fontWeight": "800",
-            "letterSpacing": "1.13041px",
-            "lineHeight": "65px",
+            "color": "rgb(22, 25, 10)",
+            "fontSize": "20.8345px",
+            "fontWeight": "500",
+            "letterSpacing": "normal",
+            "lineHeight": "21px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
-            "textTransform": "uppercase",
+            "textTransform": "none",
             "listStyleType": "none"
           },
-          "text": "laundry",
+          "text": "123-456-7890",
           "type": "text",
-          "width": "450.987px",
-          "x": 263.341,
-          "y": 76.7717
+          "width": "158.125px",
+          "x": 112.838,
+          "y": 898.889
+        },
+        {
+          "type": "image",
+          "text": "Image",
+          "width": "29.2125px",
+          "height": "37.275px",
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "#000000",
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "opacity": 1,
+            "shadow": ""
+          },
+          "config": {
+            "src": "blob:https://www.canva.com/130d24a2-1333-4b8b-868d-a35a6c0912eb"
+          },
+          "x": 79.3701,
+          "y": 352.895,
+          "rotate": 0,
+          "id": "4c0dea4f-ef66-4188-affd-8d851ef693dd"
         },
         {
           "config": {
-            "name": "service"
+            "name": "Minimalist Interior Design"
           },
-          "height": "92.1125px",
-          "id": "f0e779bb-0f19-47cc-9df0-5589455d8216",
+          "height": "191.137px",
+          "id": "edbabca5-f0c1-4589-a612-8fe64c457d2a",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(176, 224, 94)",
+            "color": "rgb(55, 41, 27)",
             "fontSize": "42.6667px",
-            "fontWeight": "800",
+            "fontWeight": "600",
             "letterSpacing": "normal",
-            "lineHeight": "59px",
+            "lineHeight": "44px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
             "textTransform": "uppercase",
             "listStyleType": "none"
           },
-          "text": "service",
+          "text": "Minimalist Interior Design",
           "type": "text",
-          "width": "374.987px",
-          "x": 339.34,
-          "y": 145.315
+          "width": "382.1px",
+          "x": 79.3701,
+          "y": 386.659
         },
         {
           "config": {
-            "name": "list",
-            "texts": [
-              "Wash, Fold and Press",
-              "Leather Cleaning",
-              "Steam Cleaning",
-              "Stain Removal"
-            ],
-            "type": "text"
+            "name": "Rimberio"
           },
-          "height": "33.975px",
-          "id": "24df64a6-b3a5-4388-936c-2210e02e67b4",
+          "height": "29.3625px",
+          "id": "93eff153-44cb-4437-8a93-50af01514c4e",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
-            "color": "rgb(27, 27, 42)",
-            "fontSize": "17.2446px",
-            "fontWeight": "500",
+            "color": "rgb(55, 41, 27)",
+            "fontSize": "20.8345px",
+            "fontWeight": "600",
             "letterSpacing": "normal",
-            "lineHeight": "24px",
-            "opacity": 1,
-            "oder": null,
-            "shadow": "",
-            "textAlign": "left",
-            "textTransform": "none",
-            "listStyleType": "disc"
-          },
-          "text": "List",
-          "type": "text",
-          "width": "360.4px",
-          "x": 83.1375,
-          "y": 783.127
-        },
-        {
-          "config": {
-            "name": "Our Services"
-          },
-          "height": "47.1875px",
-          "id": "bc7c65b5-85a8-4bf5-b443-ac38d319f5d9",
-          "rotate": 0,
-          "style": {
-            "animationDuration": "1s",
-            "animationName": "",
-            "color": "rgb(176, 224, 94)",
-            "fontSize": "25.9486px",
-            "fontWeight": "500",
-            "letterSpacing": "normal",
-            "lineHeight": "36px",
+            "lineHeight": "21px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
             "textTransform": "none",
             "listStyleType": "none"
           },
-          "text": "Our Services",
+          "text": "Rimberio",
           "type": "text",
-          "width": "263.8px",
-          "x": 90.454,
-          "y": 698.094
+          "width": "168px",
+          "x": 114.863,
+          "y": 356.851
         },
         {
           "config": {
-            "name": "Get Disc Up To 30% Off"
+            "name": "Complete your home with a minimalist interior. Get it now only at our official store."
           },
-          "height": "32.575px",
-          "id": "50ba45ab-28b7-4c80-99c7-dbf6d4058f4b",
+          "height": "130.275px",
+          "id": "2a608bf2-075e-4a93-8482-8e8021ea3fc8",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(55, 41, 27)",
+            "fontSize": "20.8345px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "26px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "none",
+            "listStyleType": "none"
+          },
+          "text": "Complete your home with a minimalist interior. Get it now only at our official store.",
+          "type": "text",
+          "width": "374.325px",
+          "x": 79.3701,
+          "y": 601.267
+        },
+        {
+          "type": "frame",
+          "text": "Frame circle",
+          "width": "180.425px",
+          "height": "61.6875px",
+          "children": [],
+          "style": {
+            "order": null,
+            "opacity": 1,
+            "animationName": "",
+            "animationDuration": "1s",
+            "shadow": "",
+            "background": "rgb(141, 110, 80)"
+          },
+          "config": {
+            "name": "shape-circle",
+            "clipPath": "M16.59809319702471,0L732.0847864798047,0C741.2516601201664,0 748.6828795188403,7.4312193986739015 748.6828796768294,16.59809319702471L748.6828796768294,239.40190681346095C748.6828795188403,248.56878061181175 741.2516601201664,256.0000000104857 732.0847864798047,256.0000000104857L16.59809319702471,256.0000000104857C7.4312193986739015,256.0000000104857 0,248.56878061181175 0,239.40190681346095L0,16.59809319702471C0,7.4312193986739015 7.4312193986739015,0 16.59809319702471,0Z"
+          },
+          "tooltip": {
+            "enabled": false
+          },
+          "x": 396.85,
+          "y": 786.733,
+          "rotate": 0,
+          "id": "ff8c6590-46a3-4c43-860d-c146d31e95fc"
+        },
+        {
+          "config": {
+            "name": "Price Starting From"
+          },
+          "height": "17.1125px",
+          "id": "4028052d-3a67-4f7c-9baf-68e7af2d6eaf",
           "rotate": 0,
           "style": {
             "animationDuration": "1s",
             "animationName": "",
             "color": "rgb(255, 255, 255)",
-            "fontSize": "17.4609px",
+            "fontSize": "14.1485px",
             "fontWeight": "400",
-            "letterSpacing": "0.261913px",
-            "lineHeight": "24px",
+            "letterSpacing": "normal",
+            "lineHeight": "18px",
             "opacity": 1,
             "shadow": "",
             "textAlign": "left",
-            "textTransform": "uppercase",
+            "textTransform": "none",
             "listStyleType": "none"
           },
-          "text": "Get Disc Up To 30% Off",
+          "text": "Price Starting From",
           "type": "text",
-          "width": "366.15px",
-          "x": 348.187,
-          "y": 223.599
+          "width": "145.012px",
+          "x": 419.618,
+          "y": 790.635
+        },
+        {
+          "config": {
+            "name": "$ 1.200.00"
+          },
+          "height": "36.4375px",
+          "id": "e0ae4690-534a-4bd5-b238-2a4ba1b79470",
+          "rotate": 0,
+          "style": {
+            "animationDuration": "1s",
+            "animationName": "",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "25.2696px",
+            "fontWeight": "500",
+            "letterSpacing": "normal",
+            "lineHeight": "32px",
+            "opacity": 1,
+            "shadow": "",
+            "textAlign": "left",
+            "textTransform": "none",
+            "listStyleType": "none"
+          },
+          "text": "$ 1.200.00",
+          "type": "text",
+          "width": "155.137px",
+          "x": 409.493,
+          "y": 807.401
         }
       ],
       "height": "1122.51px",
       "width": "793.7px",
-      "id": "3731b701-a900-4509-b09d-33c6e2b43514",
+      "id": "dfbf76b0-3553-41ca-91c7-e657614c42e8",
       "title": "Untitled",
       "style": {
-        "background": "rgb(27, 27, 42)"
+        "background": "rgb(236, 224, 215)"
       }
     }
   ]

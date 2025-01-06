@@ -85,9 +85,11 @@ function createImageStructure(data) {
 }
 
 function createFrameStructure(data, children) {
+  console.log(determineShape(data.clipPath.path));
+  
   return {
     type: "frame",
-    text: `Frame ${determineShape(data.clipPath.path).split("-")[1]}`,
+    text: `Frame ${determineShape(data.clipPath.path)}`,
     width: `${data.width}` || 300,
     height: `${data.height}` || 300,
     children: children? [
